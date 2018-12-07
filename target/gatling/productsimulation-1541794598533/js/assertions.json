@@ -1,0 +1,10 @@
+{
+  "simulation": "br.com.gpa.api.simulation.ProductSimulation",
+  "simulationId": "productsimulation",
+  "start": 1541794598533,
+  "description": "null",
+  "scenarios": ["Live Price"],
+  "assertions": [
+
+  ]
+}
