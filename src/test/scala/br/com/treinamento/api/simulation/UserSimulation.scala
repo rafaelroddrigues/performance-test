@@ -26,6 +26,4 @@ class UserSimulation extends Simulation {
 
   setUp(userCompleteCrud.inject(rampUsers(1) over (5 seconds))).protocols(httpProtocol)
 
-  //clean test -Dgatling.simulationClass=br.com.treinamento.api.simulation.UserSimulation
-
 }
