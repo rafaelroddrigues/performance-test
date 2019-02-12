@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<project version="4">
-  <component name="HydraSettings">
-    <option name="hydraStorePath" value="C:\Users\rafael.rodrigues\Documents\Visual Studio 2017\Projects\performance-test-gpa\.hydra\idea" />
-    <option name="noOfCores" value="2" />
-    <option name="projectRoot" value="C:\Users\rafael.rodrigues\Documents\Visual Studio 2017\Projects\performance-test-gpa" />
-    <option name="sourcePartitioner" value="auto" />
-  </component>
-</project>

@@ -4,7 +4,7 @@ output mode:
 0 -> single
 output directories:
 1 items
-output dir -> C:\Users\rafael.rodrigues\Documents\Visual Studio 2017\Projects\performance-test-gpa\target\test-classes
+output dir -> C:\PersonalProjects\performance-test\target\test-classes
 compile options:
 8 items
 0 -> -encoding
@@ -28,39 +28,41 @@ name hashing:
 0 -> true
 products:
 12 items
-C:\Users\rafael.rodrigues\Documents\Visual Studio 2017\Projects\performance-test-gpa\src\test\scala\br\com\gpa\api\Products.scala -> C:\Users\rafael.rodrigues\Documents\Visual Studio 2017\Projects\performance-test-gpa\target\test-classes\br\com\lojasrenner\portal\api\Products$.class
-C:\Users\rafael.rodrigues\Documents\Visual Studio 2017\Projects\performance-test-gpa\src\test\scala\br\com\gpa\api\Products.scala -> C:\Users\rafael.rodrigues\Documents\Visual Studio 2017\Projects\performance-test-gpa\target\test-classes\br\com\lojasrenner\portal\api\Products.class
-C:\Users\rafael.rodrigues\Documents\Visual Studio 2017\Projects\performance-test-gpa\src\test\scala\br\com\gpa\api\simulation\ProductSimulation.scala -> C:\Users\rafael.rodrigues\Documents\Visual Studio 2017\Projects\performance-test-gpa\target\test-classes\br\com\gpa\api\simulation\ProductSimulation.class
-C:\Users\rafael.rodrigues\Documents\Visual Studio 2017\Projects\performance-test-gpa\src\test\scala\br\com\gpa\header\Header.scala -> C:\Users\rafael.rodrigues\Documents\Visual Studio 2017\Projects\performance-test-gpa\target\test-classes\br\com\gpa\header\Header$.class
-C:\Users\rafael.rodrigues\Documents\Visual Studio 2017\Projects\performance-test-gpa\src\test\scala\br\com\gpa\header\Header.scala -> C:\Users\rafael.rodrigues\Documents\Visual Studio 2017\Projects\performance-test-gpa\target\test-classes\br\com\gpa\header\Header.class
-C:\Users\rafael.rodrigues\Documents\Visual Studio 2017\Projects\performance-test-gpa\src\test\scala\br\com\gpa\utils\Config.scala -> C:\Users\rafael.rodrigues\Documents\Visual Studio 2017\Projects\performance-test-gpa\target\test-classes\br\com\gpa\utils\Config$.class
-C:\Users\rafael.rodrigues\Documents\Visual Studio 2017\Projects\performance-test-gpa\src\test\scala\br\com\gpa\utils\Config.scala -> C:\Users\rafael.rodrigues\Documents\Visual Studio 2017\Projects\performance-test-gpa\target\test-classes\br\com\gpa\utils\Config.class
-C:\Users\rafael.rodrigues\Documents\Visual Studio 2017\Projects\performance-test-gpa\src\test\scala\Engine.scala -> C:\Users\rafael.rodrigues\Documents\Visual Studio 2017\Projects\performance-test-gpa\target\test-classes\Engine$.class
-C:\Users\rafael.rodrigues\Documents\Visual Studio 2017\Projects\performance-test-gpa\src\test\scala\Engine.scala -> C:\Users\rafael.rodrigues\Documents\Visual Studio 2017\Projects\performance-test-gpa\target\test-classes\Engine$delayedInit$body.class
-C:\Users\rafael.rodrigues\Documents\Visual Studio 2017\Projects\performance-test-gpa\src\test\scala\Engine.scala -> C:\Users\rafael.rodrigues\Documents\Visual Studio 2017\Projects\performance-test-gpa\target\test-classes\Engine.class
-C:\Users\rafael.rodrigues\Documents\Visual Studio 2017\Projects\performance-test-gpa\src\test\scala\IDEPathHelper.scala -> C:\Users\rafael.rodrigues\Documents\Visual Studio 2017\Projects\performance-test-gpa\target\test-classes\IDEPathHelper$.class
-C:\Users\rafael.rodrigues\Documents\Visual Studio 2017\Projects\performance-test-gpa\src\test\scala\IDEPathHelper.scala -> C:\Users\rafael.rodrigues\Documents\Visual Studio 2017\Projects\performance-test-gpa\target\test-classes\IDEPathHelper.class
+C:\PersonalProjects\performance-test\src\test\scala\br\com\treinamento\api\simulation\UserSimulation.scala -> C:\PersonalProjects\performance-test\target\test-classes\br\com\treinamento\api\simulation\UserSimulation.class
+C:\PersonalProjects\performance-test\src\test\scala\br\com\treinamento\api\User.scala -> C:\PersonalProjects\performance-test\target\test-classes\br\com\treinamento\portal\api\User$.class
+C:\PersonalProjects\performance-test\src\test\scala\br\com\treinamento\api\User.scala -> C:\PersonalProjects\performance-test\target\test-classes\br\com\treinamento\portal\api\User.class
+C:\PersonalProjects\performance-test\src\test\scala\br\com\treinamento\header\Header.scala -> C:\PersonalProjects\performance-test\target\test-classes\br\com\treinamento\header\Header$.class
+C:\PersonalProjects\performance-test\src\test\scala\br\com\treinamento\header\Header.scala -> C:\PersonalProjects\performance-test\target\test-classes\br\com\treinamento\header\Header.class
+C:\PersonalProjects\performance-test\src\test\scala\br\com\treinamento\utils\Config.scala -> C:\PersonalProjects\performance-test\target\test-classes\br\com\treinamento\utils\Config$.class
+C:\PersonalProjects\performance-test\src\test\scala\br\com\treinamento\utils\Config.scala -> C:\PersonalProjects\performance-test\target\test-classes\br\com\treinamento\utils\Config.class
+C:\PersonalProjects\performance-test\src\test\scala\Engine.scala -> C:\PersonalProjects\performance-test\target\test-classes\Engine$.class
+C:\PersonalProjects\performance-test\src\test\scala\Engine.scala -> C:\PersonalProjects\performance-test\target\test-classes\Engine$delayedInit$body.class
+C:\PersonalProjects\performance-test\src\test\scala\Engine.scala -> C:\PersonalProjects\performance-test\target\test-classes\Engine.class
+C:\PersonalProjects\performance-test\src\test\scala\IDEPathHelper.scala -> C:\PersonalProjects\performance-test\target\test-classes\IDEPathHelper$.class
+C:\PersonalProjects\performance-test\src\test\scala\IDEPathHelper.scala -> C:\PersonalProjects\performance-test\target\test-classes\IDEPathHelper.class
 binary dependencies:
-19 items
-C:\Users\rafael.rodrigues\Documents\Visual Studio 2017\Projects\performance-test-gpa\src\test\scala\br\com\gpa\api\Products.scala -> C:\Progra~1\Java\jdk1.8.0_161\jre\lib\rt.jar
-C:\Users\rafael.rodrigues\Documents\Visual Studio 2017\Projects\performance-test-gpa\src\test\scala\br\com\gpa\api\Products.scala -> C:\Users\rafael.rodrigues\.m2\repository\io\gatling\gatling-commons\2.2.4\gatling-commons-2.2.4.jar
-C:\Users\rafael.rodrigues\Documents\Visual Studio 2017\Projects\performance-test-gpa\src\test\scala\br\com\gpa\api\Products.scala -> C:\Users\rafael.rodrigues\.m2\repository\io\gatling\gatling-core\2.2.4\gatling-core-2.2.4.jar
-C:\Users\rafael.rodrigues\Documents\Visual Studio 2017\Projects\performance-test-gpa\src\test\scala\br\com\gpa\api\Products.scala -> C:\Users\rafael.rodrigues\.m2\repository\io\gatling\gatling-http\2.2.4\gatling-http-2.2.4.jar
-C:\Users\rafael.rodrigues\Documents\Visual Studio 2017\Projects\performance-test-gpa\src\test\scala\br\com\gpa\api\Products.scala -> C:\Users\rafael.rodrigues\.m2\repository\org\scala-lang\scala-library\2.11.11\scala-library-2.11.11.jar
-C:\Users\rafael.rodrigues\Documents\Visual Studio 2017\Projects\performance-test-gpa\src\test\scala\br\com\gpa\api\simulation\ProductSimulation.scala -> C:\Users\rafael.rodrigues\.m2\repository\io\gatling\gatling-core\2.2.4\gatling-core-2.2.4.jar
-C:\Users\rafael.rodrigues\Documents\Visual Studio 2017\Projects\performance-test-gpa\src\test\scala\br\com\gpa\api\simulation\ProductSimulation.scala -> C:\Users\rafael.rodrigues\.m2\repository\io\gatling\gatling-http\2.2.4\gatling-http-2.2.4.jar
-C:\Users\rafael.rodrigues\Documents\Visual Studio 2017\Projects\performance-test-gpa\src\test\scala\br\com\gpa\api\simulation\ProductSimulation.scala -> C:\Users\rafael.rodrigues\.m2\repository\org\scala-lang\scala-library\2.11.11\scala-library-2.11.11.jar
-C:\Users\rafael.rodrigues\Documents\Visual Studio 2017\Projects\performance-test-gpa\src\test\scala\br\com\gpa\header\Header.scala -> C:\Progra~1\Java\jdk1.8.0_161\jre\lib\rt.jar
-C:\Users\rafael.rodrigues\Documents\Visual Studio 2017\Projects\performance-test-gpa\src\test\scala\br\com\gpa\header\Header.scala -> C:\Users\rafael.rodrigues\.m2\repository\org\scala-lang\scala-library\2.11.11\scala-library-2.11.11.jar
-C:\Users\rafael.rodrigues\Documents\Visual Studio 2017\Projects\performance-test-gpa\src\test\scala\br\com\gpa\utils\Config.scala -> C:\Progra~1\Java\jdk1.8.0_161\jre\lib\rt.jar
-C:\Users\rafael.rodrigues\Documents\Visual Studio 2017\Projects\performance-test-gpa\src\test\scala\br\com\gpa\utils\Config.scala -> C:\Users\rafael.rodrigues\.m2\repository\org\scala-lang\scala-library\2.11.11\scala-library-2.11.11.jar
-C:\Users\rafael.rodrigues\Documents\Visual Studio 2017\Projects\performance-test-gpa\src\test\scala\Engine.scala -> C:\Progra~1\Java\jdk1.8.0_161\jre\lib\rt.jar
-C:\Users\rafael.rodrigues\Documents\Visual Studio 2017\Projects\performance-test-gpa\src\test\scala\Engine.scala -> C:\Users\rafael.rodrigues\.m2\repository\io\gatling\gatling-app\2.2.4\gatling-app-2.2.4.jar
-C:\Users\rafael.rodrigues\Documents\Visual Studio 2017\Projects\performance-test-gpa\src\test\scala\Engine.scala -> C:\Users\rafael.rodrigues\.m2\repository\io\gatling\gatling-core\2.2.4\gatling-core-2.2.4.jar
-C:\Users\rafael.rodrigues\Documents\Visual Studio 2017\Projects\performance-test-gpa\src\test\scala\Engine.scala -> C:\Users\rafael.rodrigues\.m2\repository\org\scala-lang\scala-library\2.11.11\scala-library-2.11.11.jar
-C:\Users\rafael.rodrigues\Documents\Visual Studio 2017\Projects\performance-test-gpa\src\test\scala\IDEPathHelper.scala -> C:\Progra~1\Java\jdk1.8.0_161\jre\lib\rt.jar
-C:\Users\rafael.rodrigues\Documents\Visual Studio 2017\Projects\performance-test-gpa\src\test\scala\IDEPathHelper.scala -> C:\Users\rafael.rodrigues\.m2\repository\io\gatling\gatling-commons\2.2.4\gatling-commons-2.2.4.jar
-C:\Users\rafael.rodrigues\Documents\Visual Studio 2017\Projects\performance-test-gpa\src\test\scala\IDEPathHelper.scala -> C:\Users\rafael.rodrigues\.m2\repository\org\scala-lang\scala-library\2.11.11\scala-library-2.11.11.jar
+21 items
+C:\PersonalProjects\performance-test\src\test\scala\br\com\treinamento\api\simulation\UserSimulation.scala -> C:\Progra~1\Java\jdk1.8.0_191\jre\lib\rt.jar
+C:\PersonalProjects\performance-test\src\test\scala\br\com\treinamento\api\simulation\UserSimulation.scala -> C:\Users\rafael.rodrigues\.m2\repository\io\gatling\gatling-commons\2.2.4\gatling-commons-2.2.4.jar
+C:\PersonalProjects\performance-test\src\test\scala\br\com\treinamento\api\simulation\UserSimulation.scala -> C:\Users\rafael.rodrigues\.m2\repository\io\gatling\gatling-core\2.2.4\gatling-core-2.2.4.jar
+C:\PersonalProjects\performance-test\src\test\scala\br\com\treinamento\api\simulation\UserSimulation.scala -> C:\Users\rafael.rodrigues\.m2\repository\io\gatling\gatling-http\2.2.4\gatling-http-2.2.4.jar
+C:\PersonalProjects\performance-test\src\test\scala\br\com\treinamento\api\simulation\UserSimulation.scala -> C:\Users\rafael.rodrigues\.m2\repository\org\scala-lang\scala-library\2.11.11\scala-library-2.11.11.jar
+C:\PersonalProjects\performance-test\src\test\scala\br\com\treinamento\api\User.scala -> C:\Progra~1\Java\jdk1.8.0_191\jre\lib\rt.jar
+C:\PersonalProjects\performance-test\src\test\scala\br\com\treinamento\api\User.scala -> C:\Users\rafael.rodrigues\.m2\repository\io\gatling\gatling-commons\2.2.4\gatling-commons-2.2.4.jar
+C:\PersonalProjects\performance-test\src\test\scala\br\com\treinamento\api\User.scala -> C:\Users\rafael.rodrigues\.m2\repository\io\gatling\gatling-core\2.2.4\gatling-core-2.2.4.jar
+C:\PersonalProjects\performance-test\src\test\scala\br\com\treinamento\api\User.scala -> C:\Users\rafael.rodrigues\.m2\repository\io\gatling\gatling-http\2.2.4\gatling-http-2.2.4.jar
+C:\PersonalProjects\performance-test\src\test\scala\br\com\treinamento\api\User.scala -> C:\Users\rafael.rodrigues\.m2\repository\org\scala-lang\scala-library\2.11.11\scala-library-2.11.11.jar
+C:\PersonalProjects\performance-test\src\test\scala\br\com\treinamento\header\Header.scala -> C:\Progra~1\Java\jdk1.8.0_191\jre\lib\rt.jar
+C:\PersonalProjects\performance-test\src\test\scala\br\com\treinamento\header\Header.scala -> C:\Users\rafael.rodrigues\.m2\repository\org\scala-lang\scala-library\2.11.11\scala-library-2.11.11.jar
+C:\PersonalProjects\performance-test\src\test\scala\br\com\treinamento\utils\Config.scala -> C:\Progra~1\Java\jdk1.8.0_191\jre\lib\rt.jar
+C:\PersonalProjects\performance-test\src\test\scala\br\com\treinamento\utils\Config.scala -> C:\Users\rafael.rodrigues\.m2\repository\org\scala-lang\scala-library\2.11.11\scala-library-2.11.11.jar
+C:\PersonalProjects\performance-test\src\test\scala\Engine.scala -> C:\Progra~1\Java\jdk1.8.0_191\jre\lib\rt.jar
+C:\PersonalProjects\performance-test\src\test\scala\Engine.scala -> C:\Users\rafael.rodrigues\.m2\repository\io\gatling\gatling-app\2.2.4\gatling-app-2.2.4.jar
+C:\PersonalProjects\performance-test\src\test\scala\Engine.scala -> C:\Users\rafael.rodrigues\.m2\repository\io\gatling\gatling-core\2.2.4\gatling-core-2.2.4.jar
+C:\PersonalProjects\performance-test\src\test\scala\Engine.scala -> C:\Users\rafael.rodrigues\.m2\repository\org\scala-lang\scala-library\2.11.11\scala-library-2.11.11.jar
+C:\PersonalProjects\performance-test\src\test\scala\IDEPathHelper.scala -> C:\Progra~1\Java\jdk1.8.0_191\jre\lib\rt.jar
+C:\PersonalProjects\performance-test\src\test\scala\IDEPathHelper.scala -> C:\Users\rafael.rodrigues\.m2\repository\io\gatling\gatling-commons\2.2.4\gatling-commons-2.2.4.jar
+C:\PersonalProjects\performance-test\src\test\scala\IDEPathHelper.scala -> C:\Users\rafael.rodrigues\.m2\repository\org\scala-lang\scala-library\2.11.11\scala-library-2.11.11.jar
 direct source dependencies:
 0 items
 direct external dependencies:
@@ -71,10 +73,10 @@ public inherited external dependencies:
 0 items
 member reference internal dependencies:
 4 items
-C:\Users\rafael.rodrigues\Documents\Visual Studio 2017\Projects\performance-test-gpa\src\test\scala\br\com\gpa\api\Products.scala -> C:\Users\rafael.rodrigues\Documents\Visual Studio 2017\Projects\performance-test-gpa\src\test\scala\br\com\gpa\header\Header.scala
-C:\Users\rafael.rodrigues\Documents\Visual Studio 2017\Projects\performance-test-gpa\src\test\scala\br\com\gpa\api\simulation\ProductSimulation.scala -> C:\Users\rafael.rodrigues\Documents\Visual Studio 2017\Projects\performance-test-gpa\src\test\scala\br\com\gpa\api\Products.scala
-C:\Users\rafael.rodrigues\Documents\Visual Studio 2017\Projects\performance-test-gpa\src\test\scala\br\com\gpa\api\simulation\ProductSimulation.scala -> C:\Users\rafael.rodrigues\Documents\Visual Studio 2017\Projects\performance-test-gpa\src\test\scala\br\com\gpa\utils\Config.scala
-C:\Users\rafael.rodrigues\Documents\Visual Studio 2017\Projects\performance-test-gpa\src\test\scala\Engine.scala -> C:\Users\rafael.rodrigues\Documents\Visual Studio 2017\Projects\performance-test-gpa\src\test\scala\IDEPathHelper.scala
+C:\PersonalProjects\performance-test\src\test\scala\br\com\treinamento\api\simulation\UserSimulation.scala -> C:\PersonalProjects\performance-test\src\test\scala\br\com\treinamento\api\User.scala
+C:\PersonalProjects\performance-test\src\test\scala\br\com\treinamento\api\simulation\UserSimulation.scala -> C:\PersonalProjects\performance-test\src\test\scala\br\com\treinamento\utils\Config.scala
+C:\PersonalProjects\performance-test\src\test\scala\br\com\treinamento\api\User.scala -> C:\PersonalProjects\performance-test\src\test\scala\br\com\treinamento\header\Header.scala
+C:\PersonalProjects\performance-test\src\test\scala\Engine.scala -> C:\PersonalProjects\performance-test\src\test\scala\IDEPathHelper.scala
 member reference external dependencies:
 0 items
 inheritance internal dependencies:
@@ -83,293 +85,333 @@ inheritance external dependencies:
 0 items
 class names:
 12 items
-C:\Users\rafael.rodrigues\Documents\Visual Studio 2017\Projects\performance-test-gpa\src\test\scala\br\com\gpa\api\Products.scala -> br.com.lojasrenner.portal.api.Products
-C:\Users\rafael.rodrigues\Documents\Visual Studio 2017\Projects\performance-test-gpa\src\test\scala\br\com\gpa\api\Products.scala -> br.com.lojasrenner.portal.api.Products$
-C:\Users\rafael.rodrigues\Documents\Visual Studio 2017\Projects\performance-test-gpa\src\test\scala\br\com\gpa\api\simulation\ProductSimulation.scala -> br.com.gpa.api.simulation.ProductSimulation
-C:\Users\rafael.rodrigues\Documents\Visual Studio 2017\Projects\performance-test-gpa\src\test\scala\br\com\gpa\header\Header.scala -> br.com.gpa.header.Header
-C:\Users\rafael.rodrigues\Documents\Visual Studio 2017\Projects\performance-test-gpa\src\test\scala\br\com\gpa\header\Header.scala -> br.com.gpa.header.Header$
-C:\Users\rafael.rodrigues\Documents\Visual Studio 2017\Projects\performance-test-gpa\src\test\scala\br\com\gpa\utils\Config.scala -> br.com.gpa.utils.Config
-C:\Users\rafael.rodrigues\Documents\Visual Studio 2017\Projects\performance-test-gpa\src\test\scala\br\com\gpa\utils\Config.scala -> br.com.gpa.utils.Config$
-C:\Users\rafael.rodrigues\Documents\Visual Studio 2017\Projects\performance-test-gpa\src\test\scala\Engine.scala -> Engine
-C:\Users\rafael.rodrigues\Documents\Visual Studio 2017\Projects\performance-test-gpa\src\test\scala\Engine.scala -> Engine$
-C:\Users\rafael.rodrigues\Documents\Visual Studio 2017\Projects\performance-test-gpa\src\test\scala\Engine.scala -> Engine$delayedInit$body
-C:\Users\rafael.rodrigues\Documents\Visual Studio 2017\Projects\performance-test-gpa\src\test\scala\IDEPathHelper.scala -> IDEPathHelper
-C:\Users\rafael.rodrigues\Documents\Visual Studio 2017\Projects\performance-test-gpa\src\test\scala\IDEPathHelper.scala -> IDEPathHelper$
+C:\PersonalProjects\performance-test\src\test\scala\br\com\treinamento\api\simulation\UserSimulation.scala -> br.com.treinamento.api.simulation.UserSimulation
+C:\PersonalProjects\performance-test\src\test\scala\br\com\treinamento\api\User.scala -> br.com.treinamento.portal.api.User
+C:\PersonalProjects\performance-test\src\test\scala\br\com\treinamento\api\User.scala -> br.com.treinamento.portal.api.User$
+C:\PersonalProjects\performance-test\src\test\scala\br\com\treinamento\header\Header.scala -> br.com.treinamento.header.Header
+C:\PersonalProjects\performance-test\src\test\scala\br\com\treinamento\header\Header.scala -> br.com.treinamento.header.Header$
+C:\PersonalProjects\performance-test\src\test\scala\br\com\treinamento\utils\Config.scala -> br.com.treinamento.utils.Config
+C:\PersonalProjects\performance-test\src\test\scala\br\com\treinamento\utils\Config.scala -> br.com.treinamento.utils.Config$
+C:\PersonalProjects\performance-test\src\test\scala\Engine.scala -> Engine
+C:\PersonalProjects\performance-test\src\test\scala\Engine.scala -> Engine$
+C:\PersonalProjects\performance-test\src\test\scala\Engine.scala -> Engine$delayedInit$body
+C:\PersonalProjects\performance-test\src\test\scala\IDEPathHelper.scala -> IDEPathHelper
+C:\PersonalProjects\performance-test\src\test\scala\IDEPathHelper.scala -> IDEPathHelper$
 used names:
-248 items
-C:\Users\rafael.rodrigues\Documents\Visual Studio 2017\Projects\performance-test-gpa\src\test\scala\br\com\gpa\api\Products.scala -> <init>
-C:\Users\rafael.rodrigues\Documents\Visual Studio 2017\Projects\performance-test-gpa\src\test\scala\br\com\gpa\api\Products.scala -> <refinement>
-C:\Users\rafael.rodrigues\Documents\Visual Studio 2017\Projects\performance-test-gpa\src\test\scala\br\com\gpa\api\Products.scala -> <repeated>
-C:\Users\rafael.rodrigues\Documents\Visual Studio 2017\Projects\performance-test-gpa\src\test\scala\br\com\gpa\api\Products.scala -> A
-C:\Users\rafael.rodrigues\Documents\Visual Studio 2017\Projects\performance-test-gpa\src\test\scala\br\com\gpa\api\Products.scala -> ActionBuilder
-C:\Users\rafael.rodrigues\Documents\Visual Studio 2017\Projects\performance-test-gpa\src\test\scala\br\com\gpa\api\Products.scala -> Any
-C:\Users\rafael.rodrigues\Documents\Visual Studio 2017\Projects\performance-test-gpa\src\test\scala\br\com\gpa\api\Products.scala -> AnyRef
-C:\Users\rafael.rodrigues\Documents\Visual Studio 2017\Projects\performance-test-gpa\src\test\scala\br\com\gpa\api\Products.scala -> Body
-C:\Users\rafael.rodrigues\Documents\Visual Studio 2017\Projects\performance-test-gpa\src\test\scala\br\com\gpa\api\Products.scala -> C
-C:\Users\rafael.rodrigues\Documents\Visual Studio 2017\Projects\performance-test-gpa\src\test\scala\br\com\gpa\api\Products.scala -> ChainBuilder
-C:\Users\rafael.rodrigues\Documents\Visual Studio 2017\Projects\performance-test-gpa\src\test\scala\br\com\gpa\api\Products.scala -> Check
-C:\Users\rafael.rodrigues\Documents\Visual Studio 2017\Projects\performance-test-gpa\src\test\scala\br\com\gpa\api\Products.scala -> CheckBuilder
-C:\Users\rafael.rodrigues\Documents\Visual Studio 2017\Projects\performance-test-gpa\src\test\scala\br\com\gpa\api\Products.scala -> Class
-C:\Users\rafael.rodrigues\Documents\Visual Studio 2017\Projects\performance-test-gpa\src\test\scala\br\com\gpa\api\Products.scala -> ClassTag
-C:\Users\rafael.rodrigues\Documents\Visual Studio 2017\Projects\performance-test-gpa\src\test\scala\br\com\gpa\api\Products.scala -> CompositeByteArrayBody
-C:\Users\rafael.rodrigues\Documents\Visual Studio 2017\Projects\performance-test-gpa\src\test\scala\br\com\gpa\api\Products.scala -> DefaultFindCheckBuilder
-C:\Users\rafael.rodrigues\Documents\Visual Studio 2017\Projects\performance-test-gpa\src\test\scala\br\com\gpa\api\Products.scala -> ElFileBodies
-C:\Users\rafael.rodrigues\Documents\Visual Studio 2017\Projects\performance-test-gpa\src\test\scala\br\com\gpa\api\Products.scala -> ElFileBody
-C:\Users\rafael.rodrigues\Documents\Visual Studio 2017\Projects\performance-test-gpa\src\test\scala\br\com\gpa\api\Products.scala -> Exclude
-C:\Users\rafael.rodrigues\Documents\Visual Studio 2017\Projects\performance-test-gpa\src\test\scala\br\com\gpa\api\Products.scala -> Expression
-C:\Users\rafael.rodrigues\Documents\Visual Studio 2017\Projects\performance-test-gpa\src\test\scala\br\com\gpa\api\Products.scala -> FindCheckBuilder
-C:\Users\rafael.rodrigues\Documents\Visual Studio 2017\Projects\performance-test-gpa\src\test\scala\br\com\gpa\api\Products.scala -> GatlingConfiguration
-C:\Users\rafael.rodrigues\Documents\Visual Studio 2017\Projects\performance-test-gpa\src\test\scala\br\com\gpa\api\Products.scala -> Header
-C:\Users\rafael.rodrigues\Documents\Visual Studio 2017\Projects\performance-test-gpa\src\test\scala\br\com\gpa\api\Products.scala -> Http
-C:\Users\rafael.rodrigues\Documents\Visual Studio 2017\Projects\performance-test-gpa\src\test\scala\br\com\gpa\api\Products.scala -> HttpCheck
-C:\Users\rafael.rodrigues\Documents\Visual Studio 2017\Projects\performance-test-gpa\src\test\scala\br\com\gpa\api\Products.scala -> HttpRequestActionBuilder
-C:\Users\rafael.rodrigues\Documents\Visual Studio 2017\Projects\performance-test-gpa\src\test\scala\br\com\gpa\api\Products.scala -> HttpRequestBuilder
-C:\Users\rafael.rodrigues\Documents\Visual Studio 2017\Projects\performance-test-gpa\src\test\scala\br\com\gpa\api\Products.scala -> Int
-C:\Users\rafael.rodrigues\Documents\Visual Studio 2017\Projects\performance-test-gpa\src\test\scala\br\com\gpa\api\Products.scala -> Map
-C:\Users\rafael.rodrigues\Documents\Visual Studio 2017\Projects\performance-test-gpa\src\test\scala\br\com\gpa\api\Products.scala -> NOT_FOR_USER_CODE
-C:\Users\rafael.rodrigues\Documents\Visual Studio 2017\Projects\performance-test-gpa\src\test\scala\br\com\gpa\api\Products.scala -> NonValidable
-C:\Users\rafael.rodrigues\Documents\Visual Studio 2017\Projects\performance-test-gpa\src\test\scala\br\com\gpa\api\Products.scala -> Nothing
-C:\Users\rafael.rodrigues\Documents\Visual Studio 2017\Projects\performance-test-gpa\src\test\scala\br\com\gpa\api\Products.scala -> Object
-C:\Users\rafael.rodrigues\Documents\Visual Studio 2017\Projects\performance-test-gpa\src\test\scala\br\com\gpa\api\Products.scala -> P
-C:\Users\rafael.rodrigues\Documents\Visual Studio 2017\Projects\performance-test-gpa\src\test\scala\br\com\gpa\api\Products.scala -> Predef
-C:\Users\rafael.rodrigues\Documents\Visual Studio 2017\Projects\performance-test-gpa\src\test\scala\br\com\gpa\api\Products.scala -> Products
-C:\Users\rafael.rodrigues\Documents\Visual Studio 2017\Projects\performance-test-gpa\src\test\scala\br\com\gpa\api\Products.scala -> R
-C:\Users\rafael.rodrigues\Documents\Visual Studio 2017\Projects\performance-test-gpa\src\test\scala\br\com\gpa\api\Products.scala -> Response
-C:\Users\rafael.rodrigues\Documents\Visual Studio 2017\Projects\performance-test-gpa\src\test\scala\br\com\gpa\api\Products.scala -> SaveAs
-C:\Users\rafael.rodrigues\Documents\Visual Studio 2017\Projects\performance-test-gpa\src\test\scala\br\com\gpa\api\Products.scala -> String
-C:\Users\rafael.rodrigues\Documents\Visual Studio 2017\Projects\performance-test-gpa\src\test\scala\br\com\gpa\api\Products.scala -> StringCaster
-C:\Users\rafael.rodrigues\Documents\Visual Studio 2017\Projects\performance-test-gpa\src\test\scala\br\com\gpa\api\Products.scala -> T
-C:\Users\rafael.rodrigues\Documents\Visual Studio 2017\Projects\performance-test-gpa\src\test\scala\br\com\gpa\api\Products.scala -> TypeCaster
-C:\Users\rafael.rodrigues\Documents\Visual Studio 2017\Projects\performance-test-gpa\src\test\scala\br\com\gpa\api\Products.scala -> ValidatorCheckBuilder
-C:\Users\rafael.rodrigues\Documents\Visual Studio 2017\Projects\performance-test-gpa\src\test\scala\br\com\gpa\api\Products.scala -> X
-C:\Users\rafael.rodrigues\Documents\Visual Studio 2017\Projects\performance-test-gpa\src\test\scala\br\com\gpa\api\Products.scala -> _$7
-C:\Users\rafael.rodrigues\Documents\Visual Studio 2017\Projects\performance-test-gpa\src\test\scala\br\com\gpa\api\Products.scala -> api
-C:\Users\rafael.rodrigues\Documents\Visual Studio 2017\Projects\performance-test-gpa\src\test\scala\br\com\gpa\api\Products.scala -> apply
-C:\Users\rafael.rodrigues\Documents\Visual Studio 2017\Projects\performance-test-gpa\src\test\scala\br\com\gpa\api\Products.scala -> body
-C:\Users\rafael.rodrigues\Documents\Visual Studio 2017\Projects\performance-test-gpa\src\test\scala\br\com\gpa\api\Products.scala -> br
-C:\Users\rafael.rodrigues\Documents\Visual Studio 2017\Projects\performance-test-gpa\src\test\scala\br\com\gpa\api\Products.scala -> builder
-C:\Users\rafael.rodrigues\Documents\Visual Studio 2017\Projects\performance-test-gpa\src\test\scala\br\com\gpa\api\Products.scala -> check
-C:\Users\rafael.rodrigues\Documents\Visual Studio 2017\Projects\performance-test-gpa\src\test\scala\br\com\gpa\api\Products.scala -> checkBuilder2Check
-C:\Users\rafael.rodrigues\Documents\Visual Studio 2017\Projects\performance-test-gpa\src\test\scala\br\com\gpa\api\Products.scala -> com
-C:\Users\rafael.rodrigues\Documents\Visual Studio 2017\Projects\performance-test-gpa\src\test\scala\br\com\gpa\api\Products.scala -> commons
-C:\Users\rafael.rodrigues\Documents\Visual Studio 2017\Projects\performance-test-gpa\src\test\scala\br\com\gpa\api\Products.scala -> configuration
-C:\Users\rafael.rodrigues\Documents\Visual Studio 2017\Projects\performance-test-gpa\src\test\scala\br\com\gpa\api\Products.scala -> core
-C:\Users\rafael.rodrigues\Documents\Visual Studio 2017\Projects\performance-test-gpa\src\test\scala\br\com\gpa\api\Products.scala -> elFileBodies
-C:\Users\rafael.rodrigues\Documents\Visual Studio 2017\Projects\performance-test-gpa\src\test\scala\br\com\gpa\api\Products.scala -> exec
-C:\Users\rafael.rodrigues\Documents\Visual Studio 2017\Projects\performance-test-gpa\src\test\scala\br\com\gpa\api\Products.scala -> findCheckBuilder2ValidatorCheckBuilder
-C:\Users\rafael.rodrigues\Documents\Visual Studio 2017\Projects\performance-test-gpa\src\test\scala\br\com\gpa\api\Products.scala -> gatling
-C:\Users\rafael.rodrigues\Documents\Visual Studio 2017\Projects\performance-test-gpa\src\test\scala\br\com\gpa\api\Products.scala -> gpa
-C:\Users\rafael.rodrigues\Documents\Visual Studio 2017\Projects\performance-test-gpa\src\test\scala\br\com\gpa\api\Products.scala -> header
-C:\Users\rafael.rodrigues\Documents\Visual Studio 2017\Projects\performance-test-gpa\src\test\scala\br\com\gpa\api\Products.scala -> header_live_price
-C:\Users\rafael.rodrigues\Documents\Visual Studio 2017\Projects\performance-test-gpa\src\test\scala\br\com\gpa\api\Products.scala -> header_sku_live_price
-C:\Users\rafael.rodrigues\Documents\Visual Studio 2017\Projects\performance-test-gpa\src\test\scala\br\com\gpa\api\Products.scala -> headers
-C:\Users\rafael.rodrigues\Documents\Visual Studio 2017\Projects\performance-test-gpa\src\test\scala\br\com\gpa\api\Products.scala -> http
-C:\Users\rafael.rodrigues\Documents\Visual Studio 2017\Projects\performance-test-gpa\src\test\scala\br\com\gpa\api\Products.scala -> io
-C:\Users\rafael.rodrigues\Documents\Visual Studio 2017\Projects\performance-test-gpa\src\test\scala\br\com\gpa\api\Products.scala -> is
-C:\Users\rafael.rodrigues\Documents\Visual Studio 2017\Projects\performance-test-gpa\src\test\scala\br\com\gpa\api\Products.scala -> livePrice
-C:\Users\rafael.rodrigues\Documents\Visual Studio 2017\Projects\performance-test-gpa\src\test\scala\br\com\gpa\api\Products.scala -> lojasrenner
-C:\Users\rafael.rodrigues\Documents\Visual Studio 2017\Projects\performance-test-gpa\src\test\scala\br\com\gpa\api\Products.scala -> materializeClassTag
-C:\Users\rafael.rodrigues\Documents\Visual Studio 2017\Projects\performance-test-gpa\src\test\scala\br\com\gpa\api\Products.scala -> package
-C:\Users\rafael.rodrigues\Documents\Visual Studio 2017\Projects\performance-test-gpa\src\test\scala\br\com\gpa\api\Products.scala -> portal
-C:\Users\rafael.rodrigues\Documents\Visual Studio 2017\Projects\performance-test-gpa\src\test\scala\br\com\gpa\api\Products.scala -> post
-C:\Users\rafael.rodrigues\Documents\Visual Studio 2017\Projects\performance-test-gpa\src\test\scala\br\com\gpa\api\Products.scala -> scala
-C:\Users\rafael.rodrigues\Documents\Visual Studio 2017\Projects\performance-test-gpa\src\test\scala\br\com\gpa\api\Products.scala -> skuLivePrice
-C:\Users\rafael.rodrigues\Documents\Visual Studio 2017\Projects\performance-test-gpa\src\test\scala\br\com\gpa\api\Products.scala -> status
-C:\Users\rafael.rodrigues\Documents\Visual Studio 2017\Projects\performance-test-gpa\src\test\scala\br\com\gpa\api\Products.scala -> stringToExpression
-C:\Users\rafael.rodrigues\Documents\Visual Studio 2017\Projects\performance-test-gpa\src\test\scala\br\com\gpa\api\Products.scala -> toActionBuilder
-C:\Users\rafael.rodrigues\Documents\Visual Studio 2017\Projects\performance-test-gpa\src\test\scala\br\com\gpa\api\Products.scala -> util
-C:\Users\rafael.rodrigues\Documents\Visual Studio 2017\Projects\performance-test-gpa\src\test\scala\br\com\gpa\api\Products.scala -> value2Expression
-C:\Users\rafael.rodrigues\Documents\Visual Studio 2017\Projects\performance-test-gpa\src\test\scala\br\com\gpa\api\simulation\ProductSimulation.scala -> <init>
-C:\Users\rafael.rodrigues\Documents\Visual Studio 2017\Projects\performance-test-gpa\src\test\scala\br\com\gpa\api\simulation\ProductSimulation.scala -> <repeated>
-C:\Users\rafael.rodrigues\Documents\Visual Studio 2017\Projects\performance-test-gpa\src\test\scala\br\com\gpa\api\simulation\ProductSimulation.scala -> ChainBuilder
-C:\Users\rafael.rodrigues\Documents\Visual Studio 2017\Projects\performance-test-gpa\src\test\scala\br\com\gpa\api\simulation\ProductSimulation.scala -> Config
-C:\Users\rafael.rodrigues\Documents\Visual Studio 2017\Projects\performance-test-gpa\src\test\scala\br\com\gpa\api\simulation\ProductSimulation.scala -> DurationInt
-C:\Users\rafael.rodrigues\Documents\Visual Studio 2017\Projects\performance-test-gpa\src\test\scala\br\com\gpa\api\simulation\ProductSimulation.scala -> FiniteDuration
-C:\Users\rafael.rodrigues\Documents\Visual Studio 2017\Projects\performance-test-gpa\src\test\scala\br\com\gpa\api\simulation\ProductSimulation.scala -> GatlingConfiguration
-C:\Users\rafael.rodrigues\Documents\Visual Studio 2017\Projects\performance-test-gpa\src\test\scala\br\com\gpa\api\simulation\ProductSimulation.scala -> HttpProtocol
-C:\Users\rafael.rodrigues\Documents\Visual Studio 2017\Projects\performance-test-gpa\src\test\scala\br\com\gpa\api\simulation\ProductSimulation.scala -> HttpProtocolBuilder
-C:\Users\rafael.rodrigues\Documents\Visual Studio 2017\Projects\performance-test-gpa\src\test\scala\br\com\gpa\api\simulation\ProductSimulation.scala -> InjectionStep
-C:\Users\rafael.rodrigues\Documents\Visual Studio 2017\Projects\performance-test-gpa\src\test\scala\br\com\gpa\api\simulation\ProductSimulation.scala -> Int
-C:\Users\rafael.rodrigues\Documents\Visual Studio 2017\Projects\performance-test-gpa\src\test\scala\br\com\gpa\api\simulation\ProductSimulation.scala -> PopulationBuilder
-C:\Users\rafael.rodrigues\Documents\Visual Studio 2017\Projects\performance-test-gpa\src\test\scala\br\com\gpa\api\simulation\ProductSimulation.scala -> Predef
-C:\Users\rafael.rodrigues\Documents\Visual Studio 2017\Projects\performance-test-gpa\src\test\scala\br\com\gpa\api\simulation\ProductSimulation.scala -> ProductSimulation
-C:\Users\rafael.rodrigues\Documents\Visual Studio 2017\Projects\performance-test-gpa\src\test\scala\br\com\gpa\api\simulation\ProductSimulation.scala -> Products
-C:\Users\rafael.rodrigues\Documents\Visual Studio 2017\Projects\performance-test-gpa\src\test\scala\br\com\gpa\api\simulation\ProductSimulation.scala -> Protocol
-C:\Users\rafael.rodrigues\Documents\Visual Studio 2017\Projects\performance-test-gpa\src\test\scala\br\com\gpa\api\simulation\ProductSimulation.scala -> RampBuilder
-C:\Users\rafael.rodrigues\Documents\Visual Studio 2017\Projects\performance-test-gpa\src\test\scala\br\com\gpa\api\simulation\ProductSimulation.scala -> RampInjection
-C:\Users\rafael.rodrigues\Documents\Visual Studio 2017\Projects\performance-test-gpa\src\test\scala\br\com\gpa\api\simulation\ProductSimulation.scala -> ScenarioBuilder
-C:\Users\rafael.rodrigues\Documents\Visual Studio 2017\Projects\performance-test-gpa\src\test\scala\br\com\gpa\api\simulation\ProductSimulation.scala -> SetUp
-C:\Users\rafael.rodrigues\Documents\Visual Studio 2017\Projects\performance-test-gpa\src\test\scala\br\com\gpa\api\simulation\ProductSimulation.scala -> Simulation
-C:\Users\rafael.rodrigues\Documents\Visual Studio 2017\Projects\performance-test-gpa\src\test\scala\br\com\gpa\api\simulation\ProductSimulation.scala -> String
-C:\Users\rafael.rodrigues\Documents\Visual Studio 2017\Projects\performance-test-gpa\src\test\scala\br\com\gpa\api\simulation\ProductSimulation.scala -> api
-C:\Users\rafael.rodrigues\Documents\Visual Studio 2017\Projects\performance-test-gpa\src\test\scala\br\com\gpa\api\simulation\ProductSimulation.scala -> baseURL
-C:\Users\rafael.rodrigues\Documents\Visual Studio 2017\Projects\performance-test-gpa\src\test\scala\br\com\gpa\api\simulation\ProductSimulation.scala -> br
-C:\Users\rafael.rodrigues\Documents\Visual Studio 2017\Projects\performance-test-gpa\src\test\scala\br\com\gpa\api\simulation\ProductSimulation.scala -> com
-C:\Users\rafael.rodrigues\Documents\Visual Studio 2017\Projects\performance-test-gpa\src\test\scala\br\com\gpa\api\simulation\ProductSimulation.scala -> concurrent
-C:\Users\rafael.rodrigues\Documents\Visual Studio 2017\Projects\performance-test-gpa\src\test\scala\br\com\gpa\api\simulation\ProductSimulation.scala -> configuration
-C:\Users\rafael.rodrigues\Documents\Visual Studio 2017\Projects\performance-test-gpa\src\test\scala\br\com\gpa\api\simulation\ProductSimulation.scala -> core
-C:\Users\rafael.rodrigues\Documents\Visual Studio 2017\Projects\performance-test-gpa\src\test\scala\br\com\gpa\api\simulation\ProductSimulation.scala -> duration
-C:\Users\rafael.rodrigues\Documents\Visual Studio 2017\Projects\performance-test-gpa\src\test\scala\br\com\gpa\api\simulation\ProductSimulation.scala -> exec
-C:\Users\rafael.rodrigues\Documents\Visual Studio 2017\Projects\performance-test-gpa\src\test\scala\br\com\gpa\api\simulation\ProductSimulation.scala -> gatling
-C:\Users\rafael.rodrigues\Documents\Visual Studio 2017\Projects\performance-test-gpa\src\test\scala\br\com\gpa\api\simulation\ProductSimulation.scala -> gpa
-C:\Users\rafael.rodrigues\Documents\Visual Studio 2017\Projects\performance-test-gpa\src\test\scala\br\com\gpa\api\simulation\ProductSimulation.scala -> http
-C:\Users\rafael.rodrigues\Documents\Visual Studio 2017\Projects\performance-test-gpa\src\test\scala\br\com\gpa\api\simulation\ProductSimulation.scala -> httpProtocol
-C:\Users\rafael.rodrigues\Documents\Visual Studio 2017\Projects\performance-test-gpa\src\test\scala\br\com\gpa\api\simulation\ProductSimulation.scala -> inject
-C:\Users\rafael.rodrigues\Documents\Visual Studio 2017\Projects\performance-test-gpa\src\test\scala\br\com\gpa\api\simulation\ProductSimulation.scala -> io
-C:\Users\rafael.rodrigues\Documents\Visual Studio 2017\Projects\performance-test-gpa\src\test\scala\br\com\gpa\api\simulation\ProductSimulation.scala -> livePrice
-C:\Users\rafael.rodrigues\Documents\Visual Studio 2017\Projects\performance-test-gpa\src\test\scala\br\com\gpa\api\simulation\ProductSimulation.scala -> lojasrenner
-C:\Users\rafael.rodrigues\Documents\Visual Studio 2017\Projects\performance-test-gpa\src\test\scala\br\com\gpa\api\simulation\ProductSimulation.scala -> over
-C:\Users\rafael.rodrigues\Documents\Visual Studio 2017\Projects\performance-test-gpa\src\test\scala\br\com\gpa\api\simulation\ProductSimulation.scala -> package
-C:\Users\rafael.rodrigues\Documents\Visual Studio 2017\Projects\performance-test-gpa\src\test\scala\br\com\gpa\api\simulation\ProductSimulation.scala -> portal
-C:\Users\rafael.rodrigues\Documents\Visual Studio 2017\Projects\performance-test-gpa\src\test\scala\br\com\gpa\api\simulation\ProductSimulation.scala -> protocol
-C:\Users\rafael.rodrigues\Documents\Visual Studio 2017\Projects\performance-test-gpa\src\test\scala\br\com\gpa\api\simulation\ProductSimulation.scala -> protocols
-C:\Users\rafael.rodrigues\Documents\Visual Studio 2017\Projects\performance-test-gpa\src\test\scala\br\com\gpa\api\simulation\ProductSimulation.scala -> rampUsers
-C:\Users\rafael.rodrigues\Documents\Visual Studio 2017\Projects\performance-test-gpa\src\test\scala\br\com\gpa\api\simulation\ProductSimulation.scala -> scala
-C:\Users\rafael.rodrigues\Documents\Visual Studio 2017\Projects\performance-test-gpa\src\test\scala\br\com\gpa\api\simulation\ProductSimulation.scala -> scenario
-C:\Users\rafael.rodrigues\Documents\Visual Studio 2017\Projects\performance-test-gpa\src\test\scala\br\com\gpa\api\simulation\ProductSimulation.scala -> scenarioLivePrice
-C:\Users\rafael.rodrigues\Documents\Visual Studio 2017\Projects\performance-test-gpa\src\test\scala\br\com\gpa\api\simulation\ProductSimulation.scala -> scenarioSkuLivePrice
-C:\Users\rafael.rodrigues\Documents\Visual Studio 2017\Projects\performance-test-gpa\src\test\scala\br\com\gpa\api\simulation\ProductSimulation.scala -> seconds
-C:\Users\rafael.rodrigues\Documents\Visual Studio 2017\Projects\performance-test-gpa\src\test\scala\br\com\gpa\api\simulation\ProductSimulation.scala -> setUp
-C:\Users\rafael.rodrigues\Documents\Visual Studio 2017\Projects\performance-test-gpa\src\test\scala\br\com\gpa\api\simulation\ProductSimulation.scala -> simulation
-C:\Users\rafael.rodrigues\Documents\Visual Studio 2017\Projects\performance-test-gpa\src\test\scala\br\com\gpa\api\simulation\ProductSimulation.scala -> skuLivePrice
-C:\Users\rafael.rodrigues\Documents\Visual Studio 2017\Projects\performance-test-gpa\src\test\scala\br\com\gpa\api\simulation\ProductSimulation.scala -> toHttpProtocol
-C:\Users\rafael.rodrigues\Documents\Visual Studio 2017\Projects\performance-test-gpa\src\test\scala\br\com\gpa\api\simulation\ProductSimulation.scala -> urlApiPrefixo
-C:\Users\rafael.rodrigues\Documents\Visual Studio 2017\Projects\performance-test-gpa\src\test\scala\br\com\gpa\api\simulation\ProductSimulation.scala -> utils
-C:\Users\rafael.rodrigues\Documents\Visual Studio 2017\Projects\performance-test-gpa\src\test\scala\br\com\gpa\header\Header.scala -> ->
-C:\Users\rafael.rodrigues\Documents\Visual Studio 2017\Projects\performance-test-gpa\src\test\scala\br\com\gpa\header\Header.scala -> <init>
-C:\Users\rafael.rodrigues\Documents\Visual Studio 2017\Projects\performance-test-gpa\src\test\scala\br\com\gpa\header\Header.scala -> <repeated>
-C:\Users\rafael.rodrigues\Documents\Visual Studio 2017\Projects\performance-test-gpa\src\test\scala\br\com\gpa\header\Header.scala -> A
-C:\Users\rafael.rodrigues\Documents\Visual Studio 2017\Projects\performance-test-gpa\src\test\scala\br\com\gpa\header\Header.scala -> Any
-C:\Users\rafael.rodrigues\Documents\Visual Studio 2017\Projects\performance-test-gpa\src\test\scala\br\com\gpa\header\Header.scala -> AnyRef
-C:\Users\rafael.rodrigues\Documents\Visual Studio 2017\Projects\performance-test-gpa\src\test\scala\br\com\gpa\header\Header.scala -> ArrowAssoc
-C:\Users\rafael.rodrigues\Documents\Visual Studio 2017\Projects\performance-test-gpa\src\test\scala\br\com\gpa\header\Header.scala -> B
-C:\Users\rafael.rodrigues\Documents\Visual Studio 2017\Projects\performance-test-gpa\src\test\scala\br\com\gpa\header\Header.scala -> Header
-C:\Users\rafael.rodrigues\Documents\Visual Studio 2017\Projects\performance-test-gpa\src\test\scala\br\com\gpa\header\Header.scala -> Map
-C:\Users\rafael.rodrigues\Documents\Visual Studio 2017\Projects\performance-test-gpa\src\test\scala\br\com\gpa\header\Header.scala -> Nothing
-C:\Users\rafael.rodrigues\Documents\Visual Studio 2017\Projects\performance-test-gpa\src\test\scala\br\com\gpa\header\Header.scala -> Object
-C:\Users\rafael.rodrigues\Documents\Visual Studio 2017\Projects\performance-test-gpa\src\test\scala\br\com\gpa\header\Header.scala -> Predef
-C:\Users\rafael.rodrigues\Documents\Visual Studio 2017\Projects\performance-test-gpa\src\test\scala\br\com\gpa\header\Header.scala -> String
-C:\Users\rafael.rodrigues\Documents\Visual Studio 2017\Projects\performance-test-gpa\src\test\scala\br\com\gpa\header\Header.scala -> Tuple2
-C:\Users\rafael.rodrigues\Documents\Visual Studio 2017\Projects\performance-test-gpa\src\test\scala\br\com\gpa\header\Header.scala -> apply
-C:\Users\rafael.rodrigues\Documents\Visual Studio 2017\Projects\performance-test-gpa\src\test\scala\br\com\gpa\header\Header.scala -> br
-C:\Users\rafael.rodrigues\Documents\Visual Studio 2017\Projects\performance-test-gpa\src\test\scala\br\com\gpa\header\Header.scala -> com
-C:\Users\rafael.rodrigues\Documents\Visual Studio 2017\Projects\performance-test-gpa\src\test\scala\br\com\gpa\header\Header.scala -> gpa
-C:\Users\rafael.rodrigues\Documents\Visual Studio 2017\Projects\performance-test-gpa\src\test\scala\br\com\gpa\header\Header.scala -> header
-C:\Users\rafael.rodrigues\Documents\Visual Studio 2017\Projects\performance-test-gpa\src\test\scala\br\com\gpa\header\Header.scala -> header_live_price
-C:\Users\rafael.rodrigues\Documents\Visual Studio 2017\Projects\performance-test-gpa\src\test\scala\br\com\gpa\header\Header.scala -> header_sku_live_price
-C:\Users\rafael.rodrigues\Documents\Visual Studio 2017\Projects\performance-test-gpa\src\test\scala\br\com\gpa\header\Header.scala -> scala
-C:\Users\rafael.rodrigues\Documents\Visual Studio 2017\Projects\performance-test-gpa\src\test\scala\br\com\gpa\utils\Config.scala -> <init>
-C:\Users\rafael.rodrigues\Documents\Visual Studio 2017\Projects\performance-test-gpa\src\test\scala\br\com\gpa\utils\Config.scala -> AnyRef
-C:\Users\rafael.rodrigues\Documents\Visual Studio 2017\Projects\performance-test-gpa\src\test\scala\br\com\gpa\utils\Config.scala -> Config
-C:\Users\rafael.rodrigues\Documents\Visual Studio 2017\Projects\performance-test-gpa\src\test\scala\br\com\gpa\utils\Config.scala -> Object
-C:\Users\rafael.rodrigues\Documents\Visual Studio 2017\Projects\performance-test-gpa\src\test\scala\br\com\gpa\utils\Config.scala -> Predef
-C:\Users\rafael.rodrigues\Documents\Visual Studio 2017\Projects\performance-test-gpa\src\test\scala\br\com\gpa\utils\Config.scala -> String
-C:\Users\rafael.rodrigues\Documents\Visual Studio 2017\Projects\performance-test-gpa\src\test\scala\br\com\gpa\utils\Config.scala -> System
-C:\Users\rafael.rodrigues\Documents\Visual Studio 2017\Projects\performance-test-gpa\src\test\scala\br\com\gpa\utils\Config.scala -> br
-C:\Users\rafael.rodrigues\Documents\Visual Studio 2017\Projects\performance-test-gpa\src\test\scala\br\com\gpa\utils\Config.scala -> com
-C:\Users\rafael.rodrigues\Documents\Visual Studio 2017\Projects\performance-test-gpa\src\test\scala\br\com\gpa\utils\Config.scala -> getProperty
-C:\Users\rafael.rodrigues\Documents\Visual Studio 2017\Projects\performance-test-gpa\src\test\scala\br\com\gpa\utils\Config.scala -> gpa
-C:\Users\rafael.rodrigues\Documents\Visual Studio 2017\Projects\performance-test-gpa\src\test\scala\br\com\gpa\utils\Config.scala -> java
-C:\Users\rafael.rodrigues\Documents\Visual Studio 2017\Projects\performance-test-gpa\src\test\scala\br\com\gpa\utils\Config.scala -> lang
-C:\Users\rafael.rodrigues\Documents\Visual Studio 2017\Projects\performance-test-gpa\src\test\scala\br\com\gpa\utils\Config.scala -> scala
-C:\Users\rafael.rodrigues\Documents\Visual Studio 2017\Projects\performance-test-gpa\src\test\scala\br\com\gpa\utils\Config.scala -> urlApiPrefixo
-C:\Users\rafael.rodrigues\Documents\Visual Studio 2017\Projects\performance-test-gpa\src\test\scala\br\com\gpa\utils\Config.scala -> utils
-C:\Users\rafael.rodrigues\Documents\Visual Studio 2017\Projects\performance-test-gpa\src\test\scala\Engine.scala -> <init>
-C:\Users\rafael.rodrigues\Documents\Visual Studio 2017\Projects\performance-test-gpa\src\test\scala\Engine.scala -> Any
-C:\Users\rafael.rodrigues\Documents\Visual Studio 2017\Projects\performance-test-gpa\src\test\scala\Engine.scala -> App
-C:\Users\rafael.rodrigues\Documents\Visual Studio 2017\Projects\performance-test-gpa\src\test\scala\Engine.scala -> ConfigOverrides
-C:\Users\rafael.rodrigues\Documents\Visual Studio 2017\Projects\performance-test-gpa\src\test\scala\Engine.scala -> Engine
-C:\Users\rafael.rodrigues\Documents\Visual Studio 2017\Projects\performance-test-gpa\src\test\scala\Engine.scala -> Gatling
-C:\Users\rafael.rodrigues\Documents\Visual Studio 2017\Projects\performance-test-gpa\src\test\scala\Engine.scala -> GatlingPropertiesBuilder
-C:\Users\rafael.rodrigues\Documents\Visual Studio 2017\Projects\performance-test-gpa\src\test\scala\Engine.scala -> IDEPathHelper
-C:\Users\rafael.rodrigues\Documents\Visual Studio 2017\Projects\performance-test-gpa\src\test\scala\Engine.scala -> Int
-C:\Users\rafael.rodrigues\Documents\Visual Studio 2017\Projects\performance-test-gpa\src\test\scala\Engine.scala -> Map
-C:\Users\rafael.rodrigues\Documents\Visual Studio 2017\Projects\performance-test-gpa\src\test\scala\Engine.scala -> Object
-C:\Users\rafael.rodrigues\Documents\Visual Studio 2017\Projects\performance-test-gpa\src\test\scala\Engine.scala -> Path
-C:\Users\rafael.rodrigues\Documents\Visual Studio 2017\Projects\performance-test-gpa\src\test\scala\Engine.scala -> Predef
-C:\Users\rafael.rodrigues\Documents\Visual Studio 2017\Projects\performance-test-gpa\src\test\scala\Engine.scala -> String
-C:\Users\rafael.rodrigues\Documents\Visual Studio 2017\Projects\performance-test-gpa\src\test\scala\Engine.scala -> Unit
-C:\Users\rafael.rodrigues\Documents\Visual Studio 2017\Projects\performance-test-gpa\src\test\scala\Engine.scala -> app
-C:\Users\rafael.rodrigues\Documents\Visual Studio 2017\Projects\performance-test-gpa\src\test\scala\Engine.scala -> binariesDirectory
-C:\Users\rafael.rodrigues\Documents\Visual Studio 2017\Projects\performance-test-gpa\src\test\scala\Engine.scala -> bodiesDirectory
-C:\Users\rafael.rodrigues\Documents\Visual Studio 2017\Projects\performance-test-gpa\src\test\scala\Engine.scala -> build
-C:\Users\rafael.rodrigues\Documents\Visual Studio 2017\Projects\performance-test-gpa\src\test\scala\Engine.scala -> config
-C:\Users\rafael.rodrigues\Documents\Visual Studio 2017\Projects\performance-test-gpa\src\test\scala\Engine.scala -> core
-C:\Users\rafael.rodrigues\Documents\Visual Studio 2017\Projects\performance-test-gpa\src\test\scala\Engine.scala -> dataDirectory
-C:\Users\rafael.rodrigues\Documents\Visual Studio 2017\Projects\performance-test-gpa\src\test\scala\Engine.scala -> fromMap
-C:\Users\rafael.rodrigues\Documents\Visual Studio 2017\Projects\performance-test-gpa\src\test\scala\Engine.scala -> gatling
-C:\Users\rafael.rodrigues\Documents\Visual Studio 2017\Projects\performance-test-gpa\src\test\scala\Engine.scala -> io
-C:\Users\rafael.rodrigues\Documents\Visual Studio 2017\Projects\performance-test-gpa\src\test\scala\Engine.scala -> mavenBinariesDirectory
-C:\Users\rafael.rodrigues\Documents\Visual Studio 2017\Projects\performance-test-gpa\src\test\scala\Engine.scala -> package
-C:\Users\rafael.rodrigues\Documents\Visual Studio 2017\Projects\performance-test-gpa\src\test\scala\Engine.scala -> props
-C:\Users\rafael.rodrigues\Documents\Visual Studio 2017\Projects\performance-test-gpa\src\test\scala\Engine.scala -> resultsDirectory
-C:\Users\rafael.rodrigues\Documents\Visual Studio 2017\Projects\performance-test-gpa\src\test\scala\Engine.scala -> scala
-C:\Users\rafael.rodrigues\Documents\Visual Studio 2017\Projects\performance-test-gpa\src\test\scala\Engine.scala -> toString
-C:\Users\rafael.rodrigues\Documents\Visual Studio 2017\Projects\performance-test-gpa\src\test\scala\IDEPathHelper.scala -> /
-C:\Users\rafael.rodrigues\Documents\Visual Studio 2017\Projects\performance-test-gpa\src\test\scala\IDEPathHelper.scala -> <init>
-C:\Users\rafael.rodrigues\Documents\Visual Studio 2017\Projects\performance-test-gpa\src\test\scala\IDEPathHelper.scala -> ?0
-C:\Users\rafael.rodrigues\Documents\Visual Studio 2017\Projects\performance-test-gpa\src\test\scala\IDEPathHelper.scala -> AnyRef
-C:\Users\rafael.rodrigues\Documents\Visual Studio 2017\Projects\performance-test-gpa\src\test\scala\IDEPathHelper.scala -> Class
-C:\Users\rafael.rodrigues\Documents\Visual Studio 2017\Projects\performance-test-gpa\src\test\scala\IDEPathHelper.scala -> ClassLoader
-C:\Users\rafael.rodrigues\Documents\Visual Studio 2017\Projects\performance-test-gpa\src\test\scala\IDEPathHelper.scala -> IDEPathHelper
-C:\Users\rafael.rodrigues\Documents\Visual Studio 2017\Projects\performance-test-gpa\src\test\scala\IDEPathHelper.scala -> Int
-C:\Users\rafael.rodrigues\Documents\Visual Studio 2017\Projects\performance-test-gpa\src\test\scala\IDEPathHelper.scala -> Nothing
-C:\Users\rafael.rodrigues\Documents\Visual Studio 2017\Projects\performance-test-gpa\src\test\scala\IDEPathHelper.scala -> Object
-C:\Users\rafael.rodrigues\Documents\Visual Studio 2017\Projects\performance-test-gpa\src\test\scala\IDEPathHelper.scala -> Path
-C:\Users\rafael.rodrigues\Documents\Visual Studio 2017\Projects\performance-test-gpa\src\test\scala\IDEPathHelper.scala -> PathHelper
-C:\Users\rafael.rodrigues\Documents\Visual Studio 2017\Projects\performance-test-gpa\src\test\scala\IDEPathHelper.scala -> Predef
-C:\Users\rafael.rodrigues\Documents\Visual Studio 2017\Projects\performance-test-gpa\src\test\scala\IDEPathHelper.scala -> RichPath
-C:\Users\rafael.rodrigues\Documents\Visual Studio 2017\Projects\performance-test-gpa\src\test\scala\IDEPathHelper.scala -> String
-C:\Users\rafael.rodrigues\Documents\Visual Studio 2017\Projects\performance-test-gpa\src\test\scala\IDEPathHelper.scala -> URL
-C:\Users\rafael.rodrigues\Documents\Visual Studio 2017\Projects\performance-test-gpa\src\test\scala\IDEPathHelper.scala -> ancestor
-C:\Users\rafael.rodrigues\Documents\Visual Studio 2017\Projects\performance-test-gpa\src\test\scala\IDEPathHelper.scala -> bodiesDirectory
-C:\Users\rafael.rodrigues\Documents\Visual Studio 2017\Projects\performance-test-gpa\src\test\scala\IDEPathHelper.scala -> commons
-C:\Users\rafael.rodrigues\Documents\Visual Studio 2017\Projects\performance-test-gpa\src\test\scala\IDEPathHelper.scala -> dataDirectory
-C:\Users\rafael.rodrigues\Documents\Visual Studio 2017\Projects\performance-test-gpa\src\test\scala\IDEPathHelper.scala -> file
-C:\Users\rafael.rodrigues\Documents\Visual Studio 2017\Projects\performance-test-gpa\src\test\scala\IDEPathHelper.scala -> gatling
-C:\Users\rafael.rodrigues\Documents\Visual Studio 2017\Projects\performance-test-gpa\src\test\scala\IDEPathHelper.scala -> gatlingConfUrl
-C:\Users\rafael.rodrigues\Documents\Visual Studio 2017\Projects\performance-test-gpa\src\test\scala\IDEPathHelper.scala -> getClass
-C:\Users\rafael.rodrigues\Documents\Visual Studio 2017\Projects\performance-test-gpa\src\test\scala\IDEPathHelper.scala -> getClassLoader
-C:\Users\rafael.rodrigues\Documents\Visual Studio 2017\Projects\performance-test-gpa\src\test\scala\IDEPathHelper.scala -> getResource
-C:\Users\rafael.rodrigues\Documents\Visual Studio 2017\Projects\performance-test-gpa\src\test\scala\IDEPathHelper.scala -> io
-C:\Users\rafael.rodrigues\Documents\Visual Studio 2017\Projects\performance-test-gpa\src\test\scala\IDEPathHelper.scala -> java
-C:\Users\rafael.rodrigues\Documents\Visual Studio 2017\Projects\performance-test-gpa\src\test\scala\IDEPathHelper.scala -> mavenBinariesDirectory
-C:\Users\rafael.rodrigues\Documents\Visual Studio 2017\Projects\performance-test-gpa\src\test\scala\IDEPathHelper.scala -> mavenResourcesDirectory
-C:\Users\rafael.rodrigues\Documents\Visual Studio 2017\Projects\performance-test-gpa\src\test\scala\IDEPathHelper.scala -> mavenSourcesDirectory
-C:\Users\rafael.rodrigues\Documents\Visual Studio 2017\Projects\performance-test-gpa\src\test\scala\IDEPathHelper.scala -> mavenTargetDirectory
-C:\Users\rafael.rodrigues\Documents\Visual Studio 2017\Projects\performance-test-gpa\src\test\scala\IDEPathHelper.scala -> nio
-C:\Users\rafael.rodrigues\Documents\Visual Studio 2017\Projects\performance-test-gpa\src\test\scala\IDEPathHelper.scala -> projectRootDir
-C:\Users\rafael.rodrigues\Documents\Visual Studio 2017\Projects\performance-test-gpa\src\test\scala\IDEPathHelper.scala -> recorderConfigFile
-C:\Users\rafael.rodrigues\Documents\Visual Studio 2017\Projects\performance-test-gpa\src\test\scala\IDEPathHelper.scala -> recorderOutputDirectory
-C:\Users\rafael.rodrigues\Documents\Visual Studio 2017\Projects\performance-test-gpa\src\test\scala\IDEPathHelper.scala -> resultsDirectory
-C:\Users\rafael.rodrigues\Documents\Visual Studio 2017\Projects\performance-test-gpa\src\test\scala\IDEPathHelper.scala -> scala
-C:\Users\rafael.rodrigues\Documents\Visual Studio 2017\Projects\performance-test-gpa\src\test\scala\IDEPathHelper.scala -> url2path
-C:\Users\rafael.rodrigues\Documents\Visual Studio 2017\Projects\performance-test-gpa\src\test\scala\IDEPathHelper.scala -> util
+288 items
+C:\PersonalProjects\performance-test\src\test\scala\br\com\treinamento\api\simulation\UserSimulation.scala -> <init>
+C:\PersonalProjects\performance-test\src\test\scala\br\com\treinamento\api\simulation\UserSimulation.scala -> <refinement>
+C:\PersonalProjects\performance-test\src\test\scala\br\com\treinamento\api\simulation\UserSimulation.scala -> <repeated>
+C:\PersonalProjects\performance-test\src\test\scala\br\com\treinamento\api\simulation\UserSimulation.scala -> A
+C:\PersonalProjects\performance-test\src\test\scala\br\com\treinamento\api\simulation\UserSimulation.scala -> Any
+C:\PersonalProjects\performance-test\src\test\scala\br\com\treinamento\api\simulation\UserSimulation.scala -> AnyRef
+C:\PersonalProjects\performance-test\src\test\scala\br\com\treinamento\api\simulation\UserSimulation.scala -> ChainBuilder
+C:\PersonalProjects\performance-test\src\test\scala\br\com\treinamento\api\simulation\UserSimulation.scala -> Char
+C:\PersonalProjects\performance-test\src\test\scala\br\com\treinamento\api\simulation\UserSimulation.scala -> Class
+C:\PersonalProjects\performance-test\src\test\scala\br\com\treinamento\api\simulation\UserSimulation.scala -> ClassTag
+C:\PersonalProjects\performance-test\src\test\scala\br\com\treinamento\api\simulation\UserSimulation.scala -> Config
+C:\PersonalProjects\performance-test\src\test\scala\br\com\treinamento\api\simulation\UserSimulation.scala -> Duration
+C:\PersonalProjects\performance-test\src\test\scala\br\com\treinamento\api\simulation\UserSimulation.scala -> DurationInt
+C:\PersonalProjects\performance-test\src\test\scala\br\com\treinamento\api\simulation\UserSimulation.scala -> Exclude
+C:\PersonalProjects\performance-test\src\test\scala\br\com\treinamento\api\simulation\UserSimulation.scala -> Expression
+C:\PersonalProjects\performance-test\src\test\scala\br\com\treinamento\api\simulation\UserSimulation.scala -> FeederBuilder
+C:\PersonalProjects\performance-test\src\test\scala\br\com\treinamento\api\simulation\UserSimulation.scala -> FiniteDuration
+C:\PersonalProjects\performance-test\src\test\scala\br\com\treinamento\api\simulation\UserSimulation.scala -> GatlingConfiguration
+C:\PersonalProjects\performance-test\src\test\scala\br\com\treinamento\api\simulation\UserSimulation.scala -> HttpProtocol
+C:\PersonalProjects\performance-test\src\test\scala\br\com\treinamento\api\simulation\UserSimulation.scala -> HttpProtocolBuilder
+C:\PersonalProjects\performance-test\src\test\scala\br\com\treinamento\api\simulation\UserSimulation.scala -> InjectionStep
+C:\PersonalProjects\performance-test\src\test\scala\br\com\treinamento\api\simulation\UserSimulation.scala -> Int
+C:\PersonalProjects\performance-test\src\test\scala\br\com\treinamento\api\simulation\UserSimulation.scala -> NOT_FOR_USER_CODE
+C:\PersonalProjects\performance-test\src\test\scala\br\com\treinamento\api\simulation\UserSimulation.scala -> NonValidable
+C:\PersonalProjects\performance-test\src\test\scala\br\com\treinamento\api\simulation\UserSimulation.scala -> Nothing
+C:\PersonalProjects\performance-test\src\test\scala\br\com\treinamento\api\simulation\UserSimulation.scala -> PopulationBuilder
+C:\PersonalProjects\performance-test\src\test\scala\br\com\treinamento\api\simulation\UserSimulation.scala -> Predef
+C:\PersonalProjects\performance-test\src\test\scala\br\com\treinamento\api\simulation\UserSimulation.scala -> Protocol
+C:\PersonalProjects\performance-test\src\test\scala\br\com\treinamento\api\simulation\UserSimulation.scala -> RampBuilder
+C:\PersonalProjects\performance-test\src\test\scala\br\com\treinamento\api\simulation\UserSimulation.scala -> RampInjection
+C:\PersonalProjects\performance-test\src\test\scala\br\com\treinamento\api\simulation\UserSimulation.scala -> RecordSeqFeederBuilder
+C:\PersonalProjects\performance-test\src\test\scala\br\com\treinamento\api\simulation\UserSimulation.scala -> ScenarioBuilder
+C:\PersonalProjects\performance-test\src\test\scala\br\com\treinamento\api\simulation\UserSimulation.scala -> SetUp
+C:\PersonalProjects\performance-test\src\test\scala\br\com\treinamento\api\simulation\UserSimulation.scala -> Simulation
+C:\PersonalProjects\performance-test\src\test\scala\br\com\treinamento\api\simulation\UserSimulation.scala -> String
+C:\PersonalProjects\performance-test\src\test\scala\br\com\treinamento\api\simulation\UserSimulation.scala -> StringCaster
+C:\PersonalProjects\performance-test\src\test\scala\br\com\treinamento\api\simulation\UserSimulation.scala -> T
+C:\PersonalProjects\performance-test\src\test\scala\br\com\treinamento\api\simulation\UserSimulation.scala -> TypeCaster
+C:\PersonalProjects\performance-test\src\test\scala\br\com\treinamento\api\simulation\UserSimulation.scala -> User
+C:\PersonalProjects\performance-test\src\test\scala\br\com\treinamento\api\simulation\UserSimulation.scala -> UserSimulation
+C:\PersonalProjects\performance-test\src\test\scala\br\com\treinamento\api\simulation\UserSimulation.scala -> X
+C:\PersonalProjects\performance-test\src\test\scala\br\com\treinamento\api\simulation\UserSimulation.scala -> _$1
+C:\PersonalProjects\performance-test\src\test\scala\br\com\treinamento\api\simulation\UserSimulation.scala -> _$7
+C:\PersonalProjects\performance-test\src\test\scala\br\com\treinamento\api\simulation\UserSimulation.scala -> api
+C:\PersonalProjects\performance-test\src\test\scala\br\com\treinamento\api\simulation\UserSimulation.scala -> apply
+C:\PersonalProjects\performance-test\src\test\scala\br\com\treinamento\api\simulation\UserSimulation.scala -> baseURL
+C:\PersonalProjects\performance-test\src\test\scala\br\com\treinamento\api\simulation\UserSimulation.scala -> br
+C:\PersonalProjects\performance-test\src\test\scala\br\com\treinamento\api\simulation\UserSimulation.scala -> circular
+C:\PersonalProjects\performance-test\src\test\scala\br\com\treinamento\api\simulation\UserSimulation.scala -> com
+C:\PersonalProjects\performance-test\src\test\scala\br\com\treinamento\api\simulation\UserSimulation.scala -> commons
+C:\PersonalProjects\performance-test\src\test\scala\br\com\treinamento\api\simulation\UserSimulation.scala -> concurrent
+C:\PersonalProjects\performance-test\src\test\scala\br\com\treinamento\api\simulation\UserSimulation.scala -> configuration
+C:\PersonalProjects\performance-test\src\test\scala\br\com\treinamento\api\simulation\UserSimulation.scala -> core
+C:\PersonalProjects\performance-test\src\test\scala\br\com\treinamento\api\simulation\UserSimulation.scala -> createUser
+C:\PersonalProjects\performance-test\src\test\scala\br\com\treinamento\api\simulation\UserSimulation.scala -> csv
+C:\PersonalProjects\performance-test\src\test\scala\br\com\treinamento\api\simulation\UserSimulation.scala -> deleteUser
+C:\PersonalProjects\performance-test\src\test\scala\br\com\treinamento\api\simulation\UserSimulation.scala -> duration
+C:\PersonalProjects\performance-test\src\test\scala\br\com\treinamento\api\simulation\UserSimulation.scala -> exec
+C:\PersonalProjects\performance-test\src\test\scala\br\com\treinamento\api\simulation\UserSimulation.scala -> feed
+C:\PersonalProjects\performance-test\src\test\scala\br\com\treinamento\api\simulation\UserSimulation.scala -> gatling
+C:\PersonalProjects\performance-test\src\test\scala\br\com\treinamento\api\simulation\UserSimulation.scala -> getUser
+C:\PersonalProjects\performance-test\src\test\scala\br\com\treinamento\api\simulation\UserSimulation.scala -> group
+C:\PersonalProjects\performance-test\src\test\scala\br\com\treinamento\api\simulation\UserSimulation.scala -> http
+C:\PersonalProjects\performance-test\src\test\scala\br\com\treinamento\api\simulation\UserSimulation.scala -> httpProtocol
+C:\PersonalProjects\performance-test\src\test\scala\br\com\treinamento\api\simulation\UserSimulation.scala -> inject
+C:\PersonalProjects\performance-test\src\test\scala\br\com\treinamento\api\simulation\UserSimulation.scala -> intToFiniteDuration
+C:\PersonalProjects\performance-test\src\test\scala\br\com\treinamento\api\simulation\UserSimulation.scala -> io
+C:\PersonalProjects\performance-test\src\test\scala\br\com\treinamento\api\simulation\UserSimulation.scala -> materializeClassTag
+C:\PersonalProjects\performance-test\src\test\scala\br\com\treinamento\api\simulation\UserSimulation.scala -> over
+C:\PersonalProjects\performance-test\src\test\scala\br\com\treinamento\api\simulation\UserSimulation.scala -> package
+C:\PersonalProjects\performance-test\src\test\scala\br\com\treinamento\api\simulation\UserSimulation.scala -> pause
+C:\PersonalProjects\performance-test\src\test\scala\br\com\treinamento\api\simulation\UserSimulation.scala -> portal
+C:\PersonalProjects\performance-test\src\test\scala\br\com\treinamento\api\simulation\UserSimulation.scala -> protocol
+C:\PersonalProjects\performance-test\src\test\scala\br\com\treinamento\api\simulation\UserSimulation.scala -> protocols
+C:\PersonalProjects\performance-test\src\test\scala\br\com\treinamento\api\simulation\UserSimulation.scala -> qual$1
+C:\PersonalProjects\performance-test\src\test\scala\br\com\treinamento\api\simulation\UserSimulation.scala -> rampUsers
+C:\PersonalProjects\performance-test\src\test\scala\br\com\treinamento\api\simulation\UserSimulation.scala -> scala
+C:\PersonalProjects\performance-test\src\test\scala\br\com\treinamento\api\simulation\UserSimulation.scala -> scenario
+C:\PersonalProjects\performance-test\src\test\scala\br\com\treinamento\api\simulation\UserSimulation.scala -> seconds
+C:\PersonalProjects\performance-test\src\test\scala\br\com\treinamento\api\simulation\UserSimulation.scala -> setUp
+C:\PersonalProjects\performance-test\src\test\scala\br\com\treinamento\api\simulation\UserSimulation.scala -> simulation
+C:\PersonalProjects\performance-test\src\test\scala\br\com\treinamento\api\simulation\UserSimulation.scala -> stringToExpression
+C:\PersonalProjects\performance-test\src\test\scala\br\com\treinamento\api\simulation\UserSimulation.scala -> toHttpProtocol
+C:\PersonalProjects\performance-test\src\test\scala\br\com\treinamento\api\simulation\UserSimulation.scala -> treinamento
+C:\PersonalProjects\performance-test\src\test\scala\br\com\treinamento\api\simulation\UserSimulation.scala -> updateUser
+C:\PersonalProjects\performance-test\src\test\scala\br\com\treinamento\api\simulation\UserSimulation.scala -> urlApiPrefixo
+C:\PersonalProjects\performance-test\src\test\scala\br\com\treinamento\api\simulation\UserSimulation.scala -> userCompleteCrud
+C:\PersonalProjects\performance-test\src\test\scala\br\com\treinamento\api\simulation\UserSimulation.scala -> usuarios
+C:\PersonalProjects\performance-test\src\test\scala\br\com\treinamento\api\simulation\UserSimulation.scala -> util
+C:\PersonalProjects\performance-test\src\test\scala\br\com\treinamento\api\simulation\UserSimulation.scala -> utils
+C:\PersonalProjects\performance-test\src\test\scala\br\com\treinamento\api\simulation\UserSimulation.scala -> x$1
+C:\PersonalProjects\performance-test\src\test\scala\br\com\treinamento\api\simulation\UserSimulation.scala -> x$2
+C:\PersonalProjects\performance-test\src\test\scala\br\com\treinamento\api\User.scala -> <init>
+C:\PersonalProjects\performance-test\src\test\scala\br\com\treinamento\api\User.scala -> <refinement>
+C:\PersonalProjects\performance-test\src\test\scala\br\com\treinamento\api\User.scala -> <repeated>
+C:\PersonalProjects\performance-test\src\test\scala\br\com\treinamento\api\User.scala -> A
+C:\PersonalProjects\performance-test\src\test\scala\br\com\treinamento\api\User.scala -> ActionBuilder
+C:\PersonalProjects\performance-test\src\test\scala\br\com\treinamento\api\User.scala -> Any
+C:\PersonalProjects\performance-test\src\test\scala\br\com\treinamento\api\User.scala -> AnyRef
+C:\PersonalProjects\performance-test\src\test\scala\br\com\treinamento\api\User.scala -> Body
+C:\PersonalProjects\performance-test\src\test\scala\br\com\treinamento\api\User.scala -> C
+C:\PersonalProjects\performance-test\src\test\scala\br\com\treinamento\api\User.scala -> ChainBuilder
+C:\PersonalProjects\performance-test\src\test\scala\br\com\treinamento\api\User.scala -> Check
+C:\PersonalProjects\performance-test\src\test\scala\br\com\treinamento\api\User.scala -> CheckBuilder
+C:\PersonalProjects\performance-test\src\test\scala\br\com\treinamento\api\User.scala -> Class
+C:\PersonalProjects\performance-test\src\test\scala\br\com\treinamento\api\User.scala -> ClassTag
+C:\PersonalProjects\performance-test\src\test\scala\br\com\treinamento\api\User.scala -> CompositeByteArrayBody
+C:\PersonalProjects\performance-test\src\test\scala\br\com\treinamento\api\User.scala -> DefaultFindCheckBuilder
+C:\PersonalProjects\performance-test\src\test\scala\br\com\treinamento\api\User.scala -> ElFileBodies
+C:\PersonalProjects\performance-test\src\test\scala\br\com\treinamento\api\User.scala -> ElFileBody
+C:\PersonalProjects\performance-test\src\test\scala\br\com\treinamento\api\User.scala -> Exclude
+C:\PersonalProjects\performance-test\src\test\scala\br\com\treinamento\api\User.scala -> Expression
+C:\PersonalProjects\performance-test\src\test\scala\br\com\treinamento\api\User.scala -> FindCheckBuilder
+C:\PersonalProjects\performance-test\src\test\scala\br\com\treinamento\api\User.scala -> GatlingConfiguration
+C:\PersonalProjects\performance-test\src\test\scala\br\com\treinamento\api\User.scala -> Header
+C:\PersonalProjects\performance-test\src\test\scala\br\com\treinamento\api\User.scala -> Http
+C:\PersonalProjects\performance-test\src\test\scala\br\com\treinamento\api\User.scala -> HttpCheck
+C:\PersonalProjects\performance-test\src\test\scala\br\com\treinamento\api\User.scala -> HttpRequestActionBuilder
+C:\PersonalProjects\performance-test\src\test\scala\br\com\treinamento\api\User.scala -> HttpRequestBuilder
+C:\PersonalProjects\performance-test\src\test\scala\br\com\treinamento\api\User.scala -> Int
+C:\PersonalProjects\performance-test\src\test\scala\br\com\treinamento\api\User.scala -> Map
+C:\PersonalProjects\performance-test\src\test\scala\br\com\treinamento\api\User.scala -> NOT_FOR_USER_CODE
+C:\PersonalProjects\performance-test\src\test\scala\br\com\treinamento\api\User.scala -> NonValidable
+C:\PersonalProjects\performance-test\src\test\scala\br\com\treinamento\api\User.scala -> Nothing
+C:\PersonalProjects\performance-test\src\test\scala\br\com\treinamento\api\User.scala -> Object
+C:\PersonalProjects\performance-test\src\test\scala\br\com\treinamento\api\User.scala -> P
+C:\PersonalProjects\performance-test\src\test\scala\br\com\treinamento\api\User.scala -> Predef
+C:\PersonalProjects\performance-test\src\test\scala\br\com\treinamento\api\User.scala -> R
+C:\PersonalProjects\performance-test\src\test\scala\br\com\treinamento\api\User.scala -> Response
+C:\PersonalProjects\performance-test\src\test\scala\br\com\treinamento\api\User.scala -> SaveAs
+C:\PersonalProjects\performance-test\src\test\scala\br\com\treinamento\api\User.scala -> String
+C:\PersonalProjects\performance-test\src\test\scala\br\com\treinamento\api\User.scala -> StringCaster
+C:\PersonalProjects\performance-test\src\test\scala\br\com\treinamento\api\User.scala -> T
+C:\PersonalProjects\performance-test\src\test\scala\br\com\treinamento\api\User.scala -> TypeCaster
+C:\PersonalProjects\performance-test\src\test\scala\br\com\treinamento\api\User.scala -> User
+C:\PersonalProjects\performance-test\src\test\scala\br\com\treinamento\api\User.scala -> ValidatorCheckBuilder
+C:\PersonalProjects\performance-test\src\test\scala\br\com\treinamento\api\User.scala -> X
+C:\PersonalProjects\performance-test\src\test\scala\br\com\treinamento\api\User.scala -> _$7
+C:\PersonalProjects\performance-test\src\test\scala\br\com\treinamento\api\User.scala -> api
+C:\PersonalProjects\performance-test\src\test\scala\br\com\treinamento\api\User.scala -> apply
+C:\PersonalProjects\performance-test\src\test\scala\br\com\treinamento\api\User.scala -> body
+C:\PersonalProjects\performance-test\src\test\scala\br\com\treinamento\api\User.scala -> br
+C:\PersonalProjects\performance-test\src\test\scala\br\com\treinamento\api\User.scala -> builder
+C:\PersonalProjects\performance-test\src\test\scala\br\com\treinamento\api\User.scala -> check
+C:\PersonalProjects\performance-test\src\test\scala\br\com\treinamento\api\User.scala -> checkBuilder2Check
+C:\PersonalProjects\performance-test\src\test\scala\br\com\treinamento\api\User.scala -> com
+C:\PersonalProjects\performance-test\src\test\scala\br\com\treinamento\api\User.scala -> commons
+C:\PersonalProjects\performance-test\src\test\scala\br\com\treinamento\api\User.scala -> configuration
+C:\PersonalProjects\performance-test\src\test\scala\br\com\treinamento\api\User.scala -> core
+C:\PersonalProjects\performance-test\src\test\scala\br\com\treinamento\api\User.scala -> createUser
+C:\PersonalProjects\performance-test\src\test\scala\br\com\treinamento\api\User.scala -> delete
+C:\PersonalProjects\performance-test\src\test\scala\br\com\treinamento\api\User.scala -> deleteUser
+C:\PersonalProjects\performance-test\src\test\scala\br\com\treinamento\api\User.scala -> elFileBodies
+C:\PersonalProjects\performance-test\src\test\scala\br\com\treinamento\api\User.scala -> exec
+C:\PersonalProjects\performance-test\src\test\scala\br\com\treinamento\api\User.scala -> findCheckBuilder2ValidatorCheckBuilder
+C:\PersonalProjects\performance-test\src\test\scala\br\com\treinamento\api\User.scala -> gatling
+C:\PersonalProjects\performance-test\src\test\scala\br\com\treinamento\api\User.scala -> get
+C:\PersonalProjects\performance-test\src\test\scala\br\com\treinamento\api\User.scala -> getUser
+C:\PersonalProjects\performance-test\src\test\scala\br\com\treinamento\api\User.scala -> header
+C:\PersonalProjects\performance-test\src\test\scala\br\com\treinamento\api\User.scala -> header_accept
+C:\PersonalProjects\performance-test\src\test\scala\br\com\treinamento\api\User.scala -> header_content
+C:\PersonalProjects\performance-test\src\test\scala\br\com\treinamento\api\User.scala -> headers
+C:\PersonalProjects\performance-test\src\test\scala\br\com\treinamento\api\User.scala -> http
+C:\PersonalProjects\performance-test\src\test\scala\br\com\treinamento\api\User.scala -> io
+C:\PersonalProjects\performance-test\src\test\scala\br\com\treinamento\api\User.scala -> is
+C:\PersonalProjects\performance-test\src\test\scala\br\com\treinamento\api\User.scala -> materializeClassTag
+C:\PersonalProjects\performance-test\src\test\scala\br\com\treinamento\api\User.scala -> package
+C:\PersonalProjects\performance-test\src\test\scala\br\com\treinamento\api\User.scala -> portal
+C:\PersonalProjects\performance-test\src\test\scala\br\com\treinamento\api\User.scala -> post
+C:\PersonalProjects\performance-test\src\test\scala\br\com\treinamento\api\User.scala -> put
+C:\PersonalProjects\performance-test\src\test\scala\br\com\treinamento\api\User.scala -> scala
+C:\PersonalProjects\performance-test\src\test\scala\br\com\treinamento\api\User.scala -> status
+C:\PersonalProjects\performance-test\src\test\scala\br\com\treinamento\api\User.scala -> stringToExpression
+C:\PersonalProjects\performance-test\src\test\scala\br\com\treinamento\api\User.scala -> toActionBuilder
+C:\PersonalProjects\performance-test\src\test\scala\br\com\treinamento\api\User.scala -> treinamento
+C:\PersonalProjects\performance-test\src\test\scala\br\com\treinamento\api\User.scala -> updateUser
+C:\PersonalProjects\performance-test\src\test\scala\br\com\treinamento\api\User.scala -> util
+C:\PersonalProjects\performance-test\src\test\scala\br\com\treinamento\api\User.scala -> value2Expression
+C:\PersonalProjects\performance-test\src\test\scala\br\com\treinamento\header\Header.scala -> ->
+C:\PersonalProjects\performance-test\src\test\scala\br\com\treinamento\header\Header.scala -> <init>
+C:\PersonalProjects\performance-test\src\test\scala\br\com\treinamento\header\Header.scala -> <repeated>
+C:\PersonalProjects\performance-test\src\test\scala\br\com\treinamento\header\Header.scala -> A
+C:\PersonalProjects\performance-test\src\test\scala\br\com\treinamento\header\Header.scala -> Any
+C:\PersonalProjects\performance-test\src\test\scala\br\com\treinamento\header\Header.scala -> AnyRef
+C:\PersonalProjects\performance-test\src\test\scala\br\com\treinamento\header\Header.scala -> ArrowAssoc
+C:\PersonalProjects\performance-test\src\test\scala\br\com\treinamento\header\Header.scala -> B
+C:\PersonalProjects\performance-test\src\test\scala\br\com\treinamento\header\Header.scala -> Header
+C:\PersonalProjects\performance-test\src\test\scala\br\com\treinamento\header\Header.scala -> Map
+C:\PersonalProjects\performance-test\src\test\scala\br\com\treinamento\header\Header.scala -> Nothing
+C:\PersonalProjects\performance-test\src\test\scala\br\com\treinamento\header\Header.scala -> Object
+C:\PersonalProjects\performance-test\src\test\scala\br\com\treinamento\header\Header.scala -> Predef
+C:\PersonalProjects\performance-test\src\test\scala\br\com\treinamento\header\Header.scala -> String
+C:\PersonalProjects\performance-test\src\test\scala\br\com\treinamento\header\Header.scala -> Tuple2
+C:\PersonalProjects\performance-test\src\test\scala\br\com\treinamento\header\Header.scala -> apply
+C:\PersonalProjects\performance-test\src\test\scala\br\com\treinamento\header\Header.scala -> br
+C:\PersonalProjects\performance-test\src\test\scala\br\com\treinamento\header\Header.scala -> com
+C:\PersonalProjects\performance-test\src\test\scala\br\com\treinamento\header\Header.scala -> header
+C:\PersonalProjects\performance-test\src\test\scala\br\com\treinamento\header\Header.scala -> header_accept
+C:\PersonalProjects\performance-test\src\test\scala\br\com\treinamento\header\Header.scala -> header_content
+C:\PersonalProjects\performance-test\src\test\scala\br\com\treinamento\header\Header.scala -> scala
+C:\PersonalProjects\performance-test\src\test\scala\br\com\treinamento\header\Header.scala -> treinamento
+C:\PersonalProjects\performance-test\src\test\scala\br\com\treinamento\utils\Config.scala -> <init>
+C:\PersonalProjects\performance-test\src\test\scala\br\com\treinamento\utils\Config.scala -> AnyRef
+C:\PersonalProjects\performance-test\src\test\scala\br\com\treinamento\utils\Config.scala -> Config
+C:\PersonalProjects\performance-test\src\test\scala\br\com\treinamento\utils\Config.scala -> Object
+C:\PersonalProjects\performance-test\src\test\scala\br\com\treinamento\utils\Config.scala -> Predef
+C:\PersonalProjects\performance-test\src\test\scala\br\com\treinamento\utils\Config.scala -> String
+C:\PersonalProjects\performance-test\src\test\scala\br\com\treinamento\utils\Config.scala -> System
+C:\PersonalProjects\performance-test\src\test\scala\br\com\treinamento\utils\Config.scala -> br
+C:\PersonalProjects\performance-test\src\test\scala\br\com\treinamento\utils\Config.scala -> com
+C:\PersonalProjects\performance-test\src\test\scala\br\com\treinamento\utils\Config.scala -> getProperty
+C:\PersonalProjects\performance-test\src\test\scala\br\com\treinamento\utils\Config.scala -> java
+C:\PersonalProjects\performance-test\src\test\scala\br\com\treinamento\utils\Config.scala -> lang
+C:\PersonalProjects\performance-test\src\test\scala\br\com\treinamento\utils\Config.scala -> scala
+C:\PersonalProjects\performance-test\src\test\scala\br\com\treinamento\utils\Config.scala -> treinamento
+C:\PersonalProjects\performance-test\src\test\scala\br\com\treinamento\utils\Config.scala -> urlApiPrefixo
+C:\PersonalProjects\performance-test\src\test\scala\br\com\treinamento\utils\Config.scala -> utils
+C:\PersonalProjects\performance-test\src\test\scala\Engine.scala -> <init>
+C:\PersonalProjects\performance-test\src\test\scala\Engine.scala -> Any
+C:\PersonalProjects\performance-test\src\test\scala\Engine.scala -> App
+C:\PersonalProjects\performance-test\src\test\scala\Engine.scala -> ConfigOverrides
+C:\PersonalProjects\performance-test\src\test\scala\Engine.scala -> Engine
+C:\PersonalProjects\performance-test\src\test\scala\Engine.scala -> Gatling
+C:\PersonalProjects\performance-test\src\test\scala\Engine.scala -> GatlingPropertiesBuilder
+C:\PersonalProjects\performance-test\src\test\scala\Engine.scala -> IDEPathHelper
+C:\PersonalProjects\performance-test\src\test\scala\Engine.scala -> Int
+C:\PersonalProjects\performance-test\src\test\scala\Engine.scala -> Map
+C:\PersonalProjects\performance-test\src\test\scala\Engine.scala -> Object
+C:\PersonalProjects\performance-test\src\test\scala\Engine.scala -> Path
+C:\PersonalProjects\performance-test\src\test\scala\Engine.scala -> Predef
+C:\PersonalProjects\performance-test\src\test\scala\Engine.scala -> String
+C:\PersonalProjects\performance-test\src\test\scala\Engine.scala -> Unit
+C:\PersonalProjects\performance-test\src\test\scala\Engine.scala -> app
+C:\PersonalProjects\performance-test\src\test\scala\Engine.scala -> binariesDirectory
+C:\PersonalProjects\performance-test\src\test\scala\Engine.scala -> bodiesDirectory
+C:\PersonalProjects\performance-test\src\test\scala\Engine.scala -> build
+C:\PersonalProjects\performance-test\src\test\scala\Engine.scala -> config
+C:\PersonalProjects\performance-test\src\test\scala\Engine.scala -> core
+C:\PersonalProjects\performance-test\src\test\scala\Engine.scala -> dataDirectory
+C:\PersonalProjects\performance-test\src\test\scala\Engine.scala -> fromMap
+C:\PersonalProjects\performance-test\src\test\scala\Engine.scala -> gatling
+C:\PersonalProjects\performance-test\src\test\scala\Engine.scala -> io
+C:\PersonalProjects\performance-test\src\test\scala\Engine.scala -> mavenBinariesDirectory
+C:\PersonalProjects\performance-test\src\test\scala\Engine.scala -> package
+C:\PersonalProjects\performance-test\src\test\scala\Engine.scala -> props
+C:\PersonalProjects\performance-test\src\test\scala\Engine.scala -> resultsDirectory
+C:\PersonalProjects\performance-test\src\test\scala\Engine.scala -> scala
+C:\PersonalProjects\performance-test\src\test\scala\Engine.scala -> toString
+C:\PersonalProjects\performance-test\src\test\scala\IDEPathHelper.scala -> /
+C:\PersonalProjects\performance-test\src\test\scala\IDEPathHelper.scala -> <init>
+C:\PersonalProjects\performance-test\src\test\scala\IDEPathHelper.scala -> ?0
+C:\PersonalProjects\performance-test\src\test\scala\IDEPathHelper.scala -> AnyRef
+C:\PersonalProjects\performance-test\src\test\scala\IDEPathHelper.scala -> Class
+C:\PersonalProjects\performance-test\src\test\scala\IDEPathHelper.scala -> ClassLoader
+C:\PersonalProjects\performance-test\src\test\scala\IDEPathHelper.scala -> IDEPathHelper
+C:\PersonalProjects\performance-test\src\test\scala\IDEPathHelper.scala -> Int
+C:\PersonalProjects\performance-test\src\test\scala\IDEPathHelper.scala -> Nothing
+C:\PersonalProjects\performance-test\src\test\scala\IDEPathHelper.scala -> Object
+C:\PersonalProjects\performance-test\src\test\scala\IDEPathHelper.scala -> Path
+C:\PersonalProjects\performance-test\src\test\scala\IDEPathHelper.scala -> PathHelper
+C:\PersonalProjects\performance-test\src\test\scala\IDEPathHelper.scala -> Predef
+C:\PersonalProjects\performance-test\src\test\scala\IDEPathHelper.scala -> RichPath
+C:\PersonalProjects\performance-test\src\test\scala\IDEPathHelper.scala -> String
+C:\PersonalProjects\performance-test\src\test\scala\IDEPathHelper.scala -> URL
+C:\PersonalProjects\performance-test\src\test\scala\IDEPathHelper.scala -> ancestor
+C:\PersonalProjects\performance-test\src\test\scala\IDEPathHelper.scala -> bodiesDirectory
+C:\PersonalProjects\performance-test\src\test\scala\IDEPathHelper.scala -> commons
+C:\PersonalProjects\performance-test\src\test\scala\IDEPathHelper.scala -> dataDirectory
+C:\PersonalProjects\performance-test\src\test\scala\IDEPathHelper.scala -> file
+C:\PersonalProjects\performance-test\src\test\scala\IDEPathHelper.scala -> gatling
+C:\PersonalProjects\performance-test\src\test\scala\IDEPathHelper.scala -> gatlingConfUrl
+C:\PersonalProjects\performance-test\src\test\scala\IDEPathHelper.scala -> getClass
+C:\PersonalProjects\performance-test\src\test\scala\IDEPathHelper.scala -> getClassLoader
+C:\PersonalProjects\performance-test\src\test\scala\IDEPathHelper.scala -> getResource
+C:\PersonalProjects\performance-test\src\test\scala\IDEPathHelper.scala -> io
+C:\PersonalProjects\performance-test\src\test\scala\IDEPathHelper.scala -> java
+C:\PersonalProjects\performance-test\src\test\scala\IDEPathHelper.scala -> mavenBinariesDirectory
+C:\PersonalProjects\performance-test\src\test\scala\IDEPathHelper.scala -> mavenResourcesDirectory
+C:\PersonalProjects\performance-test\src\test\scala\IDEPathHelper.scala -> mavenSourcesDirectory
+C:\PersonalProjects\performance-test\src\test\scala\IDEPathHelper.scala -> mavenTargetDirectory
+C:\PersonalProjects\performance-test\src\test\scala\IDEPathHelper.scala -> nio
+C:\PersonalProjects\performance-test\src\test\scala\IDEPathHelper.scala -> projectRootDir
+C:\PersonalProjects\performance-test\src\test\scala\IDEPathHelper.scala -> recorderConfigFile
+C:\PersonalProjects\performance-test\src\test\scala\IDEPathHelper.scala -> recorderOutputDirectory
+C:\PersonalProjects\performance-test\src\test\scala\IDEPathHelper.scala -> resultsDirectory
+C:\PersonalProjects\performance-test\src\test\scala\IDEPathHelper.scala -> scala
+C:\PersonalProjects\performance-test\src\test\scala\IDEPathHelper.scala -> url2path
+C:\PersonalProjects\performance-test\src\test\scala\IDEPathHelper.scala -> util
 product stamps:
 12 items
-C:\Users\rafael.rodrigues\Documents\Visual Studio 2017\Projects\performance-test-gpa\target\test-classes\br\com\gpa\api\simulation\ProductSimulation.class -> lastModified(1541794596821)
-C:\Users\rafael.rodrigues\Documents\Visual Studio 2017\Projects\performance-test-gpa\target\test-classes\br\com\gpa\header\Header$.class -> lastModified(1541794596836)
-C:\Users\rafael.rodrigues\Documents\Visual Studio 2017\Projects\performance-test-gpa\target\test-classes\br\com\gpa\header\Header.class -> lastModified(1541794596836)
-C:\Users\rafael.rodrigues\Documents\Visual Studio 2017\Projects\performance-test-gpa\target\test-classes\br\com\gpa\utils\Config$.class -> lastModified(1541794596852)
-C:\Users\rafael.rodrigues\Documents\Visual Studio 2017\Projects\performance-test-gpa\target\test-classes\br\com\gpa\utils\Config.class -> lastModified(1541794596852)
-C:\Users\rafael.rodrigues\Documents\Visual Studio 2017\Projects\performance-test-gpa\target\test-classes\br\com\lojasrenner\portal\api\Products$.class -> lastModified(1541794596868)
-C:\Users\rafael.rodrigues\Documents\Visual Studio 2017\Projects\performance-test-gpa\target\test-classes\br\com\lojasrenner\portal\api\Products.class -> lastModified(1541794596868)
-C:\Users\rafael.rodrigues\Documents\Visual Studio 2017\Projects\performance-test-gpa\target\test-classes\Engine$.class -> lastModified(1541794596801)
-C:\Users\rafael.rodrigues\Documents\Visual Studio 2017\Projects\performance-test-gpa\target\test-classes\Engine$delayedInit$body.class -> lastModified(1541794596805)
-C:\Users\rafael.rodrigues\Documents\Visual Studio 2017\Projects\performance-test-gpa\target\test-classes\Engine.class -> lastModified(1541794596725)
-C:\Users\rafael.rodrigues\Documents\Visual Studio 2017\Projects\performance-test-gpa\target\test-classes\IDEPathHelper$.class -> lastModified(1541794596821)
-C:\Users\rafael.rodrigues\Documents\Visual Studio 2017\Projects\performance-test-gpa\target\test-classes\IDEPathHelper.class -> lastModified(1541794596805)
+C:\PersonalProjects\performance-test\target\test-classes\br\com\treinamento\api\simulation\UserSimulation.class -> lastModified(1549993695638)
+C:\PersonalProjects\performance-test\target\test-classes\br\com\treinamento\header\Header$.class -> lastModified(1549993695654)
+C:\PersonalProjects\performance-test\target\test-classes\br\com\treinamento\header\Header.class -> lastModified(1549993695641)
+C:\PersonalProjects\performance-test\target\test-classes\br\com\treinamento\portal\api\User$.class -> lastModified(1549993695679)
+C:\PersonalProjects\performance-test\target\test-classes\br\com\treinamento\portal\api\User.class -> lastModified(1549993695659)
+C:\PersonalProjects\performance-test\target\test-classes\br\com\treinamento\utils\Config$.class -> lastModified(1549993695684)
+C:\PersonalProjects\performance-test\target\test-classes\br\com\treinamento\utils\Config.class -> lastModified(1549993695681)
+C:\PersonalProjects\performance-test\target\test-classes\Engine$.class -> lastModified(1549993695579)
+C:\PersonalProjects\performance-test\target\test-classes\Engine$delayedInit$body.class -> lastModified(1549993695588)
+C:\PersonalProjects\performance-test\target\test-classes\Engine.class -> lastModified(1549993695505)
+C:\PersonalProjects\performance-test\target\test-classes\IDEPathHelper$.class -> lastModified(1549993695614)
+C:\PersonalProjects\performance-test\target\test-classes\IDEPathHelper.class -> lastModified(1549993695592)
 source stamps:
 6 items
-C:\Users\rafael.rodrigues\Documents\Visual Studio 2017\Projects\performance-test-gpa\src\test\scala\br\com\gpa\api\Products.scala -> hash(7b39dffcfa290161012bd65fed00adb9fd1f38b5)
-C:\Users\rafael.rodrigues\Documents\Visual Studio 2017\Projects\performance-test-gpa\src\test\scala\br\com\gpa\api\simulation\ProductSimulation.scala -> hash(387707e3d570a4898dc7a1cbe730dccefb921d1f)
-C:\Users\rafael.rodrigues\Documents\Visual Studio 2017\Projects\performance-test-gpa\src\test\scala\br\com\gpa\header\Header.scala -> hash(d1192f890dc04794e354247ff028a0d058d18567)
-C:\Users\rafael.rodrigues\Documents\Visual Studio 2017\Projects\performance-test-gpa\src\test\scala\br\com\gpa\utils\Config.scala -> hash(ed82554108fd34e687a13df31026fed5ea9f4acb)
-C:\Users\rafael.rodrigues\Documents\Visual Studio 2017\Projects\performance-test-gpa\src\test\scala\Engine.scala -> hash(e98bacf89a84be65d2a131fa7e072d4f6ebef89d)
-C:\Users\rafael.rodrigues\Documents\Visual Studio 2017\Projects\performance-test-gpa\src\test\scala\IDEPathHelper.scala -> hash(0e5a9d3d9a017363398c1d653af9c2b485930d85)
+C:\PersonalProjects\performance-test\src\test\scala\br\com\treinamento\api\simulation\UserSimulation.scala -> hash(475703e6c072d2a3addea22c2e43c839f562c7b5)
+C:\PersonalProjects\performance-test\src\test\scala\br\com\treinamento\api\User.scala -> hash(288eb78ce0e7896c575858312fe75aa7bdb014ba)
+C:\PersonalProjects\performance-test\src\test\scala\br\com\treinamento\header\Header.scala -> hash(e90beb82f849bfb9c8c5424e0b4fa94baec61a9c)
+C:\PersonalProjects\performance-test\src\test\scala\br\com\treinamento\utils\Config.scala -> hash(099848e822cdf9a22157e3515f12134d64aed75c)
+C:\PersonalProjects\performance-test\src\test\scala\Engine.scala -> hash(e98bacf89a84be65d2a131fa7e072d4f6ebef89d)
+C:\PersonalProjects\performance-test\src\test\scala\IDEPathHelper.scala -> hash(0e5a9d3d9a017363398c1d653af9c2b485930d85)
 binary stamps:
 6 items
-C:\Progra~1\Java\jdk1.8.0_161\jre\lib\rt.jar -> lastModified(1524848577474)
+C:\Progra~1\Java\jdk1.8.0_191\jre\lib\rt.jar -> lastModified(1542997398315)
 C:\Users\rafael.rodrigues\.m2\repository\io\gatling\gatling-app\2.2.4\gatling-app-2.2.4.jar -> lastModified(1541782631035)
 C:\Users\rafael.rodrigues\.m2\repository\io\gatling\gatling-commons\2.2.4\gatling-commons-2.2.4.jar -> lastModified(1541782631669)
 C:\Users\rafael.rodrigues\.m2\repository\io\gatling\gatling-core\2.2.4\gatling-core-2.2.4.jar -> lastModified(1541782649989)
@@ -377,42 +419,42 @@ C:\Users\rafael.rodrigues\.m2\repository\io\gatling\gatling-http\2.2.4\gatling-h
 C:\Users\rafael.rodrigues\.m2\repository\org\scala-lang\scala-library\2.11.11\scala-library-2.11.11.jar -> lastModified(1541782660178)
 class names:
 6 items
-C:\Progra~1\Java\jdk1.8.0_161\jre\lib\rt.jar -> java.lang.Object
-C:\Users\rafael.rodrigues\.m2\repository\io\gatling\gatling-app\2.2.4\gatling-app-2.2.4.jar -> io.gatling.app.Gatling$
-C:\Users\rafael.rodrigues\.m2\repository\io\gatling\gatling-commons\2.2.4\gatling-commons-2.2.4.jar -> io.gatling.commons.Exclude
+C:\Progra~1\Java\jdk1.8.0_191\jre\lib\rt.jar -> java.lang.Object
+C:\Users\rafael.rodrigues\.m2\repository\io\gatling\gatling-app\2.2.4\gatling-app-2.2.4.jar -> io.gatling.app.package$
+C:\Users\rafael.rodrigues\.m2\repository\io\gatling\gatling-commons\2.2.4\gatling-commons-2.2.4.jar -> io.gatling.commons.Exclude$
 C:\Users\rafael.rodrigues\.m2\repository\io\gatling\gatling-core\2.2.4\gatling-core-2.2.4.jar -> io.gatling.core.scenario.Simulation
-C:\Users\rafael.rodrigues\.m2\repository\io\gatling\gatling-http\2.2.4\gatling-http-2.2.4.jar -> io.gatling.http.protocol.HttpProtocolBuilder$
+C:\Users\rafael.rodrigues\.m2\repository\io\gatling\gatling-http\2.2.4\gatling-http-2.2.4.jar -> io.gatling.http.protocol.HttpProtocol
 C:\Users\rafael.rodrigues\.m2\repository\org\scala-lang\scala-library\2.11.11\scala-library-2.11.11.jar -> scala.Predef$
 internal apis:
 6 items
-C:\Users\rafael.rodrigues\Documents\Visual Studio 2017\Projects\performance-test-gpa\src\test\scala\br\com\gpa\api\Products.scala -> 
-rO0ABXNyABB4c2J0aS5hcGkuU291cmNlSjH5SdlLSkQCAAdJAAdhcGlIYXNoWgAIaGFzTWFjcm9aABBoYXNQYWNrYWdlT2JqZWN0TAAYX2ludGVybmFsT25seV9uYW1lSGFzaGVzdAAkTHhzYnRpL2FwaS9faW50ZXJuYWxPbmx5X05hbWVIYXNoZXM7TAADYXBpdAAVTHhzYnRpL2FwaS9Tb3VyY2VBUEk7TAALY29tcGlsYXRpb250ABdMeHNidGkvYXBpL0NvbXBpbGF0aW9uO1sABGhhc2h0AAJbQnhwgA+idAAAc3IAInhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoZXNU2r6Z+tTsTAIAAlsAD2ltcGxpY2l0TWVtYmVyc3QAI1tMeHNidGkvYXBpL19pbnRlcm5hbE9ubHlfTmFtZUhhc2g7WwAOcmVndWxhck1lbWJlcnNxAH4AB3hwdXIAI1tMeHNidGkuYXBpLl9pbnRlcm5hbE9ubHlfTmFtZUhhc2g7SVqAtt2Wi/QCAAB4cAAAAAB1cQB+AAkAAAAWc3IAIHhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoWw71InY4V88CAAJJAARoYXNoTAAEbmFtZXQAEkxqYXZhL2xhbmcvU3RyaW5nO3hw1LDpCHQABm5vdGlmeXNxAH4ADDdsTTd0AAR3YWl0c3EAfgAMmhg5gnQADSRhc0luc3RhbmNlT2ZzcQB+AAyPTvUidAAGZXF1YWxzc3EAfgAM2IKkDHQADGFzSW5zdGFuY2VPZnNxAH4ADFYBQtB0AAxzeW5jaHJvbml6ZWRzcQB+AAyfU7e8dAAJbGl2ZVByaWNlc3EAfgAML7NUinQADSRpc0luc3RhbmNlT2ZzcQB+AAwUnKd0dAAMc2t1TGl2ZVByaWNlc3EAfgAMsMQKOXQACW5vdGlmeUFsbHNxAH4ADKeUwzx0AAxpc0luc3RhbmNlT2ZzcQB+AAzlQRjIdAACPT1zcQB+AAw+c+DgdAAFY2xvbmVzcQB+AAy4Jx5OdAAIdG9TdHJpbmdzcQB+AAygx2mtdAACIT1zcQB+AAx3WiAXdAAIZ2V0Q2xhc3NzcQB+AAy91rqSdAACbmVzcQB+AAyYyjOhdAACZXFzcQB+AAytpb4XdAACIyNzcQB+AAx+fvrxdAAIZmluYWxpemVzcQB+AAwwkTMXdAAIaGFzaENvZGVzcQB+AAzDaYx1dAAIUHJvZHVjdHNzcgATeHNidGkuYXBpLlNvdXJjZUFQSblep/kpIzikAgACWwALZGVmaW5pdGlvbnN0ABdbTHhzYnRpL2FwaS9EZWZpbml0aW9uO1sACHBhY2thZ2VzdAAUW0x4c2J0aS9hcGkvUGFja2FnZTt4cHVyABdbTHhzYnRpLmFwaS5EZWZpbml0aW9uO4jJXOe0414OAgAAeHAAAAABc3IAE3hzYnRpLmFwaS5DbGFzc0xpa2WDNByh37CXbAIABEwADmRlZmluaXRpb25UeXBldAAaTHhzYnRpL2FwaS9EZWZpbml0aW9uVHlwZTtbABBzYXZlZEFubm90YXRpb25zdAATW0xqYXZhL2xhbmcvU3RyaW5nO0wACHNlbGZUeXBldAAQTHhzYnRpL2FwaS9MYXp5O0wACXN0cnVjdHVyZXEAfgBDeHIAIXhzYnRpLmFwaS5QYXJhbWV0ZXJpemVkRGVmaW5pdGlvbvkRbrHVUDziAgABWwAOdHlwZVBhcmFtZXRlcnN0ABpbTHhzYnRpL2FwaS9UeXBlUGFyYW1ldGVyO3hyABR4c2J0aS5hcGkuRGVmaW5pdGlvbocqG+hxQuNGAgAETAAGYWNjZXNzdAASTHhzYnRpL2FwaS9BY2Nlc3M7WwALYW5ub3RhdGlvbnN0ABdbTHhzYnRpL2FwaS9Bbm5vdGF0aW9uO0wACW1vZGlmaWVyc3QAFUx4c2J0aS9hcGkvTW9kaWZpZXJzO0wABG5hbWVxAH4ADXhwc3IAEHhzYnRpLmFwaS5QdWJsaWO6WD2ubC1gQgIAAHhyABB4c2J0aS5hcGkuQWNjZXNz3WKa+B1jMUgCAAB4cHVyABdbTHhzYnRpLmFwaS5Bbm5vdGF0aW9uO+uX6xkQ9o1IAgAAeHAAAAAAc3IAE3hzYnRpLmFwaS5Nb2RpZmllcnOX52HcEyZ7swIAAUIABWZsYWdzeHAAdAAmYnIuY29tLmxvamFzcmVubmVyLnBvcnRhbC5hcGkuUHJvZHVjdHN1cgAaW0x4c2J0aS5hcGkuVHlwZVBhcmFtZXRlcjvZbSYPKJ3ytgIAAHhwAAAAAH5yABh4c2J0aS5hcGkuRGVmaW5pdGlvblR5cGUAAAAAAAAAABIAAHhyAA5qYXZhLmxhbmcuRW51bQAAAAAAAAAAEgAAeHB0AAZNb2R1bGV1cgATW0xqYXZhLmxhbmcuU3RyaW5nO63SVufpHXtHAgAAeHAAAAAAc3IAIXhzYnRpLmFwaS5BYnN0cmFjdExhenkkU3RyaWN0TGF6eQ1mHGspFiq4AgABTAAFdmFsdWV0ABJMamF2YS9sYW5nL09iamVjdDt4cHNyABN4c2J0aS5hcGkuRW1wdHlUeXBlvP2eRkk7iSQCAAB4cgAUeHNidGkuYXBpLlNpbXBsZVR5cGVyeGKIISO/QAIAAHhyAA54c2J0aS5hcGkuVHlwZT9q2SEWSarKAgAAeHBzcQB+AFtzcgATeHNidGkuYXBpLlN0cnVjdHVyZamq+YCTb9gAAgADTAAIZGVjbGFyZWRxAH4AQ0wACWluaGVyaXRlZHEAfgBDTAAHcGFyZW50c3EAfgBDeHEAfgBgc3EAfgBbdXEAfgA+AAAAAHNxAH4AW3VxAH4APgAAAABzcQB+AFt1cgARW0x4c2J0aS5hcGkuVHlwZTt0/6Vae/npQQIAAHhwAAAAAnNyABR4c2J0aS5hcGkuUHJvamVjdGlvbvPSjVTpRaQtAgACTAACaWRxAH4ADUwABnByZWZpeHQAFkx4c2J0aS9hcGkvU2ltcGxlVHlwZTt4cQB+AF90AAZPYmplY3RzcgATeHNidGkuYXBpLlNpbmdsZXRvbvynX/jPVuRGAgABTAAEcGF0aHQAEEx4c2J0aS9hcGkvUGF0aDt4cQB+AF9zcgAOeHNidGkuYXBpLlBhdGibPVwIzqUnhAIAAVsACmNvbXBvbmVudHN0ABpbTHhzYnRpL2FwaS9QYXRoQ29tcG9uZW50O3hwdXIAGltMeHNidGkuYXBpLlBhdGhDb21wb25lbnQ7Q9oJdC1nFnQCAAB4cAAAAANzcgAMeHNidGkuYXBpLklkmDJsizdTxEACAAFMAAJpZHEAfgANeHIAF3hzYnRpLmFwaS5QYXRoQ29tcG9uZW50X5oiWy6Gn7wCAAB4cHQABGphdmFzcQB+AHh0AARsYW5nc3IADnhzYnRpLmFwaS5UaGlz2wntpsxaQFwCAAB4cQB+AHlzcQB+AGx0AANBbnlzcQB+AHBzcQB+AHN1cQB+AHYAAAACc3EAfgB4dAAFc2NhbGFxAH4Af3VyABRbTHhzYnRpLmFwaS5QYWNrYWdlO1sTGTdwpyehAgAAeHAAAAAFc3IAEXhzYnRpLmFwaS5QYWNrYWdlflmP9q7OOVgCAAFMAARuYW1lcQB+AA14cHQAAmJyc3EAfgCJdAAZYnIuY29tLmxvamFzcmVubmVyLnBvcnRhbHNxAH4AiXQAEmJyLmNvbS5sb2phc3Jlbm5lcnNxAH4AiXQABmJyLmNvbXNxAH4AiXQAHWJyLmNvbS5sb2phc3Jlbm5lci5wb3J0YWwuYXBpc3IAFXhzYnRpLmFwaS5Db21waWxhdGlvbu364MNq6KBCAgACSgAJc3RhcnRUaW1lWwAHb3V0cHV0c3QAGltMeHNidGkvYXBpL091dHB1dFNldHRpbmc7eHAAAAFm+h564nVyABpbTHhzYnRpLmFwaS5PdXRwdXRTZXR0aW5nO39qwvOnh6VCAgAAeHAAAAABc3IAF3hzYnRpLmFwaS5PdXRwdXRTZXR0aW5netmaR3T7HXsCAAJMAA9vdXRwdXREaXJlY3RvcnlxAH4ADUwAD3NvdXJjZURpcmVjdG9yeXEAfgANeHB0AGhDOlxVc2Vyc1xyYWZhZWwucm9kcmlndWVzXERvY3VtZW50c1xWaXN1YWwgU3R1ZGlvIDIwMTdcUHJvamVjdHNccGVyZm9ybWFuY2UtdGVzdC1ncGFcdGFyZ2V0XHRlc3QtY2xhc3Nlc3QAAS91cgACW0Ks8xf4BghU4AIAAHhwAAAAFHs53/z6KQFhASvWX+0Arbn9Hzi1
-C:\Users\rafael.rodrigues\Documents\Visual Studio 2017\Projects\performance-test-gpa\src\test\scala\br\com\gpa\api\simulation\ProductSimulation.scala -> 
-rO0ABXNyABB4c2J0aS5hcGkuU291cmNlSjH5SdlLSkQCAAdJAAdhcGlIYXNoWgAIaGFzTWFjcm9aABBoYXNQYWNrYWdlT2JqZWN0TAAYX2ludGVybmFsT25seV9uYW1lSGFzaGVzdAAkTHhzYnRpL2FwaS9faW50ZXJuYWxPbmx5X05hbWVIYXNoZXM7TAADYXBpdAAVTHhzYnRpL2FwaS9Tb3VyY2VBUEk7TAALY29tcGlsYXRpb250ABdMeHNidGkvYXBpL0NvbXBpbGF0aW9uO1sABGhhc2h0AAJbQnhwwGZv+gAAc3IAInhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoZXNU2r6Z+tTsTAIAAlsAD2ltcGxpY2l0TWVtYmVyc3QAI1tMeHNidGkvYXBpL19pbnRlcm5hbE9ubHlfTmFtZUhhc2g7WwAOcmVndWxhck1lbWJlcnNxAH4AB3hwdXIAI1tMeHNidGkuYXBpLl9pbnRlcm5hbE9ubHlfTmFtZUhhc2g7SVqAtt2Wi/QCAAB4cAAAAAB1cQB+AAkAAAApc3IAIHhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoWw71InY4V88CAAJJAARoYXNoTAAEbmFtZXQAEkxqYXZhL2xhbmcvU3RyaW5nO3hwXWJ28XQABm5vdGlmeXNxAH4ADD9n3b90AAlwcm90b2NvbHNzcQB+AAywr9xfdAAFc2V0VXBzcQB+AAyHSJoidAARc2NlbmFyaW9MaXZlUHJpY2VzcQB+AAxEWOEQdAAEd2FpdHNxAH4ADNu5sZ10AA1kaXNhYmxlUGF1c2Vzc3EAfgAMMQU/CHQADSRhc0luc3RhbmNlT2ZzcQB+AAy3WobcdAAGZXF1YWxzc3EAfgAMgZ0K8nQAEWV4cG9uZW50aWFsUGF1c2Vzc3EAfgAMjhA1NHQADGFzSW5zdGFuY2VPZnNxAH4ADORRfB10AAZiZWZvcmVzcQB+AAwiUPR/dAAGcGFyYW1zc3EAfgAM+4XFRnQADHN5bmNocm9uaXplZHNxAH4ADNztU+V0AA0kaXNJbnN0YW5jZU9mc3EAfgAMzAPF03QADWV4ZWN1dGVCZWZvcmVzcQB+AAzDdkQrdAAGcGF1c2Vzc3EAfgAMlgAeznQADGV4ZWN1dGVBZnRlcnNxAH4ADPcHxjV0AA5jb25zdGFudFBhdXNlc3NxAH4ADBo/+fV0AAlub3RpZnlBbGxzcQB+AAyWFDO4dAAMaXNJbnN0YW5jZU9mc3EAfgAMiXQIYXQABjxpbml0PnNxAH4ADIRIgqx0AAVhZnRlcnNxAH4ADDhOq2x0AAphc3NlcnRpb25zc3EAfgAMxptQMXQAAj09c3EAfgAMPTFHXnQABWNsb25lc3EAfgAMI/EEknQAEVByb2R1Y3RTaW11bGF0aW9uc3EAfgAMRAkV+3QAC21heER1cmF0aW9uc3EAfgAMu8Y2g3QADXVuaWZvcm1QYXVzZXNzcQB+AAxKG6kgdAAIdG9TdHJpbmdzcQB+AAzPtj/JdAACIT1zcQB+AAzQSyQadAAMaHR0cFByb3RvY29sc3EAfgAMmrIV+XQACGdldENsYXNzc3EAfgAMVP/rgXQACHRocm90dGxlc3EAfgAMe097xXQAAm5lc3EAfgAM87MI0nQADGN1c3RvbVBhdXNlc3NxAH4ADP+N/yh0AAJlcXNxAH4ADCQyxx10AAVTZXRVcHNxAH4ADDqd5qF0AAIjI3NxAH4ADCNbhut0AAhmaW5hbGl6ZXNxAH4ADErU9Qt0AAhoYXNoQ29kZXNxAH4ADGDlYDl0ABRzY2VuYXJpb1NrdUxpdmVQcmljZXNyABN4c2J0aS5hcGkuU291cmNlQVBJuV6n+SkjOKQCAAJbAAtkZWZpbml0aW9uc3QAF1tMeHNidGkvYXBpL0RlZmluaXRpb247WwAIcGFja2FnZXN0ABRbTHhzYnRpL2FwaS9QYWNrYWdlO3hwdXIAF1tMeHNidGkuYXBpLkRlZmluaXRpb247iMlc57TjXg4CAAB4cAAAAAFzcgATeHNidGkuYXBpLkNsYXNzTGlrZYM0HKHfsJdsAgAETAAOZGVmaW5pdGlvblR5cGV0ABpMeHNidGkvYXBpL0RlZmluaXRpb25UeXBlO1sAEHNhdmVkQW5ub3RhdGlvbnN0ABNbTGphdmEvbGFuZy9TdHJpbmc7TAAIc2VsZlR5cGV0ABBMeHNidGkvYXBpL0xhenk7TAAJc3RydWN0dXJlcQB+AGl4cgAheHNidGkuYXBpLlBhcmFtZXRlcml6ZWREZWZpbml0aW9u+RFusdVQPOICAAFbAA50eXBlUGFyYW1ldGVyc3QAGltMeHNidGkvYXBpL1R5cGVQYXJhbWV0ZXI7eHIAFHhzYnRpLmFwaS5EZWZpbml0aW9uhyob6HFC40YCAARMAAZhY2Nlc3N0ABJMeHNidGkvYXBpL0FjY2VzcztbAAthbm5vdGF0aW9uc3QAF1tMeHNidGkvYXBpL0Fubm90YXRpb247TAAJbW9kaWZpZXJzdAAVTHhzYnRpL2FwaS9Nb2RpZmllcnM7TAAEbmFtZXEAfgANeHBzcgAQeHNidGkuYXBpLlB1YmxpY7pYPa5sLWBCAgAAeHIAEHhzYnRpLmFwaS5BY2Nlc3PdYpr4HWMxSAIAAHhwdXIAF1tMeHNidGkuYXBpLkFubm90YXRpb24765frGRD2jUgCAAB4cAAAAABzcgATeHNidGkuYXBpLk1vZGlmaWVyc5fnYdwTJnuzAgABQgAFZmxhZ3N4cAB0ACtici5jb20uZ3BhLmFwaS5zaW11bGF0aW9uLlByb2R1Y3RTaW11bGF0aW9udXIAGltMeHNidGkuYXBpLlR5cGVQYXJhbWV0ZXI72W0mDyid8rYCAAB4cAAAAAB+cgAYeHNidGkuYXBpLkRlZmluaXRpb25UeXBlAAAAAAAAAAASAAB4cgAOamF2YS5sYW5nLkVudW0AAAAAAAAAABIAAHhwdAAIQ2xhc3NEZWZ1cgATW0xqYXZhLmxhbmcuU3RyaW5nO63SVufpHXtHAgAAeHAAAAAAc3IAIXhzYnRpLmFwaS5BYnN0cmFjdExhenkkU3RyaWN0TGF6eQ1mHGspFiq4AgABTAAFdmFsdWV0ABJMamF2YS9sYW5nL09iamVjdDt4cHNyABN4c2J0aS5hcGkuRW1wdHlUeXBlvP2eRkk7iSQCAAB4cgAUeHNidGkuYXBpLlNpbXBsZVR5cGVyeGKIISO/QAIAAHhyAA54c2J0aS5hcGkuVHlwZT9q2SEWSarKAgAAeHBzcQB+AIFzcgATeHNidGkuYXBpLlN0cnVjdHVyZamq+YCTb9gAAgADTAAIZGVjbGFyZWRxAH4AaUwACWluaGVyaXRlZHEAfgBpTAAHcGFyZW50c3EAfgBpeHEAfgCGc3EAfgCBdXEAfgBkAAAAAHNxAH4AgXVxAH4AZAAAAABzcQB+AIF1cgARW0x4c2J0aS5hcGkuVHlwZTt0/6Vae/npQQIAAHhwAAAAA3NyABR4c2J0aS5hcGkuUHJvamVjdGlvbvPSjVTpRaQtAgACTAACaWRxAH4ADUwABnByZWZpeHQAFkx4c2J0aS9hcGkvU2ltcGxlVHlwZTt4cQB+AIV0AApTaW11bGF0aW9uc3IAE3hzYnRpLmFwaS5TaW5nbGV0b278p1/4z1bkRgIAAUwABHBhdGh0ABBMeHNidGkvYXBpL1BhdGg7eHEAfgCFc3IADnhzYnRpLmFwaS5QYXRomz1cCM6lJ4QCAAFbAApjb21wb25lbnRzdAAaW0x4c2J0aS9hcGkvUGF0aENvbXBvbmVudDt4cHVyABpbTHhzYnRpLmFwaS5QYXRoQ29tcG9uZW50O0PaCXQtZxZ0AgAAeHAAAAAFc3IADHhzYnRpLmFwaS5JZJgybIs3U8RAAgABTAACaWRxAH4ADXhyABd4c2J0aS5hcGkuUGF0aENvbXBvbmVudF+aIlsuhp+8AgAAeHB0AAJpb3NxAH4AnnQAB2dhdGxpbmdzcQB+AJ50AARjb3Jlc3EAfgCedAAIc2NlbmFyaW9zcgAOeHNidGkuYXBpLlRoaXPbCe2mzFpAXAIAAHhxAH4An3NxAH4AknQABk9iamVjdHNxAH4AlnNxAH4AmXVxAH4AnAAAAANzcQB+AJ50AARqYXZhc3EAfgCedAAEbGFuZ3EAfgCpc3EAfgCSdAADQW55c3EAfgCWc3EAfgCZdXEAfgCcAAAAAnNxAH4AnnQABXNjYWxhcQB+AKl1cgAUW0x4c2J0aS5hcGkuUGFja2FnZTtbExk3cKcnoQIAAHhwAAAABXNyABF4c2J0aS5hcGkuUGFja2FnZX5Zj/auzjlYAgABTAAEbmFtZXEAfgANeHB0AAJicnNxAH4AvHQACmJyLmNvbS5ncGFzcQB+ALx0ABlici5jb20uZ3BhLmFwaS5zaW11bGF0aW9uc3EAfgC8dAAOYnIuY29tLmdwYS5hcGlzcQB+ALx0AAZici5jb21zcgAVeHNidGkuYXBpLkNvbXBpbGF0aW9u7frgw2rooEICAAJKAAlzdGFydFRpbWVbAAdvdXRwdXRzdAAaW0x4c2J0aS9hcGkvT3V0cHV0U2V0dGluZzt4cAAAAWb6HnridXIAGltMeHNidGkuYXBpLk91dHB1dFNldHRpbmc7f2rC86eHpUICAAB4cAAAAAFzcgAXeHNidGkuYXBpLk91dHB1dFNldHRpbmd62ZpHdPsdewIAAkwAD291dHB1dERpcmVjdG9yeXEAfgANTAAPc291cmNlRGlyZWN0b3J5cQB+AA14cHQAaEM6XFVzZXJzXHJhZmFlbC5yb2RyaWd1ZXNcRG9jdW1lbnRzXFZpc3VhbCBTdHVkaW8gMjAxN1xQcm9qZWN0c1xwZXJmb3JtYW5jZS10ZXN0LWdwYVx0YXJnZXRcdGVzdC1jbGFzc2VzdAABL3VyAAJbQqzzF/gGCFTgAgAAeHAAAAAUOHcH49VwpImNx6HL5zDczvuSHR8=
-C:\Users\rafael.rodrigues\Documents\Visual Studio 2017\Projects\performance-test-gpa\src\test\scala\br\com\gpa\header\Header.scala -> 
-rO0ABXNyABB4c2J0aS5hcGkuU291cmNlSjH5SdlLSkQCAAdJAAdhcGlIYXNoWgAIaGFzTWFjcm9aABBoYXNQYWNrYWdlT2JqZWN0TAAYX2ludGVybmFsT25seV9uYW1lSGFzaGVzdAAkTHhzYnRpL2FwaS9faW50ZXJuYWxPbmx5X05hbWVIYXNoZXM7TAADYXBpdAAVTHhzYnRpL2FwaS9Tb3VyY2VBUEk7TAALY29tcGlsYXRpb250ABdMeHNidGkvYXBpL0NvbXBpbGF0aW9uO1sABGhhc2h0AAJbQnhwVGZfOwAAc3IAInhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoZXNU2r6Z+tTsTAIAAlsAD2ltcGxpY2l0TWVtYmVyc3QAI1tMeHNidGkvYXBpL19pbnRlcm5hbE9ubHlfTmFtZUhhc2g7WwAOcmVndWxhck1lbWJlcnNxAH4AB3hwdXIAI1tMeHNidGkuYXBpLl9pbnRlcm5hbE9ubHlfTmFtZUhhc2g7SVqAtt2Wi/QCAAB4cAAAAAB1cQB+AAkAAAAWc3IAIHhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoWw71InY4V88CAAJJAARoYXNoTAAEbmFtZXQAEkxqYXZhL2xhbmcvU3RyaW5nO3hwik9xUnQABm5vdGlmeXNxAH4ADN3NKGt0AAZIZWFkZXJzcQB+AAzWWu/fdAAEd2FpdHNxAH4ADONwmT10AA0kYXNJbnN0YW5jZU9mc3EAfgAMjFdsC3QABmVxdWFsc3NxAH4ADOKrY3d0AAxhc0luc3RhbmNlT2ZzcQB+AAyZEV+OdAAMc3luY2hyb25pemVkc3EAfgAM9Lls3nQADSRpc0luc3RhbmNlT2ZzcQB+AAywU12EdAAJbm90aWZ5QWxsc3EAfgAMmhiBlnQADGlzSW5zdGFuY2VPZnNxAH4ADK1mKXh0ABFoZWFkZXJfbGl2ZV9wcmljZXNxAH4ADH8ADH50AAI9PXNxAH4ADOA4V1h0AAVjbG9uZXNxAH4ADG6pe+50AAh0b1N0cmluZ3NxAH4ADFH8T2B0AAIhPXNxAH4ADL5UnAR0AAhnZXRDbGFzc3NxAH4ADNU+ahB0AAJuZXNxAH4ADE2ODF90AAJlcXNxAH4ADO3KpgB0ABVoZWFkZXJfc2t1X2xpdmVfcHJpY2VzcQB+AAzOL6jndAACIyNzcQB+AAx7Sv+ydAAIZmluYWxpemVzcQB+AAw9HHbvdAAIaGFzaENvZGVzcgATeHNidGkuYXBpLlNvdXJjZUFQSblep/kpIzikAgACWwALZGVmaW5pdGlvbnN0ABdbTHhzYnRpL2FwaS9EZWZpbml0aW9uO1sACHBhY2thZ2VzdAAUW0x4c2J0aS9hcGkvUGFja2FnZTt4cHVyABdbTHhzYnRpLmFwaS5EZWZpbml0aW9uO4jJXOe0414OAgAAeHAAAAABc3IAE3hzYnRpLmFwaS5DbGFzc0xpa2WDNByh37CXbAIABEwADmRlZmluaXRpb25UeXBldAAaTHhzYnRpL2FwaS9EZWZpbml0aW9uVHlwZTtbABBzYXZlZEFubm90YXRpb25zdAATW0xqYXZhL2xhbmcvU3RyaW5nO0wACHNlbGZUeXBldAAQTHhzYnRpL2FwaS9MYXp5O0wACXN0cnVjdHVyZXEAfgBDeHIAIXhzYnRpLmFwaS5QYXJhbWV0ZXJpemVkRGVmaW5pdGlvbvkRbrHVUDziAgABWwAOdHlwZVBhcmFtZXRlcnN0ABpbTHhzYnRpL2FwaS9UeXBlUGFyYW1ldGVyO3hyABR4c2J0aS5hcGkuRGVmaW5pdGlvbocqG+hxQuNGAgAETAAGYWNjZXNzdAASTHhzYnRpL2FwaS9BY2Nlc3M7WwALYW5ub3RhdGlvbnN0ABdbTHhzYnRpL2FwaS9Bbm5vdGF0aW9uO0wACW1vZGlmaWVyc3QAFUx4c2J0aS9hcGkvTW9kaWZpZXJzO0wABG5hbWVxAH4ADXhwc3IAEHhzYnRpLmFwaS5QdWJsaWO6WD2ubC1gQgIAAHhyABB4c2J0aS5hcGkuQWNjZXNz3WKa+B1jMUgCAAB4cHVyABdbTHhzYnRpLmFwaS5Bbm5vdGF0aW9uO+uX6xkQ9o1IAgAAeHAAAAAAc3IAE3hzYnRpLmFwaS5Nb2RpZmllcnOX52HcEyZ7swIAAUIABWZsYWdzeHAAdAAYYnIuY29tLmdwYS5oZWFkZXIuSGVhZGVydXIAGltMeHNidGkuYXBpLlR5cGVQYXJhbWV0ZXI72W0mDyid8rYCAAB4cAAAAAB+cgAYeHNidGkuYXBpLkRlZmluaXRpb25UeXBlAAAAAAAAAAASAAB4cgAOamF2YS5sYW5nLkVudW0AAAAAAAAAABIAAHhwdAAGTW9kdWxldXIAE1tMamF2YS5sYW5nLlN0cmluZzut0lbn6R17RwIAAHhwAAAAAHNyACF4c2J0aS5hcGkuQWJzdHJhY3RMYXp5JFN0cmljdExhenkNZhxrKRYquAIAAUwABXZhbHVldAASTGphdmEvbGFuZy9PYmplY3Q7eHBzcgATeHNidGkuYXBpLkVtcHR5VHlwZbz9nkZJO4kkAgAAeHIAFHhzYnRpLmFwaS5TaW1wbGVUeXBlcnhiiCEjv0ACAAB4cgAOeHNidGkuYXBpLlR5cGU/atkhFkmqygIAAHhwc3EAfgBbc3IAE3hzYnRpLmFwaS5TdHJ1Y3R1cmWpqvmAk2/YAAIAA0wACGRlY2xhcmVkcQB+AENMAAlpbmhlcml0ZWRxAH4AQ0wAB3BhcmVudHNxAH4AQ3hxAH4AYHNxAH4AW3VxAH4APgAAAABzcQB+AFt1cQB+AD4AAAAAc3EAfgBbdXIAEVtMeHNidGkuYXBpLlR5cGU7dP+lWnv56UECAAB4cAAAAAJzcgAUeHNidGkuYXBpLlByb2plY3Rpb27z0o1U6UWkLQIAAkwAAmlkcQB+AA1MAAZwcmVmaXh0ABZMeHNidGkvYXBpL1NpbXBsZVR5cGU7eHEAfgBfdAAGT2JqZWN0c3IAE3hzYnRpLmFwaS5TaW5nbGV0b278p1/4z1bkRgIAAUwABHBhdGh0ABBMeHNidGkvYXBpL1BhdGg7eHEAfgBfc3IADnhzYnRpLmFwaS5QYXRomz1cCM6lJ4QCAAFbAApjb21wb25lbnRzdAAaW0x4c2J0aS9hcGkvUGF0aENvbXBvbmVudDt4cHVyABpbTHhzYnRpLmFwaS5QYXRoQ29tcG9uZW50O0PaCXQtZxZ0AgAAeHAAAAADc3IADHhzYnRpLmFwaS5JZJgybIs3U8RAAgABTAACaWRxAH4ADXhyABd4c2J0aS5hcGkuUGF0aENvbXBvbmVudF+aIlsuhp+8AgAAeHB0AARqYXZhc3EAfgB4dAAEbGFuZ3NyAA54c2J0aS5hcGkuVGhpc9sJ7abMWkBcAgAAeHEAfgB5c3EAfgBsdAADQW55c3EAfgBwc3EAfgBzdXEAfgB2AAAAAnNxAH4AeHQABXNjYWxhcQB+AH91cgAUW0x4c2J0aS5hcGkuUGFja2FnZTtbExk3cKcnoQIAAHhwAAAABHNyABF4c2J0aS5hcGkuUGFja2FnZX5Zj/auzjlYAgABTAAEbmFtZXEAfgANeHB0AAJicnNxAH4AiXQACmJyLmNvbS5ncGFzcQB+AIl0AAZici5jb21zcQB+AIl0ABFici5jb20uZ3BhLmhlYWRlcnNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABZvoeeuJ1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5cQB+AA1MAA9zb3VyY2VEaXJlY3RvcnlxAH4ADXhwdABoQzpcVXNlcnNccmFmYWVsLnJvZHJpZ3Vlc1xEb2N1bWVudHNcVmlzdWFsIFN0dWRpbyAyMDE3XFByb2plY3RzXHBlcmZvcm1hbmNlLXRlc3QtZ3BhXHRhcmdldFx0ZXN0LWNsYXNzZXN0AAEvdXIAAltCrPMX+AYIVOACAAB4cAAAABTRGS+JDcBHlONUJH/wKKDQWNGFZw==
-C:\Users\rafael.rodrigues\Documents\Visual Studio 2017\Projects\performance-test-gpa\src\test\scala\br\com\gpa\utils\Config.scala -> 
-rO0ABXNyABB4c2J0aS5hcGkuU291cmNlSjH5SdlLSkQCAAdJAAdhcGlIYXNoWgAIaGFzTWFjcm9aABBoYXNQYWNrYWdlT2JqZWN0TAAYX2ludGVybmFsT25seV9uYW1lSGFzaGVzdAAkTHhzYnRpL2FwaS9faW50ZXJuYWxPbmx5X05hbWVIYXNoZXM7TAADYXBpdAAVTHhzYnRpL2FwaS9Tb3VyY2VBUEk7TAALY29tcGlsYXRpb250ABdMeHNidGkvYXBpL0NvbXBpbGF0aW9uO1sABGhhc2h0AAJbQnhwR3Rq3AAAc3IAInhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoZXNU2r6Z+tTsTAIAAlsAD2ltcGxpY2l0TWVtYmVyc3QAI1tMeHNidGkvYXBpL19pbnRlcm5hbE9ubHlfTmFtZUhhc2g7WwAOcmVndWxhck1lbWJlcnNxAH4AB3hwdXIAI1tMeHNidGkuYXBpLl9pbnRlcm5hbE9ubHlfTmFtZUhhc2g7SVqAtt2Wi/QCAAB4cAAAAAB1cQB+AAkAAAAVc3IAIHhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoWw71InY4V88CAAJJAARoYXNoTAAEbmFtZXQAEkxqYXZhL2xhbmcvU3RyaW5nO3hwhjKpzXQABm5vdGlmeXNxAH4ADL2uJLp0AA11cmxBcGlQcmVmaXhvc3EAfgAMcDh/InQABHdhaXRzcQB+AAy2hIZZdAANJGFzSW5zdGFuY2VPZnNxAH4ADC355zh0AAZlcXVhbHNzcQB+AAxSuNUedAAMYXNJbnN0YW5jZU9mc3EAfgAMdoeiMXQADHN5bmNocm9uaXplZHNxAH4ADE73HtJ0AA0kaXNJbnN0YW5jZU9mc3EAfgAMhcq7THQACW5vdGlmeUFsbHNxAH4ADD7fmk50AAxpc0luc3RhbmNlT2ZzcQB+AAy4i0C+dAAGQ29uZmlnc3EAfgAMbnsL5XQAAj09c3EAfgAMEw+1inQABWNsb25lc3EAfgAM7npmRHQACHRvU3RyaW5nc3EAfgAMrwanhHQAAiE9c3EAfgAMw0W56nQACGdldENsYXNzc3EAfgAML/wfUnQAAm5lc3EAfgAMxeVvZnQAAmVxc3EAfgAMPnBxonQAAiMjc3EAfgAM5ZWHH3QACGZpbmFsaXplc3EAfgAM0FCfwXQACGhhc2hDb2Rlc3IAE3hzYnRpLmFwaS5Tb3VyY2VBUEm5Xqf5KSM4pAIAAlsAC2RlZmluaXRpb25zdAAXW0x4c2J0aS9hcGkvRGVmaW5pdGlvbjtbAAhwYWNrYWdlc3QAFFtMeHNidGkvYXBpL1BhY2thZ2U7eHB1cgAXW0x4c2J0aS5hcGkuRGVmaW5pdGlvbjuIyVzntONeDgIAAHhwAAAAAXNyABN4c2J0aS5hcGkuQ2xhc3NMaWtlgzQcod+wl2wCAARMAA5kZWZpbml0aW9uVHlwZXQAGkx4c2J0aS9hcGkvRGVmaW5pdGlvblR5cGU7WwAQc2F2ZWRBbm5vdGF0aW9uc3QAE1tMamF2YS9sYW5nL1N0cmluZztMAAhzZWxmVHlwZXQAEEx4c2J0aS9hcGkvTGF6eTtMAAlzdHJ1Y3R1cmVxAH4AQXhyACF4c2J0aS5hcGkuUGFyYW1ldGVyaXplZERlZmluaXRpb275EW6x1VA84gIAAVsADnR5cGVQYXJhbWV0ZXJzdAAaW0x4c2J0aS9hcGkvVHlwZVBhcmFtZXRlcjt4cgAUeHNidGkuYXBpLkRlZmluaXRpb26HKhvocULjRgIABEwABmFjY2Vzc3QAEkx4c2J0aS9hcGkvQWNjZXNzO1sAC2Fubm90YXRpb25zdAAXW0x4c2J0aS9hcGkvQW5ub3RhdGlvbjtMAAltb2RpZmllcnN0ABVMeHNidGkvYXBpL01vZGlmaWVycztMAARuYW1lcQB+AA14cHNyABB4c2J0aS5hcGkuUHVibGljulg9rmwtYEICAAB4cgAQeHNidGkuYXBpLkFjY2Vzc91imvgdYzFIAgAAeHB1cgAXW0x4c2J0aS5hcGkuQW5ub3RhdGlvbjvrl+sZEPaNSAIAAHhwAAAAAHNyABN4c2J0aS5hcGkuTW9kaWZpZXJzl+dh3BMme7MCAAFCAAVmbGFnc3hwAHQAF2JyLmNvbS5ncGEudXRpbHMuQ29uZmlndXIAGltMeHNidGkuYXBpLlR5cGVQYXJhbWV0ZXI72W0mDyid8rYCAAB4cAAAAAB+cgAYeHNidGkuYXBpLkRlZmluaXRpb25UeXBlAAAAAAAAAAASAAB4cgAOamF2YS5sYW5nLkVudW0AAAAAAAAAABIAAHhwdAAGTW9kdWxldXIAE1tMamF2YS5sYW5nLlN0cmluZzut0lbn6R17RwIAAHhwAAAAAHNyACF4c2J0aS5hcGkuQWJzdHJhY3RMYXp5JFN0cmljdExhenkNZhxrKRYquAIAAUwABXZhbHVldAASTGphdmEvbGFuZy9PYmplY3Q7eHBzcgATeHNidGkuYXBpLkVtcHR5VHlwZbz9nkZJO4kkAgAAeHIAFHhzYnRpLmFwaS5TaW1wbGVUeXBlcnhiiCEjv0ACAAB4cgAOeHNidGkuYXBpLlR5cGU/atkhFkmqygIAAHhwc3EAfgBZc3IAE3hzYnRpLmFwaS5TdHJ1Y3R1cmWpqvmAk2/YAAIAA0wACGRlY2xhcmVkcQB+AEFMAAlpbmhlcml0ZWRxAH4AQUwAB3BhcmVudHNxAH4AQXhxAH4AXnNxAH4AWXVxAH4APAAAAABzcQB+AFl1cQB+ADwAAAAAc3EAfgBZdXIAEVtMeHNidGkuYXBpLlR5cGU7dP+lWnv56UECAAB4cAAAAAJzcgAUeHNidGkuYXBpLlByb2plY3Rpb27z0o1U6UWkLQIAAkwAAmlkcQB+AA1MAAZwcmVmaXh0ABZMeHNidGkvYXBpL1NpbXBsZVR5cGU7eHEAfgBddAAGT2JqZWN0c3IAE3hzYnRpLmFwaS5TaW5nbGV0b278p1/4z1bkRgIAAUwABHBhdGh0ABBMeHNidGkvYXBpL1BhdGg7eHEAfgBdc3IADnhzYnRpLmFwaS5QYXRomz1cCM6lJ4QCAAFbAApjb21wb25lbnRzdAAaW0x4c2J0aS9hcGkvUGF0aENvbXBvbmVudDt4cHVyABpbTHhzYnRpLmFwaS5QYXRoQ29tcG9uZW50O0PaCXQtZxZ0AgAAeHAAAAADc3IADHhzYnRpLmFwaS5JZJgybIs3U8RAAgABTAACaWRxAH4ADXhyABd4c2J0aS5hcGkuUGF0aENvbXBvbmVudF+aIlsuhp+8AgAAeHB0AARqYXZhc3EAfgB2dAAEbGFuZ3NyAA54c2J0aS5hcGkuVGhpc9sJ7abMWkBcAgAAeHEAfgB3c3EAfgBqdAADQW55c3EAfgBuc3EAfgBxdXEAfgB0AAAAAnNxAH4AdnQABXNjYWxhcQB+AH11cgAUW0x4c2J0aS5hcGkuUGFja2FnZTtbExk3cKcnoQIAAHhwAAAABHNyABF4c2J0aS5hcGkuUGFja2FnZX5Zj/auzjlYAgABTAAEbmFtZXEAfgANeHB0AAJicnNxAH4Ah3QACmJyLmNvbS5ncGFzcQB+AId0AAZici5jb21zcQB+AId0ABBici5jb20uZ3BhLnV0aWxzc3IAFXhzYnRpLmFwaS5Db21waWxhdGlvbu364MNq6KBCAgACSgAJc3RhcnRUaW1lWwAHb3V0cHV0c3QAGltMeHNidGkvYXBpL091dHB1dFNldHRpbmc7eHAAAAFm+h564nVyABpbTHhzYnRpLmFwaS5PdXRwdXRTZXR0aW5nO39qwvOnh6VCAgAAeHAAAAABc3IAF3hzYnRpLmFwaS5PdXRwdXRTZXR0aW5netmaR3T7HXsCAAJMAA9vdXRwdXREaXJlY3RvcnlxAH4ADUwAD3NvdXJjZURpcmVjdG9yeXEAfgANeHB0AGhDOlxVc2Vyc1xyYWZhZWwucm9kcmlndWVzXERvY3VtZW50c1xWaXN1YWwgU3R1ZGlvIDIwMTdcUHJvamVjdHNccGVyZm9ybWFuY2UtdGVzdC1ncGFcdGFyZ2V0XHRlc3QtY2xhc3Nlc3QAAS91cgACW0Ks8xf4BghU4AIAAHhwAAAAFO2CVUEI/TTmh6E98xAm/tXqn0rL
-C:\Users\rafael.rodrigues\Documents\Visual Studio 2017\Projects\performance-test-gpa\src\test\scala\Engine.scala -> 
-rO0ABXNyABB4c2J0aS5hcGkuU291cmNlSjH5SdlLSkQCAAdJAAdhcGlIYXNoWgAIaGFzTWFjcm9aABBoYXNQYWNrYWdlT2JqZWN0TAAYX2ludGVybmFsT25seV9uYW1lSGFzaGVzdAAkTHhzYnRpL2FwaS9faW50ZXJuYWxPbmx5X05hbWVIYXNoZXM7TAADYXBpdAAVTHhzYnRpL2FwaS9Tb3VyY2VBUEk7TAALY29tcGlsYXRpb250ABdMeHNidGkvYXBpL0NvbXBpbGF0aW9uO1sABGhhc2h0AAJbQnhw9jcm4wAAc3IAInhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoZXNU2r6Z+tTsTAIAAlsAD2ltcGxpY2l0TWVtYmVyc3QAI1tMeHNidGkvYXBpL19pbnRlcm5hbE9ubHlfTmFtZUhhc2g7WwAOcmVndWxhck1lbWJlcnNxAH4AB3hwdXIAI1tMeHNidGkuYXBpLl9pbnRlcm5hbE9ubHlfTmFtZUhhc2g7SVqAtt2Wi/QCAAB4cAAAAAB1cQB+AAkAAAAac3IAIHhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoWw71InY4V88CAAJJAARoYXNoTAAEbmFtZXQAEkxqYXZhL2xhbmcvU3RyaW5nO3hwjAV/MnQABm5vdGlmeXNxAH4ADAxH2O90AAR3YWl0c3EAfgAMzDcLD3QADSRhc0luc3RhbmNlT2ZzcQB+AAyCh2Z0dAAGRW5naW5lc3EAfgAMC7GignQABmVxdWFsc3NxAH4ADPnnvol0AAxhc0luc3RhbmNlT2ZzcQB+AAwDRaondAAOZXhlY3V0aW9uU3RhcnRzcQB+AAz/S3JsdAAMc3luY2hyb25pemVkc3EAfgAMzgIMKnQADSRpc0luc3RhbmNlT2ZzcQB+AAxRyl1NdAAEbWFpbnNxAH4ADBC89CZ0AAlub3RpZnlBbGxzcQB+AAzeOUiEdAAMaXNJbnN0YW5jZU9mc3EAfgAMz+XRZ3QAAj09c3EAfgAMhQrjC3QABWNsb25lc3EAfgAM9u6vCnQABiRpbml0JHNxAH4ADPZHS/V0AAh0b1N0cmluZ3NxAH4ADHfTpPx0AARhcmdzc3EAfgAMK9OpAXQAAiE9c3EAfgAMFw0St3QACGdldENsYXNzc3EAfgAMq2qrgnQABXByb3Bzc3EAfgAMQIHSiHQAAm5lc3EAfgAMWlyv9XQAAmVxc3EAfgAMJnD42HQAC2RlbGF5ZWRJbml0c3EAfgAMJbxbT3QAAiMjc3EAfgAManzkuXQACGZpbmFsaXplc3EAfgAMJ0IGIHQACGhhc2hDb2Rlc3IAE3hzYnRpLmFwaS5Tb3VyY2VBUEm5Xqf5KSM4pAIAAlsAC2RlZmluaXRpb25zdAAXW0x4c2J0aS9hcGkvRGVmaW5pdGlvbjtbAAhwYWNrYWdlc3QAFFtMeHNidGkvYXBpL1BhY2thZ2U7eHB1cgAXW0x4c2J0aS5hcGkuRGVmaW5pdGlvbjuIyVzntONeDgIAAHhwAAAAAXNyABN4c2J0aS5hcGkuQ2xhc3NMaWtlgzQcod+wl2wCAARMAA5kZWZpbml0aW9uVHlwZXQAGkx4c2J0aS9hcGkvRGVmaW5pdGlvblR5cGU7WwAQc2F2ZWRBbm5vdGF0aW9uc3QAE1tMamF2YS9sYW5nL1N0cmluZztMAAhzZWxmVHlwZXQAEEx4c2J0aS9hcGkvTGF6eTtMAAlzdHJ1Y3R1cmVxAH4AS3hyACF4c2J0aS5hcGkuUGFyYW1ldGVyaXplZERlZmluaXRpb275EW6x1VA84gIAAVsADnR5cGVQYXJhbWV0ZXJzdAAaW0x4c2J0aS9hcGkvVHlwZVBhcmFtZXRlcjt4cgAUeHNidGkuYXBpLkRlZmluaXRpb26HKhvocULjRgIABEwABmFjY2Vzc3QAEkx4c2J0aS9hcGkvQWNjZXNzO1sAC2Fubm90YXRpb25zdAAXW0x4c2J0aS9hcGkvQW5ub3RhdGlvbjtMAAltb2RpZmllcnN0ABVMeHNidGkvYXBpL01vZGlmaWVycztMAARuYW1lcQB+AA14cHNyABB4c2J0aS5hcGkuUHVibGljulg9rmwtYEICAAB4cgAQeHNidGkuYXBpLkFjY2Vzc91imvgdYzFIAgAAeHB1cgAXW0x4c2J0aS5hcGkuQW5ub3RhdGlvbjvrl+sZEPaNSAIAAHhwAAAAAHNyABN4c2J0aS5hcGkuTW9kaWZpZXJzl+dh3BMme7MCAAFCAAVmbGFnc3hwAHEAfgAVdXIAGltMeHNidGkuYXBpLlR5cGVQYXJhbWV0ZXI72W0mDyid8rYCAAB4cAAAAAB+cgAYeHNidGkuYXBpLkRlZmluaXRpb25UeXBlAAAAAAAAAAASAAB4cgAOamF2YS5sYW5nLkVudW0AAAAAAAAAABIAAHhwdAAGTW9kdWxldXIAE1tMamF2YS5sYW5nLlN0cmluZzut0lbn6R17RwIAAHhwAAAAAnQAGnNjYWxhLmRlcHJlY2F0ZWRPdmVycmlkaW5ndAAQc2NhbGEuZGVwcmVjYXRlZHNyACF4c2J0aS5hcGkuQWJzdHJhY3RMYXp5JFN0cmljdExhenkNZhxrKRYquAIAAUwABXZhbHVldAASTGphdmEvbGFuZy9PYmplY3Q7eHBzcgATeHNidGkuYXBpLkVtcHR5VHlwZbz9nkZJO4kkAgAAeHIAFHhzYnRpLmFwaS5TaW1wbGVUeXBlcnhiiCEjv0ACAAB4cgAOeHNidGkuYXBpLlR5cGU/atkhFkmqygIAAHhwc3EAfgBkc3IAE3hzYnRpLmFwaS5TdHJ1Y3R1cmWpqvmAk2/YAAIAA0wACGRlY2xhcmVkcQB+AEtMAAlpbmhlcml0ZWRxAH4AS0wAB3BhcmVudHNxAH4AS3hxAH4AaXNxAH4AZHVxAH4ARgAAAABzcQB+AGR1cQB+AEYAAAABc3IADXhzYnRpLmFwaS5EZWZSvp/ifLQ2aQIAAkwACnJldHVyblR5cGV0ABBMeHNidGkvYXBpL1R5cGU7WwAPdmFsdWVQYXJhbWV0ZXJzdAAaW0x4c2J0aS9hcGkvUGFyYW1ldGVyTGlzdDt4cQB+AExxAH4AVXVxAH4AVgAAAAFzcgAUeHNidGkuYXBpLkFubm90YXRpb27eDoGi9lwKsgIAAlsACWFyZ3VtZW50c3QAH1tMeHNidGkvYXBpL0Fubm90YXRpb25Bcmd1bWVudDtMAARiYXNlcQB+AHN4cHVyAB9bTHhzYnRpLmFwaS5Bbm5vdGF0aW9uQXJndW1lbnQ7UZ2mjzglD3gCAAB4cAAAAAFzcgAceHNidGkuYXBpLkFubm90YXRpb25Bcmd1bWVudNZFsdgDGxd8AgACTAAEbmFtZXEAfgANTAAFdmFsdWVxAH4ADXhwdAAAdAAqKCJtYWluIHNob3VsZCBub3QgYmUgb3ZlcnJpZGRlbiIsIjIuMTEuMCIpc3IAFHhzYnRpLmFwaS5Qcm9qZWN0aW9u89KNVOlFpC0CAAJMAAJpZHEAfgANTAAGcHJlZml4dAAWTHhzYnRpL2FwaS9TaW1wbGVUeXBlO3hxAH4AaHQAFGRlcHJlY2F0ZWRPdmVycmlkaW5nc3IAE3hzYnRpLmFwaS5TaW5nbGV0b278p1/4z1bkRgIAAUwABHBhdGh0ABBMeHNidGkvYXBpL1BhdGg7eHEAfgBoc3IADnhzYnRpLmFwaS5QYXRomz1cCM6lJ4QCAAFbAApjb21wb25lbnRzdAAaW0x4c2J0aS9hcGkvUGF0aENvbXBvbmVudDt4cHVyABpbTHhzYnRpLmFwaS5QYXRoQ29tcG9uZW50O0PaCXQtZxZ0AgAAeHAAAAACc3IADHhzYnRpLmFwaS5JZJgybIs3U8RAAgABTAACaWRxAH4ADXhyABd4c2J0aS5hcGkuUGF0aENvbXBvbmVudF+aIlsuhp+8AgAAeHB0AAVzY2FsYXNyAA54c2J0aS5hcGkuVGhpc9sJ7abMWkBcAgAAeHEAfgCNc3EAfgBYAHEAfgAhdXEAfgBaAAAAAHNxAH4AgHQABFVuaXRxAH4AhnVyABpbTHhzYnRpLmFwaS5QYXJhbWV0ZXJMaXN0O/XTOh3ys3DuAgAAeHAAAAABc3IAF3hzYnRpLmFwaS5QYXJhbWV0ZXJMaXN01sW8HGRJdOMCAAJaAAppc0ltcGxpY2l0WwAKcGFyYW1ldGVyc3QAHFtMeHNidGkvYXBpL01ldGhvZFBhcmFtZXRlcjt4cAB1cgAcW0x4c2J0aS5hcGkuTWV0aG9kUGFyYW1ldGVyO8+4xV2l3bVtAgAAeHAAAAABc3IAGXhzYnRpLmFwaS5NZXRob2RQYXJhbWV0ZXIfRa4X00mw6gIABFoACmhhc0RlZmF1bHRMAAhtb2RpZmllcnQAHUx4c2J0aS9hcGkvUGFyYW1ldGVyTW9kaWZpZXI7TAAEbmFtZXEAfgANTAADdHBlcQB+AHN4cAB+cgAbeHNidGkuYXBpLlBhcmFtZXRlck1vZGlmaWVyAAAAAAAAAAASAAB4cQB+AF10AAVQbGFpbnEAfgAvc3IAF3hzYnRpLmFwaS5QYXJhbWV0ZXJpemVkFmzuaQPJu38CAAJMAAhiYXNlVHlwZXEAfgCBWwANdHlwZUFyZ3VtZW50c3QAEVtMeHNidGkvYXBpL1R5cGU7eHEAfgBoc3EAfgCAdAAFQXJyYXlxAH4AhnVyABFbTHhzYnRpLmFwaS5UeXBlO3T/pVp7+elBAgAAeHAAAAABc3EAfgCAdAAGU3RyaW5nc3EAfgCEc3EAfgCHdXEAfgCKAAAAA3NxAH4AjHQABGphdmFzcQB+AIx0AARsYW5ncQB+AJFzcQB+AGR1cQB+AKgAAAAEc3EAfgCAdAADQXBwcQB+AIZzcQB+AIB0AAtEZWxheWVkSW5pdHEAfgCGc3EAfgCAdAAGT2JqZWN0cQB+AKxzcQB+AIB0AANBbnlxAH4AhnVyABRbTHhzYnRpLmFwaS5QYWNrYWdlO1sTGTdwpyehAgAAeHAAAAAAc3IAFXhzYnRpLmFwaS5Db21waWxhdGlvbu364MNq6KBCAgACSgAJc3RhcnRUaW1lWwAHb3V0cHV0c3QAGltMeHNidGkvYXBpL091dHB1dFNldHRpbmc7eHAAAAFm+h564nVyABpbTHhzYnRpLmFwaS5PdXRwdXRTZXR0aW5nO39qwvOnh6VCAgAAeHAAAAABc3IAF3hzYnRpLmFwaS5PdXRwdXRTZXR0aW5netmaR3T7HXsCAAJMAA9vdXRwdXREaXJlY3RvcnlxAH4ADUwAD3NvdXJjZURpcmVjdG9yeXEAfgANeHB0AGhDOlxVc2Vyc1xyYWZhZWwucm9kcmlndWVzXERvY3VtZW50c1xWaXN1YWwgU3R1ZGlvIDIwMTdcUHJvamVjdHNccGVyZm9ybWFuY2UtdGVzdC1ncGFcdGFyZ2V0XHRlc3QtY2xhc3Nlc3QAAS91cgACW0Ks8xf4BghU4AIAAHhwAAAAFOmLrPiahL5l0qEx+n4HLU9uvvid
-C:\Users\rafael.rodrigues\Documents\Visual Studio 2017\Projects\performance-test-gpa\src\test\scala\IDEPathHelper.scala -> 
-rO0ABXNyABB4c2J0aS5hcGkuU291cmNlSjH5SdlLSkQCAAdJAAdhcGlIYXNoWgAIaGFzTWFjcm9aABBoYXNQYWNrYWdlT2JqZWN0TAAYX2ludGVybmFsT25seV9uYW1lSGFzaGVzdAAkTHhzYnRpL2FwaS9faW50ZXJuYWxPbmx5X05hbWVIYXNoZXM7TAADYXBpdAAVTHhzYnRpL2FwaS9Tb3VyY2VBUEk7TAALY29tcGlsYXRpb250ABdMeHNidGkvYXBpL0NvbXBpbGF0aW9uO1sABGhhc2h0AAJbQnhwUj8KVgAAc3IAInhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoZXNU2r6Z+tTsTAIAAlsAD2ltcGxpY2l0TWVtYmVyc3QAI1tMeHNidGkvYXBpL19pbnRlcm5hbE9ubHlfTmFtZUhhc2g7WwAOcmVndWxhck1lbWJlcnNxAH4AB3hwdXIAI1tMeHNidGkuYXBpLl9pbnRlcm5hbE9ubHlfTmFtZUhhc2g7SVqAtt2Wi/QCAAB4cAAAAAB1cQB+AAkAAAAfc3IAIHhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoWw71InY4V88CAAJJAARoYXNoTAAEbmFtZXQAEkxqYXZhL2xhbmcvU3RyaW5nO3hwdYufzXQABm5vdGlmeXNxAH4ADEd6pe10AAR3YWl0c3EAfgAM5BkPG3QADSRhc0luc3RhbmNlT2ZzcQB+AAzpo8j+dAAOZ2F0bGluZ0NvbmZVcmxzcQB+AAzWQ2ozdAAGZXF1YWxzc3EAfgAM9TxAOnQADGFzSW5zdGFuY2VPZnNxAH4ADIrYcmJ0ABVtYXZlblNvdXJjZXNEaXJlY3RvcnlzcQB+AAwT8I5DdAAMc3luY2hyb25pemVkc3EAfgAMW8Nb/nQADSRpc0luc3RhbmNlT2ZzcQB+AAwmspoZdAAXbWF2ZW5SZXNvdXJjZXNEaXJlY3RvcnlzcQB+AAw0fBPmdAAJbm90aWZ5QWxsc3EAfgAMAXrLUHQAFm1hdmVuQmluYXJpZXNEaXJlY3RvcnlzcQB+AAwQCktldAANZGF0YURpcmVjdG9yeXNxAH4ADHcnKER0AAxpc0luc3RhbmNlT2ZzcQB+AAxvEGwvdAACPT1zcQB+AAw18/n4dAAQcmVzdWx0c0RpcmVjdG9yeXNxAH4ADOdMiJN0AAVjbG9uZXNxAH4ADM21EFN0AA1JREVQYXRoSGVscGVyc3EAfgAMbtKD73QAD2JvZGllc0RpcmVjdG9yeXNxAH4ADLgLcFl0AAh0b1N0cmluZ3NxAH4ADFzH3IV0AAIhPXNxAH4ADNqtU8J0AAhnZXRDbGFzc3NxAH4ADG+WXP10ABdyZWNvcmRlck91dHB1dERpcmVjdG9yeXNxAH4ADBiAupx0AAJuZXNxAH4ADMB+f7t0ABRtYXZlblRhcmdldERpcmVjdG9yeXNxAH4ADKvkhRl0AAJlcXNxAH4ADFPnn7Z0AA5wcm9qZWN0Um9vdERpcnNxAH4ADAzHYmJ0ABJyZWNvcmRlckNvbmZpZ0ZpbGVzcQB+AAw3ASs7dAACIyNzcQB+AAx9V1BxdAAIZmluYWxpemVzcQB+AAxJ6SaDdAAIaGFzaENvZGVzcgATeHNidGkuYXBpLlNvdXJjZUFQSblep/kpIzikAgACWwALZGVmaW5pdGlvbnN0ABdbTHhzYnRpL2FwaS9EZWZpbml0aW9uO1sACHBhY2thZ2VzdAAUW0x4c2J0aS9hcGkvUGFja2FnZTt4cHVyABdbTHhzYnRpLmFwaS5EZWZpbml0aW9uO4jJXOe0414OAgAAeHAAAAABc3IAE3hzYnRpLmFwaS5DbGFzc0xpa2WDNByh37CXbAIABEwADmRlZmluaXRpb25UeXBldAAaTHhzYnRpL2FwaS9EZWZpbml0aW9uVHlwZTtbABBzYXZlZEFubm90YXRpb25zdAATW0xqYXZhL2xhbmcvU3RyaW5nO0wACHNlbGZUeXBldAAQTHhzYnRpL2FwaS9MYXp5O0wACXN0cnVjdHVyZXEAfgBVeHIAIXhzYnRpLmFwaS5QYXJhbWV0ZXJpemVkRGVmaW5pdGlvbvkRbrHVUDziAgABWwAOdHlwZVBhcmFtZXRlcnN0ABpbTHhzYnRpL2FwaS9UeXBlUGFyYW1ldGVyO3hyABR4c2J0aS5hcGkuRGVmaW5pdGlvbocqG+hxQuNGAgAETAAGYWNjZXNzdAASTHhzYnRpL2FwaS9BY2Nlc3M7WwALYW5ub3RhdGlvbnN0ABdbTHhzYnRpL2FwaS9Bbm5vdGF0aW9uO0wACW1vZGlmaWVyc3QAFUx4c2J0aS9hcGkvTW9kaWZpZXJzO0wABG5hbWVxAH4ADXhwc3IAEHhzYnRpLmFwaS5QdWJsaWO6WD2ubC1gQgIAAHhyABB4c2J0aS5hcGkuQWNjZXNz3WKa+B1jMUgCAAB4cHVyABdbTHhzYnRpLmFwaS5Bbm5vdGF0aW9uO+uX6xkQ9o1IAgAAeHAAAAAAc3IAE3hzYnRpLmFwaS5Nb2RpZmllcnOX52HcEyZ7swIAAUIABWZsYWdzeHAAcQB+ADF1cgAaW0x4c2J0aS5hcGkuVHlwZVBhcmFtZXRlcjvZbSYPKJ3ytgIAAHhwAAAAAH5yABh4c2J0aS5hcGkuRGVmaW5pdGlvblR5cGUAAAAAAAAAABIAAHhyAA5qYXZhLmxhbmcuRW51bQAAAAAAAAAAEgAAeHB0AAZNb2R1bGV1cgATW0xqYXZhLmxhbmcuU3RyaW5nO63SVufpHXtHAgAAeHAAAAAAc3IAIXhzYnRpLmFwaS5BYnN0cmFjdExhenkkU3RyaWN0TGF6eQ1mHGspFiq4AgABTAAFdmFsdWV0ABJMamF2YS9sYW5nL09iamVjdDt4cHNyABN4c2J0aS5hcGkuRW1wdHlUeXBlvP2eRkk7iSQCAAB4cgAUeHNidGkuYXBpLlNpbXBsZVR5cGVyeGKIISO/QAIAAHhyAA54c2J0aS5hcGkuVHlwZT9q2SEWSarKAgAAeHBzcQB+AGxzcgATeHNidGkuYXBpLlN0cnVjdHVyZamq+YCTb9gAAgADTAAIZGVjbGFyZWRxAH4AVUwACWluaGVyaXRlZHEAfgBVTAAHcGFyZW50c3EAfgBVeHEAfgBxc3EAfgBsdXEAfgBQAAAAAHNxAH4AbHVxAH4AUAAAAABzcQB+AGx1cgARW0x4c2J0aS5hcGkuVHlwZTt0/6Vae/npQQIAAHhwAAAAAnNyABR4c2J0aS5hcGkuUHJvamVjdGlvbvPSjVTpRaQtAgACTAACaWRxAH4ADUwABnByZWZpeHQAFkx4c2J0aS9hcGkvU2ltcGxlVHlwZTt4cQB+AHB0AAZPYmplY3RzcgATeHNidGkuYXBpLlNpbmdsZXRvbvynX/jPVuRGAgABTAAEcGF0aHQAEEx4c2J0aS9hcGkvUGF0aDt4cQB+AHBzcgAOeHNidGkuYXBpLlBhdGibPVwIzqUnhAIAAVsACmNvbXBvbmVudHN0ABpbTHhzYnRpL2FwaS9QYXRoQ29tcG9uZW50O3hwdXIAGltMeHNidGkuYXBpLlBhdGhDb21wb25lbnQ7Q9oJdC1nFnQCAAB4cAAAAANzcgAMeHNidGkuYXBpLklkmDJsizdTxEACAAFMAAJpZHEAfgANeHIAF3hzYnRpLmFwaS5QYXRoQ29tcG9uZW50X5oiWy6Gn7wCAAB4cHQABGphdmFzcQB+AIl0AARsYW5nc3IADnhzYnRpLmFwaS5UaGlz2wntpsxaQFwCAAB4cQB+AIpzcQB+AH10AANBbnlzcQB+AIFzcQB+AIR1cQB+AIcAAAACc3EAfgCJdAAFc2NhbGFxAH4AkHVyABRbTHhzYnRpLmFwaS5QYWNrYWdlO1sTGTdwpyehAgAAeHAAAAAAc3IAFXhzYnRpLmFwaS5Db21waWxhdGlvbu364MNq6KBCAgACSgAJc3RhcnRUaW1lWwAHb3V0cHV0c3QAGltMeHNidGkvYXBpL091dHB1dFNldHRpbmc7eHAAAAFm+h564nVyABpbTHhzYnRpLmFwaS5PdXRwdXRTZXR0aW5nO39qwvOnh6VCAgAAeHAAAAABc3IAF3hzYnRpLmFwaS5PdXRwdXRTZXR0aW5netmaR3T7HXsCAAJMAA9vdXRwdXREaXJlY3RvcnlxAH4ADUwAD3NvdXJjZURpcmVjdG9yeXEAfgANeHB0AGhDOlxVc2Vyc1xyYWZhZWwucm9kcmlndWVzXERvY3VtZW50c1xWaXN1YWwgU3R1ZGlvIDIwMTdcUHJvamVjdHNccGVyZm9ybWFuY2UtdGVzdC1ncGFcdGFyZ2V0XHRlc3QtY2xhc3Nlc3QAAS91cgACW0Ks8xf4BghU4AIAAHhwAAAAFA5anT2aAXNjOYwdZTr5wrSFkw2F
+C:\PersonalProjects\performance-test\src\test\scala\br\com\treinamento\api\simulation\UserSimulation.scala -> 
+rO0ABXNyABB4c2J0aS5hcGkuU291cmNlSjH5SdlLSkQCAAdJAAdhcGlIYXNoWgAIaGFzTWFjcm9aABBoYXNQYWNrYWdlT2JqZWN0TAAYX2ludGVybmFsT25seV9uYW1lSGFzaGVzdAAkTHhzYnRpL2FwaS9faW50ZXJuYWxPbmx5X05hbWVIYXNoZXM7TAADYXBpdAAVTHhzYnRpL2FwaS9Tb3VyY2VBUEk7TAALY29tcGlsYXRpb250ABdMeHNidGkvYXBpL0NvbXBpbGF0aW9uO1sABGhhc2h0AAJbQnhwyX54jgAAc3IAInhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoZXNU2r6Z+tTsTAIAAlsAD2ltcGxpY2l0TWVtYmVyc3QAI1tMeHNidGkvYXBpL19pbnRlcm5hbE9ubHlfTmFtZUhhc2g7WwAOcmVndWxhck1lbWJlcnNxAH4AB3hwdXIAI1tMeHNidGkuYXBpLl9pbnRlcm5hbE9ubHlfTmFtZUhhc2g7SVqAtt2Wi/QCAAB4cAAAAAB1cQB+AAkAAAApc3IAIHhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoWw71InY4V88CAAJJAARoYXNoTAAEbmFtZXQAEkxqYXZhL2xhbmcvU3RyaW5nO3hwmnwL7XQABm5vdGlmeXNxAH4ADKtqo2d0AAlwcm90b2NvbHNzcQB+AAySz2+8dAAFc2V0VXBzcQB+AAwly41cdAAEd2FpdHNxAH4ADEGacNF0AA1kaXNhYmxlUGF1c2Vzc3EAfgAMxEp5UnQADSRhc0luc3RhbmNlT2ZzcQB+AAyMLWv2dAAOVXNlclNpbXVsYXRpb25zcQB+AAxVRuoZdAAGZXF1YWxzc3EAfgAMKMSgH3QAEWV4cG9uZW50aWFsUGF1c2Vzc3EAfgAMTS+jVHQADGFzSW5zdGFuY2VPZnNxAH4ADAL4BLd0AAZiZWZvcmVzcQB+AAwJ3UbndAAGcGFyYW1zc3EAfgAMOLRynnQADHN5bmNocm9uaXplZHNxAH4ADKQWKth0AA0kaXNJbnN0YW5jZU9mc3EAfgAMAUQL7HQADWV4ZWN1dGVCZWZvcmVzcQB+AAyUUpc6dAAGcGF1c2Vzc3EAfgAMB9XSIXQADGV4ZWN1dGVBZnRlcnNxAH4ADIiBwiB0AA5jb25zdGFudFBhdXNlc3NxAH4ADJZWHlh0AAlub3RpZnlBbGxzcQB+AAyON6xQdAAMaXNJbnN0YW5jZU9mc3EAfgAMUybgW3QABjxpbml0PnNxAH4ADMg7cXN0AAVhZnRlcnNxAH4ADD3lLhV0AAphc3NlcnRpb25zc3EAfgAM0R89GXQAAj09c3EAfgAMcYcjJnQABWNsb25lc3EAfgAMiv+gBHQACHVzdWFyaW9zc3EAfgAMmnVxiHQAC21heER1cmF0aW9uc3EAfgAMBniOFXQADXVuaWZvcm1QYXVzZXNzcQB+AAzI70P7dAAIdG9TdHJpbmdzcQB+AAwl/UELdAACIT1zcQB+AAyv33uadAAMaHR0cFByb3RvY29sc3EAfgAM2U5oXHQACGdldENsYXNzc3EAfgAMFxJEdHQACHRocm90dGxlc3EAfgAM5hVijnQAEHVzZXJDb21wbGV0ZUNydWRzcQB+AAyc3mZ+dAACbmVzcQB+AAz3SMPQdAAMY3VzdG9tUGF1c2Vzc3EAfgAMjtERHHQAAmVxc3EAfgAMdZjkc3QABVNldFVwc3EAfgAM1qitOXQAAiMjc3EAfgAMKclONnQACGZpbmFsaXplc3EAfgAMcTysmXQACGhhc2hDb2Rlc3IAE3hzYnRpLmFwaS5Tb3VyY2VBUEm5Xqf5KSM4pAIAAlsAC2RlZmluaXRpb25zdAAXW0x4c2J0aS9hcGkvRGVmaW5pdGlvbjtbAAhwYWNrYWdlc3QAFFtMeHNidGkvYXBpL1BhY2thZ2U7eHB1cgAXW0x4c2J0aS5hcGkuRGVmaW5pdGlvbjuIyVzntONeDgIAAHhwAAAAAXNyABN4c2J0aS5hcGkuQ2xhc3NMaWtlgzQcod+wl2wCAARMAA5kZWZpbml0aW9uVHlwZXQAGkx4c2J0aS9hcGkvRGVmaW5pdGlvblR5cGU7WwAQc2F2ZWRBbm5vdGF0aW9uc3QAE1tMamF2YS9sYW5nL1N0cmluZztMAAhzZWxmVHlwZXQAEEx4c2J0aS9hcGkvTGF6eTtMAAlzdHJ1Y3R1cmVxAH4AaXhyACF4c2J0aS5hcGkuUGFyYW1ldGVyaXplZERlZmluaXRpb275EW6x1VA84gIAAVsADnR5cGVQYXJhbWV0ZXJzdAAaW0x4c2J0aS9hcGkvVHlwZVBhcmFtZXRlcjt4cgAUeHNidGkuYXBpLkRlZmluaXRpb26HKhvocULjRgIABEwABmFjY2Vzc3QAEkx4c2J0aS9hcGkvQWNjZXNzO1sAC2Fubm90YXRpb25zdAAXW0x4c2J0aS9hcGkvQW5ub3RhdGlvbjtMAAltb2RpZmllcnN0ABVMeHNidGkvYXBpL01vZGlmaWVycztMAARuYW1lcQB+AA14cHNyABB4c2J0aS5hcGkuUHVibGljulg9rmwtYEICAAB4cgAQeHNidGkuYXBpLkFjY2Vzc91imvgdYzFIAgAAeHB1cgAXW0x4c2J0aS5hcGkuQW5ub3RhdGlvbjvrl+sZEPaNSAIAAHhwAAAAAHNyABN4c2J0aS5hcGkuTW9kaWZpZXJzl+dh3BMme7MCAAFCAAVmbGFnc3hwAHQAMGJyLmNvbS50cmVpbmFtZW50by5hcGkuc2ltdWxhdGlvbi5Vc2VyU2ltdWxhdGlvbnVyABpbTHhzYnRpLmFwaS5UeXBlUGFyYW1ldGVyO9ltJg8onfK2AgAAeHAAAAAAfnIAGHhzYnRpLmFwaS5EZWZpbml0aW9uVHlwZQAAAAAAAAAAEgAAeHIADmphdmEubGFuZy5FbnVtAAAAAAAAAAASAAB4cHQACENsYXNzRGVmdXIAE1tMamF2YS5sYW5nLlN0cmluZzut0lbn6R17RwIAAHhwAAAAAHNyACF4c2J0aS5hcGkuQWJzdHJhY3RMYXp5JFN0cmljdExhenkNZhxrKRYquAIAAUwABXZhbHVldAASTGphdmEvbGFuZy9PYmplY3Q7eHBzcgATeHNidGkuYXBpLkVtcHR5VHlwZbz9nkZJO4kkAgAAeHIAFHhzYnRpLmFwaS5TaW1wbGVUeXBlcnhiiCEjv0ACAAB4cgAOeHNidGkuYXBpLlR5cGU/atkhFkmqygIAAHhwc3EAfgCBc3IAE3hzYnRpLmFwaS5TdHJ1Y3R1cmWpqvmAk2/YAAIAA0wACGRlY2xhcmVkcQB+AGlMAAlpbmhlcml0ZWRxAH4AaUwAB3BhcmVudHNxAH4AaXhxAH4AhnNxAH4AgXVxAH4AZAAAAABzcQB+AIF1cQB+AGQAAAAAc3EAfgCBdXIAEVtMeHNidGkuYXBpLlR5cGU7dP+lWnv56UECAAB4cAAAAANzcgAUeHNidGkuYXBpLlByb2plY3Rpb27z0o1U6UWkLQIAAkwAAmlkcQB+AA1MAAZwcmVmaXh0ABZMeHNidGkvYXBpL1NpbXBsZVR5cGU7eHEAfgCFdAAKU2ltdWxhdGlvbnNyABN4c2J0aS5hcGkuU2luZ2xldG9u/Kdf+M9W5EYCAAFMAARwYXRodAAQTHhzYnRpL2FwaS9QYXRoO3hxAH4AhXNyAA54c2J0aS5hcGkuUGF0aJs9XAjOpSeEAgABWwAKY29tcG9uZW50c3QAGltMeHNidGkvYXBpL1BhdGhDb21wb25lbnQ7eHB1cgAaW0x4c2J0aS5hcGkuUGF0aENvbXBvbmVudDtD2gl0LWcWdAIAAHhwAAAABXNyAAx4c2J0aS5hcGkuSWSYMmyLN1PEQAIAAUwAAmlkcQB+AA14cgAXeHNidGkuYXBpLlBhdGhDb21wb25lbnRfmiJbLoafvAIAAHhwdAACaW9zcQB+AJ50AAdnYXRsaW5nc3EAfgCedAAEY29yZXNxAH4AnnQACHNjZW5hcmlvc3IADnhzYnRpLmFwaS5UaGlz2wntpsxaQFwCAAB4cQB+AJ9zcQB+AJJ0AAZPYmplY3RzcQB+AJZzcQB+AJl1cQB+AJwAAAADc3EAfgCedAAEamF2YXNxAH4AnnQABGxhbmdxAH4AqXNxAH4AknQAA0FueXNxAH4AlnNxAH4AmXVxAH4AnAAAAAJzcQB+AJ50AAVzY2FsYXEAfgCpdXIAFFtMeHNidGkuYXBpLlBhY2thZ2U7WxMZN3CnJ6ECAAB4cAAAAAVzcgAReHNidGkuYXBpLlBhY2thZ2V+WY/2rs45WAIAAUwABG5hbWVxAH4ADXhwdAACYnJzcQB+ALx0ACFici5jb20udHJlaW5hbWVudG8uYXBpLnNpbXVsYXRpb25zcQB+ALx0ABJici5jb20udHJlaW5hbWVudG9zcQB+ALx0AAZici5jb21zcQB+ALx0ABZici5jb20udHJlaW5hbWVudG8uYXBpc3IAFXhzYnRpLmFwaS5Db21waWxhdGlvbu364MNq6KBCAgACSgAJc3RhcnRUaW1lWwAHb3V0cHV0c3QAGltMeHNidGkvYXBpL091dHB1dFNldHRpbmc7eHAAAAFo4tLIpnVyABpbTHhzYnRpLmFwaS5PdXRwdXRTZXR0aW5nO39qwvOnh6VCAgAAeHAAAAABc3IAF3hzYnRpLmFwaS5PdXRwdXRTZXR0aW5netmaR3T7HXsCAAJMAA9vdXRwdXREaXJlY3RvcnlxAH4ADUwAD3NvdXJjZURpcmVjdG9yeXEAfgANeHB0ADhDOlxQZXJzb25hbFByb2plY3RzXHBlcmZvcm1hbmNlLXRlc3RcdGFyZ2V0XHRlc3QtY2xhc3Nlc3QAAS91cgACW0Ks8xf4BghU4AIAAHhwAAAAFEdXA+bActKjrd6iLC5DyDn1Yse1
+C:\PersonalProjects\performance-test\src\test\scala\br\com\treinamento\api\User.scala -> 
+rO0ABXNyABB4c2J0aS5hcGkuU291cmNlSjH5SdlLSkQCAAdJAAdhcGlIYXNoWgAIaGFzTWFjcm9aABBoYXNQYWNrYWdlT2JqZWN0TAAYX2ludGVybmFsT25seV9uYW1lSGFzaGVzdAAkTHhzYnRpL2FwaS9faW50ZXJuYWxPbmx5X05hbWVIYXNoZXM7TAADYXBpdAAVTHhzYnRpL2FwaS9Tb3VyY2VBUEk7TAALY29tcGlsYXRpb250ABdMeHNidGkvYXBpL0NvbXBpbGF0aW9uO1sABGhhc2h0AAJbQnhwXnXc+AAAc3IAInhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoZXNU2r6Z+tTsTAIAAlsAD2ltcGxpY2l0TWVtYmVyc3QAI1tMeHNidGkvYXBpL19pbnRlcm5hbE9ubHlfTmFtZUhhc2g7WwAOcmVndWxhck1lbWJlcnNxAH4AB3hwdXIAI1tMeHNidGkuYXBpLl9pbnRlcm5hbE9ubHlfTmFtZUhhc2g7SVqAtt2Wi/QCAAB4cAAAAAB1cQB+AAkAAAAYc3IAIHhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoWw71InY4V88CAAJJAARoYXNoTAAEbmFtZXQAEkxqYXZhL2xhbmcvU3RyaW5nO3hw4iDrx3QACnVwZGF0ZVVzZXJzcQB+AAy/FGJedAAGbm90aWZ5c3EAfgAM4EFwCnQACmNyZWF0ZVVzZXJzcQB+AAz4DWE4dAAEd2FpdHNxAH4ADH851rt0AA0kYXNJbnN0YW5jZU9mc3EAfgAM+8se5XQABmVxdWFsc3NxAH4ADJIq3Nl0AAxhc0luc3RhbmNlT2ZzcQB+AAxRtUyLdAAMc3luY2hyb25pemVkc3EAfgAMavKjhXQADSRpc0luc3RhbmNlT2ZzcQB+AAxlfIztdAAJbm90aWZ5QWxsc3EAfgAMMMqaWnQADGlzSW5zdGFuY2VPZnNxAH4ADDeNPIh0AAI9PXNxAH4ADBQCKwh0AAVjbG9uZXNxAH4ADHcNywt0AApkZWxldGVVc2Vyc3EAfgAMQK8yfHQABFVzZXJzcQB+AAyPMQvNdAAIdG9TdHJpbmdzcQB+AAyR9cexdAAHZ2V0VXNlcnNxAH4ADJn455d0AAIhPXNxAH4ADHqjCgZ0AAhnZXRDbGFzc3NxAH4ADBSdarR0AAJuZXNxAH4ADO17rI90AAJlcXNxAH4ADLS24Ax0AAIjI3NxAH4ADHfr4Qp0AAhmaW5hbGl6ZXNxAH4ADJaozEV0AAhoYXNoQ29kZXNyABN4c2J0aS5hcGkuU291cmNlQVBJuV6n+SkjOKQCAAJbAAtkZWZpbml0aW9uc3QAF1tMeHNidGkvYXBpL0RlZmluaXRpb247WwAIcGFja2FnZXN0ABRbTHhzYnRpL2FwaS9QYWNrYWdlO3hwdXIAF1tMeHNidGkuYXBpLkRlZmluaXRpb247iMlc57TjXg4CAAB4cAAAAAFzcgATeHNidGkuYXBpLkNsYXNzTGlrZYM0HKHfsJdsAgAETAAOZGVmaW5pdGlvblR5cGV0ABpMeHNidGkvYXBpL0RlZmluaXRpb25UeXBlO1sAEHNhdmVkQW5ub3RhdGlvbnN0ABNbTGphdmEvbGFuZy9TdHJpbmc7TAAIc2VsZlR5cGV0ABBMeHNidGkvYXBpL0xhenk7TAAJc3RydWN0dXJlcQB+AEd4cgAheHNidGkuYXBpLlBhcmFtZXRlcml6ZWREZWZpbml0aW9u+RFusdVQPOICAAFbAA50eXBlUGFyYW1ldGVyc3QAGltMeHNidGkvYXBpL1R5cGVQYXJhbWV0ZXI7eHIAFHhzYnRpLmFwaS5EZWZpbml0aW9uhyob6HFC40YCAARMAAZhY2Nlc3N0ABJMeHNidGkvYXBpL0FjY2VzcztbAAthbm5vdGF0aW9uc3QAF1tMeHNidGkvYXBpL0Fubm90YXRpb247TAAJbW9kaWZpZXJzdAAVTHhzYnRpL2FwaS9Nb2RpZmllcnM7TAAEbmFtZXEAfgANeHBzcgAQeHNidGkuYXBpLlB1YmxpY7pYPa5sLWBCAgAAeHIAEHhzYnRpLmFwaS5BY2Nlc3PdYpr4HWMxSAIAAHhwdXIAF1tMeHNidGkuYXBpLkFubm90YXRpb24765frGRD2jUgCAAB4cAAAAABzcgATeHNidGkuYXBpLk1vZGlmaWVyc5fnYdwTJnuzAgABQgAFZmxhZ3N4cAB0ACJici5jb20udHJlaW5hbWVudG8ucG9ydGFsLmFwaS5Vc2VydXIAGltMeHNidGkuYXBpLlR5cGVQYXJhbWV0ZXI72W0mDyid8rYCAAB4cAAAAAB+cgAYeHNidGkuYXBpLkRlZmluaXRpb25UeXBlAAAAAAAAAAASAAB4cgAOamF2YS5sYW5nLkVudW0AAAAAAAAAABIAAHhwdAAGTW9kdWxldXIAE1tMamF2YS5sYW5nLlN0cmluZzut0lbn6R17RwIAAHhwAAAAAHNyACF4c2J0aS5hcGkuQWJzdHJhY3RMYXp5JFN0cmljdExhenkNZhxrKRYquAIAAUwABXZhbHVldAASTGphdmEvbGFuZy9PYmplY3Q7eHBzcgATeHNidGkuYXBpLkVtcHR5VHlwZbz9nkZJO4kkAgAAeHIAFHhzYnRpLmFwaS5TaW1wbGVUeXBlcnhiiCEjv0ACAAB4cgAOeHNidGkuYXBpLlR5cGU/atkhFkmqygIAAHhwc3EAfgBfc3IAE3hzYnRpLmFwaS5TdHJ1Y3R1cmWpqvmAk2/YAAIAA0wACGRlY2xhcmVkcQB+AEdMAAlpbmhlcml0ZWRxAH4AR0wAB3BhcmVudHNxAH4AR3hxAH4AZHNxAH4AX3VxAH4AQgAAAABzcQB+AF91cQB+AEIAAAAAc3EAfgBfdXIAEVtMeHNidGkuYXBpLlR5cGU7dP+lWnv56UECAAB4cAAAAAJzcgAUeHNidGkuYXBpLlByb2plY3Rpb27z0o1U6UWkLQIAAkwAAmlkcQB+AA1MAAZwcmVmaXh0ABZMeHNidGkvYXBpL1NpbXBsZVR5cGU7eHEAfgBjdAAGT2JqZWN0c3IAE3hzYnRpLmFwaS5TaW5nbGV0b278p1/4z1bkRgIAAUwABHBhdGh0ABBMeHNidGkvYXBpL1BhdGg7eHEAfgBjc3IADnhzYnRpLmFwaS5QYXRomz1cCM6lJ4QCAAFbAApjb21wb25lbnRzdAAaW0x4c2J0aS9hcGkvUGF0aENvbXBvbmVudDt4cHVyABpbTHhzYnRpLmFwaS5QYXRoQ29tcG9uZW50O0PaCXQtZxZ0AgAAeHAAAAADc3IADHhzYnRpLmFwaS5JZJgybIs3U8RAAgABTAACaWRxAH4ADXhyABd4c2J0aS5hcGkuUGF0aENvbXBvbmVudF+aIlsuhp+8AgAAeHB0AARqYXZhc3EAfgB8dAAEbGFuZ3NyAA54c2J0aS5hcGkuVGhpc9sJ7abMWkBcAgAAeHEAfgB9c3EAfgBwdAADQW55c3EAfgB0c3EAfgB3dXEAfgB6AAAAAnNxAH4AfHQABXNjYWxhcQB+AIN1cgAUW0x4c2J0aS5hcGkuUGFja2FnZTtbExk3cKcnoQIAAHhwAAAABXNyABF4c2J0aS5hcGkuUGFja2FnZX5Zj/auzjlYAgABTAAEbmFtZXEAfgANeHB0AAJicnNxAH4AjXQAGWJyLmNvbS50cmVpbmFtZW50by5wb3J0YWxzcQB+AI10ABJici5jb20udHJlaW5hbWVudG9zcQB+AI10AAZici5jb21zcQB+AI10AB1ici5jb20udHJlaW5hbWVudG8ucG9ydGFsLmFwaXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABaOLSyKZ1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5cQB+AA1MAA9zb3VyY2VEaXJlY3RvcnlxAH4ADXhwdAA4QzpcUGVyc29uYWxQcm9qZWN0c1xwZXJmb3JtYW5jZS10ZXN0XHRhcmdldFx0ZXN0LWNsYXNzZXN0AAEvdXIAAltCrPMX+AYIVOACAAB4cAAAABQojreM4OeJbFdYWDEv51qnvbAUug==
+C:\PersonalProjects\performance-test\src\test\scala\br\com\treinamento\header\Header.scala -> 
+rO0ABXNyABB4c2J0aS5hcGkuU291cmNlSjH5SdlLSkQCAAdJAAdhcGlIYXNoWgAIaGFzTWFjcm9aABBoYXNQYWNrYWdlT2JqZWN0TAAYX2ludGVybmFsT25seV9uYW1lSGFzaGVzdAAkTHhzYnRpL2FwaS9faW50ZXJuYWxPbmx5X05hbWVIYXNoZXM7TAADYXBpdAAVTHhzYnRpL2FwaS9Tb3VyY2VBUEk7TAALY29tcGlsYXRpb250ABdMeHNidGkvYXBpL0NvbXBpbGF0aW9uO1sABGhhc2h0AAJbQnhwsFD4+AAAc3IAInhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoZXNU2r6Z+tTsTAIAAlsAD2ltcGxpY2l0TWVtYmVyc3QAI1tMeHNidGkvYXBpL19pbnRlcm5hbE9ubHlfTmFtZUhhc2g7WwAOcmVndWxhck1lbWJlcnNxAH4AB3hwdXIAI1tMeHNidGkuYXBpLl9pbnRlcm5hbE9ubHlfTmFtZUhhc2g7SVqAtt2Wi/QCAAB4cAAAAAB1cQB+AAkAAAAWc3IAIHhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoWw71InY4V88CAAJJAARoYXNoTAAEbmFtZXQAEkxqYXZhL2xhbmcvU3RyaW5nO3hwGpzspnQABm5vdGlmeXNxAH4ADEb5T3F0AAZIZWFkZXJzcQB+AAyrwcW5dAAEd2FpdHNxAH4ADF/feNl0AA0kYXNJbnN0YW5jZU9mc3EAfgAMaSkHPnQABmVxdWFsc3NxAH4ADOBclz10AAxhc0luc3RhbmNlT2ZzcQB+AAxtb/IgdAAMc3luY2hyb25pemVkc3EAfgAM5tZuQ3QADSRpc0luc3RhbmNlT2ZzcQB+AAwLP8E9dAANaGVhZGVyX2FjY2VwdHNxAH4ADJLSBYd0AAlub3RpZnlBbGxzcQB+AAzTz/2IdAAMaXNJbnN0YW5jZU9mc3EAfgAMVs9ATnQADmhlYWRlcl9jb250ZW50c3EAfgAMaRG/M3QAAj09c3EAfgAMwy92NXQABWNsb25lc3EAfgAMcD0uFnQACHRvU3RyaW5nc3EAfgAMfEPWAXQAAiE9c3EAfgAMjPN0tXQACGdldENsYXNzc3EAfgAMky6+tXQAAm5lc3EAfgAM36q8m3QAAmVxc3EAfgAM2DcUA3QAAiMjc3EAfgAMjPQSBHQACGZpbmFsaXplc3EAfgAMxR0PBHQACGhhc2hDb2Rlc3IAE3hzYnRpLmFwaS5Tb3VyY2VBUEm5Xqf5KSM4pAIAAlsAC2RlZmluaXRpb25zdAAXW0x4c2J0aS9hcGkvRGVmaW5pdGlvbjtbAAhwYWNrYWdlc3QAFFtMeHNidGkvYXBpL1BhY2thZ2U7eHB1cgAXW0x4c2J0aS5hcGkuRGVmaW5pdGlvbjuIyVzntONeDgIAAHhwAAAAAXNyABN4c2J0aS5hcGkuQ2xhc3NMaWtlgzQcod+wl2wCAARMAA5kZWZpbml0aW9uVHlwZXQAGkx4c2J0aS9hcGkvRGVmaW5pdGlvblR5cGU7WwAQc2F2ZWRBbm5vdGF0aW9uc3QAE1tMamF2YS9sYW5nL1N0cmluZztMAAhzZWxmVHlwZXQAEEx4c2J0aS9hcGkvTGF6eTtMAAlzdHJ1Y3R1cmVxAH4AQ3hyACF4c2J0aS5hcGkuUGFyYW1ldGVyaXplZERlZmluaXRpb275EW6x1VA84gIAAVsADnR5cGVQYXJhbWV0ZXJzdAAaW0x4c2J0aS9hcGkvVHlwZVBhcmFtZXRlcjt4cgAUeHNidGkuYXBpLkRlZmluaXRpb26HKhvocULjRgIABEwABmFjY2Vzc3QAEkx4c2J0aS9hcGkvQWNjZXNzO1sAC2Fubm90YXRpb25zdAAXW0x4c2J0aS9hcGkvQW5ub3RhdGlvbjtMAAltb2RpZmllcnN0ABVMeHNidGkvYXBpL01vZGlmaWVycztMAARuYW1lcQB+AA14cHNyABB4c2J0aS5hcGkuUHVibGljulg9rmwtYEICAAB4cgAQeHNidGkuYXBpLkFjY2Vzc91imvgdYzFIAgAAeHB1cgAXW0x4c2J0aS5hcGkuQW5ub3RhdGlvbjvrl+sZEPaNSAIAAHhwAAAAAHNyABN4c2J0aS5hcGkuTW9kaWZpZXJzl+dh3BMme7MCAAFCAAVmbGFnc3hwAHQAIGJyLmNvbS50cmVpbmFtZW50by5oZWFkZXIuSGVhZGVydXIAGltMeHNidGkuYXBpLlR5cGVQYXJhbWV0ZXI72W0mDyid8rYCAAB4cAAAAAB+cgAYeHNidGkuYXBpLkRlZmluaXRpb25UeXBlAAAAAAAAAAASAAB4cgAOamF2YS5sYW5nLkVudW0AAAAAAAAAABIAAHhwdAAGTW9kdWxldXIAE1tMamF2YS5sYW5nLlN0cmluZzut0lbn6R17RwIAAHhwAAAAAHNyACF4c2J0aS5hcGkuQWJzdHJhY3RMYXp5JFN0cmljdExhenkNZhxrKRYquAIAAUwABXZhbHVldAASTGphdmEvbGFuZy9PYmplY3Q7eHBzcgATeHNidGkuYXBpLkVtcHR5VHlwZbz9nkZJO4kkAgAAeHIAFHhzYnRpLmFwaS5TaW1wbGVUeXBlcnhiiCEjv0ACAAB4cgAOeHNidGkuYXBpLlR5cGU/atkhFkmqygIAAHhwc3EAfgBbc3IAE3hzYnRpLmFwaS5TdHJ1Y3R1cmWpqvmAk2/YAAIAA0wACGRlY2xhcmVkcQB+AENMAAlpbmhlcml0ZWRxAH4AQ0wAB3BhcmVudHNxAH4AQ3hxAH4AYHNxAH4AW3VxAH4APgAAAABzcQB+AFt1cQB+AD4AAAAAc3EAfgBbdXIAEVtMeHNidGkuYXBpLlR5cGU7dP+lWnv56UECAAB4cAAAAAJzcgAUeHNidGkuYXBpLlByb2plY3Rpb27z0o1U6UWkLQIAAkwAAmlkcQB+AA1MAAZwcmVmaXh0ABZMeHNidGkvYXBpL1NpbXBsZVR5cGU7eHEAfgBfdAAGT2JqZWN0c3IAE3hzYnRpLmFwaS5TaW5nbGV0b278p1/4z1bkRgIAAUwABHBhdGh0ABBMeHNidGkvYXBpL1BhdGg7eHEAfgBfc3IADnhzYnRpLmFwaS5QYXRomz1cCM6lJ4QCAAFbAApjb21wb25lbnRzdAAaW0x4c2J0aS9hcGkvUGF0aENvbXBvbmVudDt4cHVyABpbTHhzYnRpLmFwaS5QYXRoQ29tcG9uZW50O0PaCXQtZxZ0AgAAeHAAAAADc3IADHhzYnRpLmFwaS5JZJgybIs3U8RAAgABTAACaWRxAH4ADXhyABd4c2J0aS5hcGkuUGF0aENvbXBvbmVudF+aIlsuhp+8AgAAeHB0AARqYXZhc3EAfgB4dAAEbGFuZ3NyAA54c2J0aS5hcGkuVGhpc9sJ7abMWkBcAgAAeHEAfgB5c3EAfgBsdAADQW55c3EAfgBwc3EAfgBzdXEAfgB2AAAAAnNxAH4AeHQABXNjYWxhcQB+AH91cgAUW0x4c2J0aS5hcGkuUGFja2FnZTtbExk3cKcnoQIAAHhwAAAABHNyABF4c2J0aS5hcGkuUGFja2FnZX5Zj/auzjlYAgABTAAEbmFtZXEAfgANeHB0AAJicnNxAH4AiXQAEmJyLmNvbS50cmVpbmFtZW50b3NxAH4AiXQABmJyLmNvbXNxAH4AiXQAGWJyLmNvbS50cmVpbmFtZW50by5oZWFkZXJzcgAVeHNidGkuYXBpLkNvbXBpbGF0aW9u7frgw2rooEICAAJKAAlzdGFydFRpbWVbAAdvdXRwdXRzdAAaW0x4c2J0aS9hcGkvT3V0cHV0U2V0dGluZzt4cAAAAWji0simdXIAGltMeHNidGkuYXBpLk91dHB1dFNldHRpbmc7f2rC86eHpUICAAB4cAAAAAFzcgAXeHNidGkuYXBpLk91dHB1dFNldHRpbmd62ZpHdPsdewIAAkwAD291dHB1dERpcmVjdG9yeXEAfgANTAAPc291cmNlRGlyZWN0b3J5cQB+AA14cHQAOEM6XFBlcnNvbmFsUHJvamVjdHNccGVyZm9ybWFuY2UtdGVzdFx0YXJnZXRcdGVzdC1jbGFzc2VzdAABL3VyAAJbQqzzF/gGCFTgAgAAeHAAAAAU6QvrgvhJv7nIxUJOC0+pS67GGpw=
+C:\PersonalProjects\performance-test\src\test\scala\br\com\treinamento\utils\Config.scala -> 
+rO0ABXNyABB4c2J0aS5hcGkuU291cmNlSjH5SdlLSkQCAAdJAAdhcGlIYXNoWgAIaGFzTWFjcm9aABBoYXNQYWNrYWdlT2JqZWN0TAAYX2ludGVybmFsT25seV9uYW1lSGFzaGVzdAAkTHhzYnRpL2FwaS9faW50ZXJuYWxPbmx5X05hbWVIYXNoZXM7TAADYXBpdAAVTHhzYnRpL2FwaS9Tb3VyY2VBUEk7TAALY29tcGlsYXRpb250ABdMeHNidGkvYXBpL0NvbXBpbGF0aW9uO1sABGhhc2h0AAJbQnhwQ4+GXgAAc3IAInhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoZXNU2r6Z+tTsTAIAAlsAD2ltcGxpY2l0TWVtYmVyc3QAI1tMeHNidGkvYXBpL19pbnRlcm5hbE9ubHlfTmFtZUhhc2g7WwAOcmVndWxhck1lbWJlcnNxAH4AB3hwdXIAI1tMeHNidGkuYXBpLl9pbnRlcm5hbE9ubHlfTmFtZUhhc2g7SVqAtt2Wi/QCAAB4cAAAAAB1cQB+AAkAAAAVc3IAIHhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoWw71InY4V88CAAJJAARoYXNoTAAEbmFtZXQAEkxqYXZhL2xhbmcvU3RyaW5nO3hwD/53oHQABm5vdGlmeXNxAH4ADKRMq9J0AA11cmxBcGlQcmVmaXhvc3EAfgAM6NAIGXQABHdhaXRzcQB+AAyBR0FYdAANJGFzSW5zdGFuY2VPZnNxAH4ADOFn9Cd0AAZlcXVhbHNzcQB+AAxQya77dAAMYXNJbnN0YW5jZU9mc3EAfgAMSPF1pHQADHN5bmNocm9uaXplZHNxAH4ADGpIQKF0AA0kaXNJbnN0YW5jZU9mc3EAfgAMy6nvanQACW5vdGlmeUFsbHNxAH4ADBAHUfp0AAxpc0luc3RhbmNlT2ZzcQB+AAynxcsNdAAGQ29uZmlnc3EAfgAME3dTKHQAAj09c3EAfgAMNU5vCnQABWNsb25lc3EAfgAMfgakxXQACHRvU3RyaW5nc3EAfgAM4YpbiHQAAiE9c3EAfgAMYfk7+3QACGdldENsYXNzc3EAfgAMSi4B5HQAAm5lc3EAfgAMueWFFXQAAmVxc3EAfgAMMnHUcHQAAiMjc3EAfgAM5kbM+XQACGZpbmFsaXplc3EAfgAMLcqRXnQACGhhc2hDb2Rlc3IAE3hzYnRpLmFwaS5Tb3VyY2VBUEm5Xqf5KSM4pAIAAlsAC2RlZmluaXRpb25zdAAXW0x4c2J0aS9hcGkvRGVmaW5pdGlvbjtbAAhwYWNrYWdlc3QAFFtMeHNidGkvYXBpL1BhY2thZ2U7eHB1cgAXW0x4c2J0aS5hcGkuRGVmaW5pdGlvbjuIyVzntONeDgIAAHhwAAAAAXNyABN4c2J0aS5hcGkuQ2xhc3NMaWtlgzQcod+wl2wCAARMAA5kZWZpbml0aW9uVHlwZXQAGkx4c2J0aS9hcGkvRGVmaW5pdGlvblR5cGU7WwAQc2F2ZWRBbm5vdGF0aW9uc3QAE1tMamF2YS9sYW5nL1N0cmluZztMAAhzZWxmVHlwZXQAEEx4c2J0aS9hcGkvTGF6eTtMAAlzdHJ1Y3R1cmVxAH4AQXhyACF4c2J0aS5hcGkuUGFyYW1ldGVyaXplZERlZmluaXRpb275EW6x1VA84gIAAVsADnR5cGVQYXJhbWV0ZXJzdAAaW0x4c2J0aS9hcGkvVHlwZVBhcmFtZXRlcjt4cgAUeHNidGkuYXBpLkRlZmluaXRpb26HKhvocULjRgIABEwABmFjY2Vzc3QAEkx4c2J0aS9hcGkvQWNjZXNzO1sAC2Fubm90YXRpb25zdAAXW0x4c2J0aS9hcGkvQW5ub3RhdGlvbjtMAAltb2RpZmllcnN0ABVMeHNidGkvYXBpL01vZGlmaWVycztMAARuYW1lcQB+AA14cHNyABB4c2J0aS5hcGkuUHVibGljulg9rmwtYEICAAB4cgAQeHNidGkuYXBpLkFjY2Vzc91imvgdYzFIAgAAeHB1cgAXW0x4c2J0aS5hcGkuQW5ub3RhdGlvbjvrl+sZEPaNSAIAAHhwAAAAAHNyABN4c2J0aS5hcGkuTW9kaWZpZXJzl+dh3BMme7MCAAFCAAVmbGFnc3hwAHQAH2JyLmNvbS50cmVpbmFtZW50by51dGlscy5Db25maWd1cgAaW0x4c2J0aS5hcGkuVHlwZVBhcmFtZXRlcjvZbSYPKJ3ytgIAAHhwAAAAAH5yABh4c2J0aS5hcGkuRGVmaW5pdGlvblR5cGUAAAAAAAAAABIAAHhyAA5qYXZhLmxhbmcuRW51bQAAAAAAAAAAEgAAeHB0AAZNb2R1bGV1cgATW0xqYXZhLmxhbmcuU3RyaW5nO63SVufpHXtHAgAAeHAAAAAAc3IAIXhzYnRpLmFwaS5BYnN0cmFjdExhenkkU3RyaWN0TGF6eQ1mHGspFiq4AgABTAAFdmFsdWV0ABJMamF2YS9sYW5nL09iamVjdDt4cHNyABN4c2J0aS5hcGkuRW1wdHlUeXBlvP2eRkk7iSQCAAB4cgAUeHNidGkuYXBpLlNpbXBsZVR5cGVyeGKIISO/QAIAAHhyAA54c2J0aS5hcGkuVHlwZT9q2SEWSarKAgAAeHBzcQB+AFlzcgATeHNidGkuYXBpLlN0cnVjdHVyZamq+YCTb9gAAgADTAAIZGVjbGFyZWRxAH4AQUwACWluaGVyaXRlZHEAfgBBTAAHcGFyZW50c3EAfgBBeHEAfgBec3EAfgBZdXEAfgA8AAAAAHNxAH4AWXVxAH4APAAAAABzcQB+AFl1cgARW0x4c2J0aS5hcGkuVHlwZTt0/6Vae/npQQIAAHhwAAAAAnNyABR4c2J0aS5hcGkuUHJvamVjdGlvbvPSjVTpRaQtAgACTAACaWRxAH4ADUwABnByZWZpeHQAFkx4c2J0aS9hcGkvU2ltcGxlVHlwZTt4cQB+AF10AAZPYmplY3RzcgATeHNidGkuYXBpLlNpbmdsZXRvbvynX/jPVuRGAgABTAAEcGF0aHQAEEx4c2J0aS9hcGkvUGF0aDt4cQB+AF1zcgAOeHNidGkuYXBpLlBhdGibPVwIzqUnhAIAAVsACmNvbXBvbmVudHN0ABpbTHhzYnRpL2FwaS9QYXRoQ29tcG9uZW50O3hwdXIAGltMeHNidGkuYXBpLlBhdGhDb21wb25lbnQ7Q9oJdC1nFnQCAAB4cAAAAANzcgAMeHNidGkuYXBpLklkmDJsizdTxEACAAFMAAJpZHEAfgANeHIAF3hzYnRpLmFwaS5QYXRoQ29tcG9uZW50X5oiWy6Gn7wCAAB4cHQABGphdmFzcQB+AHZ0AARsYW5nc3IADnhzYnRpLmFwaS5UaGlz2wntpsxaQFwCAAB4cQB+AHdzcQB+AGp0AANBbnlzcQB+AG5zcQB+AHF1cQB+AHQAAAACc3EAfgB2dAAFc2NhbGFxAH4AfXVyABRbTHhzYnRpLmFwaS5QYWNrYWdlO1sTGTdwpyehAgAAeHAAAAAEc3IAEXhzYnRpLmFwaS5QYWNrYWdlflmP9q7OOVgCAAFMAARuYW1lcQB+AA14cHQAAmJyc3EAfgCHdAASYnIuY29tLnRyZWluYW1lbnRvc3EAfgCHdAAGYnIuY29tc3EAfgCHdAAYYnIuY29tLnRyZWluYW1lbnRvLnV0aWxzc3IAFXhzYnRpLmFwaS5Db21waWxhdGlvbu364MNq6KBCAgACSgAJc3RhcnRUaW1lWwAHb3V0cHV0c3QAGltMeHNidGkvYXBpL091dHB1dFNldHRpbmc7eHAAAAFo4tLIpnVyABpbTHhzYnRpLmFwaS5PdXRwdXRTZXR0aW5nO39qwvOnh6VCAgAAeHAAAAABc3IAF3hzYnRpLmFwaS5PdXRwdXRTZXR0aW5netmaR3T7HXsCAAJMAA9vdXRwdXREaXJlY3RvcnlxAH4ADUwAD3NvdXJjZURpcmVjdG9yeXEAfgANeHB0ADhDOlxQZXJzb25hbFByb2plY3RzXHBlcmZvcm1hbmNlLXRlc3RcdGFyZ2V0XHRlc3QtY2xhc3Nlc3QAAS91cgACW0Ks8xf4BghU4AIAAHhwAAAAFAmYSOgizfmiIVfjUV8SE01krtdc
+C:\PersonalProjects\performance-test\src\test\scala\Engine.scala -> 
+rO0ABXNyABB4c2J0aS5hcGkuU291cmNlSjH5SdlLSkQCAAdJAAdhcGlIYXNoWgAIaGFzTWFjcm9aABBoYXNQYWNrYWdlT2JqZWN0TAAYX2ludGVybmFsT25seV9uYW1lSGFzaGVzdAAkTHhzYnRpL2FwaS9faW50ZXJuYWxPbmx5X05hbWVIYXNoZXM7TAADYXBpdAAVTHhzYnRpL2FwaS9Tb3VyY2VBUEk7TAALY29tcGlsYXRpb250ABdMeHNidGkvYXBpL0NvbXBpbGF0aW9uO1sABGhhc2h0AAJbQnhw9jcm4wAAc3IAInhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoZXNU2r6Z+tTsTAIAAlsAD2ltcGxpY2l0TWVtYmVyc3QAI1tMeHNidGkvYXBpL19pbnRlcm5hbE9ubHlfTmFtZUhhc2g7WwAOcmVndWxhck1lbWJlcnNxAH4AB3hwdXIAI1tMeHNidGkuYXBpLl9pbnRlcm5hbE9ubHlfTmFtZUhhc2g7SVqAtt2Wi/QCAAB4cAAAAAB1cQB+AAkAAAAac3IAIHhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoWw71InY4V88CAAJJAARoYXNoTAAEbmFtZXQAEkxqYXZhL2xhbmcvU3RyaW5nO3hwjAV/MnQABm5vdGlmeXNxAH4ADAxH2O90AAR3YWl0c3EAfgAMzDcLD3QADSRhc0luc3RhbmNlT2ZzcQB+AAyCh2Z0dAAGRW5naW5lc3EAfgAMC7GignQABmVxdWFsc3NxAH4ADPnnvol0AAxhc0luc3RhbmNlT2ZzcQB+AAwDRaondAAOZXhlY3V0aW9uU3RhcnRzcQB+AAz/S3JsdAAMc3luY2hyb25pemVkc3EAfgAMzgIMKnQADSRpc0luc3RhbmNlT2ZzcQB+AAxRyl1NdAAEbWFpbnNxAH4ADBC89CZ0AAlub3RpZnlBbGxzcQB+AAzeOUiEdAAMaXNJbnN0YW5jZU9mc3EAfgAMz+XRZ3QAAj09c3EAfgAMhQrjC3QABWNsb25lc3EAfgAM9u6vCnQABiRpbml0JHNxAH4ADPZHS/V0AAh0b1N0cmluZ3NxAH4ADHfTpPx0AARhcmdzc3EAfgAMK9OpAXQAAiE9c3EAfgAMFw0St3QACGdldENsYXNzc3EAfgAMq2qrgnQABXByb3Bzc3EAfgAMQIHSiHQAAm5lc3EAfgAMWlyv9XQAAmVxc3EAfgAMJnD42HQAC2RlbGF5ZWRJbml0c3EAfgAMJbxbT3QAAiMjc3EAfgAManzkuXQACGZpbmFsaXplc3EAfgAMJ0IGIHQACGhhc2hDb2Rlc3IAE3hzYnRpLmFwaS5Tb3VyY2VBUEm5Xqf5KSM4pAIAAlsAC2RlZmluaXRpb25zdAAXW0x4c2J0aS9hcGkvRGVmaW5pdGlvbjtbAAhwYWNrYWdlc3QAFFtMeHNidGkvYXBpL1BhY2thZ2U7eHB1cgAXW0x4c2J0aS5hcGkuRGVmaW5pdGlvbjuIyVzntONeDgIAAHhwAAAAAXNyABN4c2J0aS5hcGkuQ2xhc3NMaWtlgzQcod+wl2wCAARMAA5kZWZpbml0aW9uVHlwZXQAGkx4c2J0aS9hcGkvRGVmaW5pdGlvblR5cGU7WwAQc2F2ZWRBbm5vdGF0aW9uc3QAE1tMamF2YS9sYW5nL1N0cmluZztMAAhzZWxmVHlwZXQAEEx4c2J0aS9hcGkvTGF6eTtMAAlzdHJ1Y3R1cmVxAH4AS3hyACF4c2J0aS5hcGkuUGFyYW1ldGVyaXplZERlZmluaXRpb275EW6x1VA84gIAAVsADnR5cGVQYXJhbWV0ZXJzdAAaW0x4c2J0aS9hcGkvVHlwZVBhcmFtZXRlcjt4cgAUeHNidGkuYXBpLkRlZmluaXRpb26HKhvocULjRgIABEwABmFjY2Vzc3QAEkx4c2J0aS9hcGkvQWNjZXNzO1sAC2Fubm90YXRpb25zdAAXW0x4c2J0aS9hcGkvQW5ub3RhdGlvbjtMAAltb2RpZmllcnN0ABVMeHNidGkvYXBpL01vZGlmaWVycztMAARuYW1lcQB+AA14cHNyABB4c2J0aS5hcGkuUHVibGljulg9rmwtYEICAAB4cgAQeHNidGkuYXBpLkFjY2Vzc91imvgdYzFIAgAAeHB1cgAXW0x4c2J0aS5hcGkuQW5ub3RhdGlvbjvrl+sZEPaNSAIAAHhwAAAAAHNyABN4c2J0aS5hcGkuTW9kaWZpZXJzl+dh3BMme7MCAAFCAAVmbGFnc3hwAHEAfgAVdXIAGltMeHNidGkuYXBpLlR5cGVQYXJhbWV0ZXI72W0mDyid8rYCAAB4cAAAAAB+cgAYeHNidGkuYXBpLkRlZmluaXRpb25UeXBlAAAAAAAAAAASAAB4cgAOamF2YS5sYW5nLkVudW0AAAAAAAAAABIAAHhwdAAGTW9kdWxldXIAE1tMamF2YS5sYW5nLlN0cmluZzut0lbn6R17RwIAAHhwAAAAAnQAGnNjYWxhLmRlcHJlY2F0ZWRPdmVycmlkaW5ndAAQc2NhbGEuZGVwcmVjYXRlZHNyACF4c2J0aS5hcGkuQWJzdHJhY3RMYXp5JFN0cmljdExhenkNZhxrKRYquAIAAUwABXZhbHVldAASTGphdmEvbGFuZy9PYmplY3Q7eHBzcgATeHNidGkuYXBpLkVtcHR5VHlwZbz9nkZJO4kkAgAAeHIAFHhzYnRpLmFwaS5TaW1wbGVUeXBlcnhiiCEjv0ACAAB4cgAOeHNidGkuYXBpLlR5cGU/atkhFkmqygIAAHhwc3EAfgBkc3IAE3hzYnRpLmFwaS5TdHJ1Y3R1cmWpqvmAk2/YAAIAA0wACGRlY2xhcmVkcQB+AEtMAAlpbmhlcml0ZWRxAH4AS0wAB3BhcmVudHNxAH4AS3hxAH4AaXNxAH4AZHVxAH4ARgAAAABzcQB+AGR1cQB+AEYAAAABc3IADXhzYnRpLmFwaS5EZWZSvp/ifLQ2aQIAAkwACnJldHVyblR5cGV0ABBMeHNidGkvYXBpL1R5cGU7WwAPdmFsdWVQYXJhbWV0ZXJzdAAaW0x4c2J0aS9hcGkvUGFyYW1ldGVyTGlzdDt4cQB+AExxAH4AVXVxAH4AVgAAAAFzcgAUeHNidGkuYXBpLkFubm90YXRpb27eDoGi9lwKsgIAAlsACWFyZ3VtZW50c3QAH1tMeHNidGkvYXBpL0Fubm90YXRpb25Bcmd1bWVudDtMAARiYXNlcQB+AHN4cHVyAB9bTHhzYnRpLmFwaS5Bbm5vdGF0aW9uQXJndW1lbnQ7UZ2mjzglD3gCAAB4cAAAAAFzcgAceHNidGkuYXBpLkFubm90YXRpb25Bcmd1bWVudNZFsdgDGxd8AgACTAAEbmFtZXEAfgANTAAFdmFsdWVxAH4ADXhwdAAAdAAqKCJtYWluIHNob3VsZCBub3QgYmUgb3ZlcnJpZGRlbiIsIjIuMTEuMCIpc3IAFHhzYnRpLmFwaS5Qcm9qZWN0aW9u89KNVOlFpC0CAAJMAAJpZHEAfgANTAAGcHJlZml4dAAWTHhzYnRpL2FwaS9TaW1wbGVUeXBlO3hxAH4AaHQAFGRlcHJlY2F0ZWRPdmVycmlkaW5nc3IAE3hzYnRpLmFwaS5TaW5nbGV0b278p1/4z1bkRgIAAUwABHBhdGh0ABBMeHNidGkvYXBpL1BhdGg7eHEAfgBoc3IADnhzYnRpLmFwaS5QYXRomz1cCM6lJ4QCAAFbAApjb21wb25lbnRzdAAaW0x4c2J0aS9hcGkvUGF0aENvbXBvbmVudDt4cHVyABpbTHhzYnRpLmFwaS5QYXRoQ29tcG9uZW50O0PaCXQtZxZ0AgAAeHAAAAACc3IADHhzYnRpLmFwaS5JZJgybIs3U8RAAgABTAACaWRxAH4ADXhyABd4c2J0aS5hcGkuUGF0aENvbXBvbmVudF+aIlsuhp+8AgAAeHB0AAVzY2FsYXNyAA54c2J0aS5hcGkuVGhpc9sJ7abMWkBcAgAAeHEAfgCNc3EAfgBYAHEAfgAhdXEAfgBaAAAAAHNxAH4AgHQABFVuaXRxAH4AhnVyABpbTHhzYnRpLmFwaS5QYXJhbWV0ZXJMaXN0O/XTOh3ys3DuAgAAeHAAAAABc3IAF3hzYnRpLmFwaS5QYXJhbWV0ZXJMaXN01sW8HGRJdOMCAAJaAAppc0ltcGxpY2l0WwAKcGFyYW1ldGVyc3QAHFtMeHNidGkvYXBpL01ldGhvZFBhcmFtZXRlcjt4cAB1cgAcW0x4c2J0aS5hcGkuTWV0aG9kUGFyYW1ldGVyO8+4xV2l3bVtAgAAeHAAAAABc3IAGXhzYnRpLmFwaS5NZXRob2RQYXJhbWV0ZXIfRa4X00mw6gIABFoACmhhc0RlZmF1bHRMAAhtb2RpZmllcnQAHUx4c2J0aS9hcGkvUGFyYW1ldGVyTW9kaWZpZXI7TAAEbmFtZXEAfgANTAADdHBlcQB+AHN4cAB+cgAbeHNidGkuYXBpLlBhcmFtZXRlck1vZGlmaWVyAAAAAAAAAAASAAB4cQB+AF10AAVQbGFpbnEAfgAvc3IAF3hzYnRpLmFwaS5QYXJhbWV0ZXJpemVkFmzuaQPJu38CAAJMAAhiYXNlVHlwZXEAfgCBWwANdHlwZUFyZ3VtZW50c3QAEVtMeHNidGkvYXBpL1R5cGU7eHEAfgBoc3EAfgCAdAAFQXJyYXlxAH4AhnVyABFbTHhzYnRpLmFwaS5UeXBlO3T/pVp7+elBAgAAeHAAAAABc3EAfgCAdAAGU3RyaW5nc3EAfgCEc3EAfgCHdXEAfgCKAAAAA3NxAH4AjHQABGphdmFzcQB+AIx0AARsYW5ncQB+AJFzcQB+AGR1cQB+AKgAAAAEc3EAfgCAdAADQXBwcQB+AIZzcQB+AIB0AAtEZWxheWVkSW5pdHEAfgCGc3EAfgCAdAAGT2JqZWN0cQB+AKxzcQB+AIB0AANBbnlxAH4AhnVyABRbTHhzYnRpLmFwaS5QYWNrYWdlO1sTGTdwpyehAgAAeHAAAAAAc3IAFXhzYnRpLmFwaS5Db21waWxhdGlvbu364MNq6KBCAgACSgAJc3RhcnRUaW1lWwAHb3V0cHV0c3QAGltMeHNidGkvYXBpL091dHB1dFNldHRpbmc7eHAAAAFo4tLIpnVyABpbTHhzYnRpLmFwaS5PdXRwdXRTZXR0aW5nO39qwvOnh6VCAgAAeHAAAAABc3IAF3hzYnRpLmFwaS5PdXRwdXRTZXR0aW5netmaR3T7HXsCAAJMAA9vdXRwdXREaXJlY3RvcnlxAH4ADUwAD3NvdXJjZURpcmVjdG9yeXEAfgANeHB0ADhDOlxQZXJzb25hbFByb2plY3RzXHBlcmZvcm1hbmNlLXRlc3RcdGFyZ2V0XHRlc3QtY2xhc3Nlc3QAAS91cgACW0Ks8xf4BghU4AIAAHhwAAAAFOmLrPiahL5l0qEx+n4HLU9uvvid
+C:\PersonalProjects\performance-test\src\test\scala\IDEPathHelper.scala -> 
+rO0ABXNyABB4c2J0aS5hcGkuU291cmNlSjH5SdlLSkQCAAdJAAdhcGlIYXNoWgAIaGFzTWFjcm9aABBoYXNQYWNrYWdlT2JqZWN0TAAYX2ludGVybmFsT25seV9uYW1lSGFzaGVzdAAkTHhzYnRpL2FwaS9faW50ZXJuYWxPbmx5X05hbWVIYXNoZXM7TAADYXBpdAAVTHhzYnRpL2FwaS9Tb3VyY2VBUEk7TAALY29tcGlsYXRpb250ABdMeHNidGkvYXBpL0NvbXBpbGF0aW9uO1sABGhhc2h0AAJbQnhwUj8KVgAAc3IAInhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoZXNU2r6Z+tTsTAIAAlsAD2ltcGxpY2l0TWVtYmVyc3QAI1tMeHNidGkvYXBpL19pbnRlcm5hbE9ubHlfTmFtZUhhc2g7WwAOcmVndWxhck1lbWJlcnNxAH4AB3hwdXIAI1tMeHNidGkuYXBpLl9pbnRlcm5hbE9ubHlfTmFtZUhhc2g7SVqAtt2Wi/QCAAB4cAAAAAB1cQB+AAkAAAAfc3IAIHhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoWw71InY4V88CAAJJAARoYXNoTAAEbmFtZXQAEkxqYXZhL2xhbmcvU3RyaW5nO3hwdYufzXQABm5vdGlmeXNxAH4ADEd6pe10AAR3YWl0c3EAfgAM5BkPG3QADSRhc0luc3RhbmNlT2ZzcQB+AAzpo8j+dAAOZ2F0bGluZ0NvbmZVcmxzcQB+AAzWQ2ozdAAGZXF1YWxzc3EAfgAM9TxAOnQADGFzSW5zdGFuY2VPZnNxAH4ADIrYcmJ0ABVtYXZlblNvdXJjZXNEaXJlY3RvcnlzcQB+AAwT8I5DdAAMc3luY2hyb25pemVkc3EAfgAMW8Nb/nQADSRpc0luc3RhbmNlT2ZzcQB+AAwmspoZdAAXbWF2ZW5SZXNvdXJjZXNEaXJlY3RvcnlzcQB+AAw0fBPmdAAJbm90aWZ5QWxsc3EAfgAMAXrLUHQAFm1hdmVuQmluYXJpZXNEaXJlY3RvcnlzcQB+AAwQCktldAANZGF0YURpcmVjdG9yeXNxAH4ADHcnKER0AAxpc0luc3RhbmNlT2ZzcQB+AAxvEGwvdAACPT1zcQB+AAw18/n4dAAQcmVzdWx0c0RpcmVjdG9yeXNxAH4ADOdMiJN0AAVjbG9uZXNxAH4ADM21EFN0AA1JREVQYXRoSGVscGVyc3EAfgAMbtKD73QAD2JvZGllc0RpcmVjdG9yeXNxAH4ADLgLcFl0AAh0b1N0cmluZ3NxAH4ADFzH3IV0AAIhPXNxAH4ADNqtU8J0AAhnZXRDbGFzc3NxAH4ADG+WXP10ABdyZWNvcmRlck91dHB1dERpcmVjdG9yeXNxAH4ADBiAupx0AAJuZXNxAH4ADMB+f7t0ABRtYXZlblRhcmdldERpcmVjdG9yeXNxAH4ADKvkhRl0AAJlcXNxAH4ADFPnn7Z0AA5wcm9qZWN0Um9vdERpcnNxAH4ADAzHYmJ0ABJyZWNvcmRlckNvbmZpZ0ZpbGVzcQB+AAw3ASs7dAACIyNzcQB+AAx9V1BxdAAIZmluYWxpemVzcQB+AAxJ6SaDdAAIaGFzaENvZGVzcgATeHNidGkuYXBpLlNvdXJjZUFQSblep/kpIzikAgACWwALZGVmaW5pdGlvbnN0ABdbTHhzYnRpL2FwaS9EZWZpbml0aW9uO1sACHBhY2thZ2VzdAAUW0x4c2J0aS9hcGkvUGFja2FnZTt4cHVyABdbTHhzYnRpLmFwaS5EZWZpbml0aW9uO4jJXOe0414OAgAAeHAAAAABc3IAE3hzYnRpLmFwaS5DbGFzc0xpa2WDNByh37CXbAIABEwADmRlZmluaXRpb25UeXBldAAaTHhzYnRpL2FwaS9EZWZpbml0aW9uVHlwZTtbABBzYXZlZEFubm90YXRpb25zdAATW0xqYXZhL2xhbmcvU3RyaW5nO0wACHNlbGZUeXBldAAQTHhzYnRpL2FwaS9MYXp5O0wACXN0cnVjdHVyZXEAfgBVeHIAIXhzYnRpLmFwaS5QYXJhbWV0ZXJpemVkRGVmaW5pdGlvbvkRbrHVUDziAgABWwAOdHlwZVBhcmFtZXRlcnN0ABpbTHhzYnRpL2FwaS9UeXBlUGFyYW1ldGVyO3hyABR4c2J0aS5hcGkuRGVmaW5pdGlvbocqG+hxQuNGAgAETAAGYWNjZXNzdAASTHhzYnRpL2FwaS9BY2Nlc3M7WwALYW5ub3RhdGlvbnN0ABdbTHhzYnRpL2FwaS9Bbm5vdGF0aW9uO0wACW1vZGlmaWVyc3QAFUx4c2J0aS9hcGkvTW9kaWZpZXJzO0wABG5hbWVxAH4ADXhwc3IAEHhzYnRpLmFwaS5QdWJsaWO6WD2ubC1gQgIAAHhyABB4c2J0aS5hcGkuQWNjZXNz3WKa+B1jMUgCAAB4cHVyABdbTHhzYnRpLmFwaS5Bbm5vdGF0aW9uO+uX6xkQ9o1IAgAAeHAAAAAAc3IAE3hzYnRpLmFwaS5Nb2RpZmllcnOX52HcEyZ7swIAAUIABWZsYWdzeHAAcQB+ADF1cgAaW0x4c2J0aS5hcGkuVHlwZVBhcmFtZXRlcjvZbSYPKJ3ytgIAAHhwAAAAAH5yABh4c2J0aS5hcGkuRGVmaW5pdGlvblR5cGUAAAAAAAAAABIAAHhyAA5qYXZhLmxhbmcuRW51bQAAAAAAAAAAEgAAeHB0AAZNb2R1bGV1cgATW0xqYXZhLmxhbmcuU3RyaW5nO63SVufpHXtHAgAAeHAAAAAAc3IAIXhzYnRpLmFwaS5BYnN0cmFjdExhenkkU3RyaWN0TGF6eQ1mHGspFiq4AgABTAAFdmFsdWV0ABJMamF2YS9sYW5nL09iamVjdDt4cHNyABN4c2J0aS5hcGkuRW1wdHlUeXBlvP2eRkk7iSQCAAB4cgAUeHNidGkuYXBpLlNpbXBsZVR5cGVyeGKIISO/QAIAAHhyAA54c2J0aS5hcGkuVHlwZT9q2SEWSarKAgAAeHBzcQB+AGxzcgATeHNidGkuYXBpLlN0cnVjdHVyZamq+YCTb9gAAgADTAAIZGVjbGFyZWRxAH4AVUwACWluaGVyaXRlZHEAfgBVTAAHcGFyZW50c3EAfgBVeHEAfgBxc3EAfgBsdXEAfgBQAAAAAHNxAH4AbHVxAH4AUAAAAABzcQB+AGx1cgARW0x4c2J0aS5hcGkuVHlwZTt0/6Vae/npQQIAAHhwAAAAAnNyABR4c2J0aS5hcGkuUHJvamVjdGlvbvPSjVTpRaQtAgACTAACaWRxAH4ADUwABnByZWZpeHQAFkx4c2J0aS9hcGkvU2ltcGxlVHlwZTt4cQB+AHB0AAZPYmplY3RzcgATeHNidGkuYXBpLlNpbmdsZXRvbvynX/jPVuRGAgABTAAEcGF0aHQAEEx4c2J0aS9hcGkvUGF0aDt4cQB+AHBzcgAOeHNidGkuYXBpLlBhdGibPVwIzqUnhAIAAVsACmNvbXBvbmVudHN0ABpbTHhzYnRpL2FwaS9QYXRoQ29tcG9uZW50O3hwdXIAGltMeHNidGkuYXBpLlBhdGhDb21wb25lbnQ7Q9oJdC1nFnQCAAB4cAAAAANzcgAMeHNidGkuYXBpLklkmDJsizdTxEACAAFMAAJpZHEAfgANeHIAF3hzYnRpLmFwaS5QYXRoQ29tcG9uZW50X5oiWy6Gn7wCAAB4cHQABGphdmFzcQB+AIl0AARsYW5nc3IADnhzYnRpLmFwaS5UaGlz2wntpsxaQFwCAAB4cQB+AIpzcQB+AH10AANBbnlzcQB+AIFzcQB+AIR1cQB+AIcAAAACc3EAfgCJdAAFc2NhbGFxAH4AkHVyABRbTHhzYnRpLmFwaS5QYWNrYWdlO1sTGTdwpyehAgAAeHAAAAAAc3IAFXhzYnRpLmFwaS5Db21waWxhdGlvbu364MNq6KBCAgACSgAJc3RhcnRUaW1lWwAHb3V0cHV0c3QAGltMeHNidGkvYXBpL091dHB1dFNldHRpbmc7eHAAAAFo4tLIpnVyABpbTHhzYnRpLmFwaS5PdXRwdXRTZXR0aW5nO39qwvOnh6VCAgAAeHAAAAABc3IAF3hzYnRpLmFwaS5PdXRwdXRTZXR0aW5netmaR3T7HXsCAAJMAA9vdXRwdXREaXJlY3RvcnlxAH4ADUwAD3NvdXJjZURpcmVjdG9yeXEAfgANeHB0ADhDOlxQZXJzb25hbFByb2plY3RzXHBlcmZvcm1hbmNlLXRlc3RcdGFyZ2V0XHRlc3QtY2xhc3Nlc3QAAS91cgACW0Ks8xf4BghU4AIAAHhwAAAAFA5anT2aAXNjOYwdZTr5wrSFkw2F
 external apis:
 0 items
 source infos:
 6 items
-C:\Users\rafael.rodrigues\Documents\Visual Studio 2017\Projects\performance-test-gpa\src\test\scala\br\com\gpa\api\Products.scala -> 
+C:\PersonalProjects\performance-test\src\test\scala\br\com\treinamento\api\simulation\UserSimulation.scala -> 
 AAAAAAAAAAA=
-C:\Users\rafael.rodrigues\Documents\Visual Studio 2017\Projects\performance-test-gpa\src\test\scala\br\com\gpa\api\simulation\ProductSimulation.scala -> 
+C:\PersonalProjects\performance-test\src\test\scala\br\com\treinamento\api\User.scala -> 
 AAAAAAAAAAA=
-C:\Users\rafael.rodrigues\Documents\Visual Studio 2017\Projects\performance-test-gpa\src\test\scala\br\com\gpa\header\Header.scala -> 
+C:\PersonalProjects\performance-test\src\test\scala\br\com\treinamento\header\Header.scala -> 
 AAAAAAAAAAA=
-C:\Users\rafael.rodrigues\Documents\Visual Studio 2017\Projects\performance-test-gpa\src\test\scala\br\com\gpa\utils\Config.scala -> 
+C:\PersonalProjects\performance-test\src\test\scala\br\com\treinamento\utils\Config.scala -> 
 AAAAAAAAAAA=
-C:\Users\rafael.rodrigues\Documents\Visual Studio 2017\Projects\performance-test-gpa\src\test\scala\Engine.scala -> 
+C:\PersonalProjects\performance-test\src\test\scala\Engine.scala -> 
 AAAAAAAAAAA=
-C:\Users\rafael.rodrigues\Documents\Visual Studio 2017\Projects\performance-test-gpa\src\test\scala\IDEPathHelper.scala -> 
+C:\PersonalProjects\performance-test\src\test\scala\IDEPathHelper.scala -> 
 AAAAAAAAAAA=
 compilations:
 1 items
-0 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABZvoeeuJ1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAaEM6XFVzZXJzXHJhZmFlbC5yb2RyaWd1ZXNcRG9jdW1lbnRzXFZpc3VhbCBTdHVkaW8gMjAxN1xQcm9qZWN0c1xwZXJmb3JtYW5jZS10ZXN0LWdwYVx0YXJnZXRcdGVzdC1jbGFzc2VzdAABLw==
+0 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABaOLSyKZ1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAOEM6XFBlcnNvbmFsUHJvamVjdHNccGVyZm9ybWFuY2UtdGVzdFx0YXJnZXRcdGVzdC1jbGFzc2VzdAABLw==

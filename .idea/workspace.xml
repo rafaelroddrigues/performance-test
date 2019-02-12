@@ -1,11 +1,74 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="aecd52fd-baa0-444c-9e24-1045bf934eb1" name="Default" comment="" />
-    <ignored path="$PROJECT_DIR$/out/" />
+    <list default="true" id="124cd1d5-c124-41ed-b9fe-26dcc1dd3db7" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/test/resources/bodies/bodyExample.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/hydra.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/uiDesigner.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/performance-test-gpa.iml" beforeDir="false" afterPath="$PROJECT_DIR$/performance-test.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/resources/bodies/livePrice.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/resources/bodies/skuLivePrice.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/resources/logback.xml" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/resources/logback.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/scala/br/com/gpa/api/Products.scala" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/scala/br/com/treinamento/api/User.scala" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/scala/br/com/gpa/api/simulation/ProductSimulation.scala" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/scala/br/com/treinamento/api/simulation/UserSimulation.scala" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/scala/br/com/gpa/header/Header.scala" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/scala/br/com/treinamento/header/Header.scala" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/scala/br/com/gpa/utils/Config.scala" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/scala/br/com/treinamento/utils/Config.scala" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/gatling/productsimulation-1541794598533/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/gatling/productsimulation-1541794598533/js/all_sessions.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/gatling/productsimulation-1541794598533/js/assertions.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/gatling/productsimulation-1541794598533/js/assertions.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/gatling/productsimulation-1541794598533/js/bootstrap.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/gatling/productsimulation-1541794598533/js/gatling.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/gatling/productsimulation-1541794598533/js/global_stats.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/gatling/productsimulation-1541794598533/js/highcharts-more.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/gatling/productsimulation-1541794598533/js/highstock.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/gatling/productsimulation-1541794598533/js/jquery.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/gatling/productsimulation-1541794598533/js/menu.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/gatling/productsimulation-1541794598533/js/moment.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/gatling/productsimulation-1541794598533/js/stats.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/gatling/productsimulation-1541794598533/js/stats.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/gatling/productsimulation-1541794598533/js/theme.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/gatling/productsimulation-1541794598533/js/unpack.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/gatling/productsimulation-1541794598533/req_live-price-8893e.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/gatling/productsimulation-1541794598533/simulation.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/gatling/productsimulation-1541794598533/style/arrow_down.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/gatling/productsimulation-1541794598533/style/arrow_down_black.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/gatling/productsimulation-1541794598533/style/arrow_right.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/gatling/productsimulation-1541794598533/style/arrow_right_black.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/gatling/productsimulation-1541794598533/style/bootstrap.min.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/gatling/productsimulation-1541794598533/style/cible.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/gatling/productsimulation-1541794598533/style/favicon.ico" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/gatling/productsimulation-1541794598533/style/fond-degrade.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/gatling/productsimulation-1541794598533/style/fond-lueur.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/gatling/productsimulation-1541794598533/style/little_arrow_right.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/gatling/productsimulation-1541794598533/style/logo-gatling.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/gatling/productsimulation-1541794598533/style/logo.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/gatling/productsimulation-1541794598533/style/sortable.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/gatling/productsimulation-1541794598533/style/sorted-down.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/gatling/productsimulation-1541794598533/style/sorted-up.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/gatling/productsimulation-1541794598533/style/stat-fleche-bas.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/gatling/productsimulation-1541794598533/style/stat-fond.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/gatling/productsimulation-1541794598533/style/stat-l-roue.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/gatling/productsimulation-1541794598533/style/stat-l-temps.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/gatling/productsimulation-1541794598533/style/style.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/bodies/livePrice.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/bodies/skuLivePrice.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/br/com/gpa/api/simulation/ProductSimulation.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/br/com/gpa/header/Header$.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/br/com/gpa/header/Header.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/br/com/gpa/utils/Config$.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/br/com/gpa/utils/Config.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/br/com/lojasrenner/portal/api/Products$.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/br/com/lojasrenner/portal/api/Products.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/logback.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/logback.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/zincCache" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/zincCache" afterDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
-    <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -13,50 +76,32 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="ProductSimulation.scala" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/test/scala/br/com/gpa/api/simulation/ProductSimulation.scala">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/README.md">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="408">
-              <caret line="24" column="1" lean-forward="true" selection-start-line="24" selection-start-column="1" selection-end-line="24" selection-end-column="1" />
-              <folding>
-                <element signature="e#35#65#0" expanded="true" />
-              </folding>
+            <state relative-caret-position="136">
+              <caret line="8" column="3" lean-forward="true" selection-start-line="8" selection-start-column="3" selection-end-line="8" selection-end-column="3" />
             </state>
           </provider>
         </entry>
       </file>
     </leaf>
   </component>
-  <component name="FileTemplateManagerImpl">
-    <option name="RECENT_TEMPLATES">
-      <list>
-        <option value="Package Object" />
-      </list>
-    </option>
-  </component>
-  <component name="FindInProjectRecents">
-    <findStrings>
-      <find>\&lt;\?xml version\=\&quot;1\.0\&quot; encoding\=\&quot;UTF\-8\&quot;\?\&gt;\n\&lt;project xmlns\=\&quot;http\:\/\/maven\.apache\.org\/POM\/4\.0\.0\&quot;\n         xmlns\:xsi\=\&quot;http\:\/\/www\.w3\.org\/2001\/XMLSchema\-instance\&quot;\n         xsi\:schemaLocation\=\&quot;http\:\/\/maven\.apache\.org\/POM\/4\.0\.0 http\:\/\/maven\.apache\.org\/xsd\/maven\-4\.0\.0\.xsd\&quot;\&gt;\n    \&lt;modelVersion\&gt;4\.0\.0\&lt;\/modelVersion\&gt;\n\n    \&lt;groupId\&gt;br\.com\.gpa\.qa\&lt;\/groupId\&gt;\n    \&lt;artifactId\&gt;automacao\-gatling\&lt;\/artifactId\&gt;\n    \&lt;version\&gt;1\.0\-SNAPSHOT\&lt;\/version\&gt;\n\n    \&lt;properties\&gt;\n        \&lt;gatling\.version\&gt;2\.2\.4\&lt;\/gatling\.version\&gt;\n        \&lt;gatling\.plugin\.version\&gt;2\.2\.4\&lt;\/gatling\.plugin\.version\&gt;\n    \&lt;\/properties\&gt;\n\n    \&lt;dependencyManagement\&gt;\n        \&lt;dependencies\&gt;\n            \&lt;dependency\&gt;\n                \&lt;groupId\&gt;io\.gatling\&lt;\/groupId\&gt;\n                \&lt;artifactId\&gt;gatling\-app\&lt;\/artifactId\&gt;\n                \&lt;version\&gt;\$\{gatling\.version\}\&lt;\/version\&gt;\n            \&lt;\/dependency\&gt;\n            \&lt;dependency\&gt;\n                \&lt;groupId\&gt;io\.gatling\&lt;\/groupId\&gt;\n                \&lt;artifactId\&gt;gatling\-recorder\&lt;\/artifactId\&gt;\n                \&lt;version\&gt;\$\{gatling\.version\}\&lt;\/version\&gt;\n            \&lt;\/dependency\&gt;\n            \&lt;dependency\&gt;\n                \&lt;groupId\&gt;io\.gatling\.highcharts\&lt;\/groupId\&gt;\n                \&lt;artifactId\&gt;gatling\-charts\-highcharts\&lt;\/artifactId\&gt;\n                \&lt;version\&gt;\$\{gatling\.version\}\&lt;\/version\&gt;\n            \&lt;\/dependency\&gt;\n            \&lt;dependency\&gt;\n                \&lt;groupId\&gt;org\.scala\-lang\&lt;\/groupId\&gt;\n                \&lt;artifactId\&gt;scala\-library\&lt;\/artifactId\&gt;\n                \&lt;version\&gt;\$\{scala\.version\}\&lt;\/version\&gt;\n            \&lt;\/dependency\&gt;\n            \&lt;dependency\&gt;\n                \&lt;groupId\&gt;org\.scala\-lang\&lt;\/groupId\&gt;\n                \&lt;artifactId\&gt;scala\-reflect\&lt;\/artifactId\&gt;\n                \&lt;version\&gt;\$\{scala\.version\}\&lt;\/version\&gt;\n            \&lt;\/dependency\&gt;\n            \&lt;dependency\&gt;\n                \&lt;groupId\&gt;org\.scalatest\&lt;\/groupId\&gt;\n                \&lt;artifactId\&gt;scalatest_2\.11\&lt;\/artifactId\&gt;\n                \&lt;version\&gt;3\.0\.3\&lt;\/version\&gt;\n            \&lt;\/dependency\&gt;\n        \&lt;\/dependencies\&gt;\n    \&lt;\/dependencyManagement\&gt;\n\n    \&lt;dependencies\&gt;\n        \&lt;dependency\&gt;\n            \&lt;groupId\&gt;io\.gatling\.highcharts\&lt;\/groupId\&gt;\n            \&lt;artifactId\&gt;gatling\-charts\-highcharts\&lt;\/artifactId\&gt;\n        \&lt;\/dependency\&gt;\n        \&lt;dependency\&gt;\n            \&lt;groupId\&gt;io\.gatling\&lt;\/groupId\&gt;\n            \&lt;artifactId\&gt;gatling\-app\&lt;\/artifactId\&gt;\n        \&lt;\/dependency\&gt;\n        \&lt;dependency\&gt;\n            \&lt;groupId\&gt;io\.gatling\&lt;\/groupId\&gt;\n            \&lt;artifactId\&gt;gatling\-recorder\&lt;\/artifactId\&gt;\n        \&lt;\/dependency\&gt;\n        \&lt;dependency\&gt;\n            \&lt;groupId\&gt;org\.scala\-lang\&lt;\/groupId\&gt;\n            \&lt;artifactId\&gt;scala\-reflect\&lt;\/artifactId\&gt;\n        \&lt;\/dependency\&gt;\n        \&lt;dependency\&gt;\n            \&lt;groupId\&gt;org\.scala\-lang\&lt;\/groupId\&gt;\n            \&lt;artifactId\&gt;scala\-library\&lt;\/artifactId\&gt;\n        \&lt;\/dependency\&gt;\n        \&lt;dependency\&gt;\n            \&lt;groupId\&gt;org\.scalatest\&lt;\/groupId\&gt;\n            \&lt;artifactId\&gt;scalatest_2\.11\&lt;\/artifactId\&gt;\n            \&lt;scope\&gt;test\&lt;\/scope\&gt;\n        \&lt;\/dependency\&gt;\n        \&lt;dependency\&gt;\n            \&lt;groupId\&gt;com\.opencsv\&lt;\/groupId\&gt;\n            \&lt;artifactId\&gt;opencsv\&lt;\/artifactId\&gt;\n            \&lt;version\&gt;4\.0\&lt;\/version\&gt;\n        \&lt;\/dependency\&gt;\n    \&lt;\/dependencies\&gt;\n\n    \&lt;build\&gt;\n        \&lt;testSourceDirectory\&gt;src\/test\/scala\&lt;\/testSourceDirectory\&gt;\n        \&lt;plugins\&gt;\n            \&lt;plugin\&gt;\n                \&lt;groupId\&gt;io\.gatling\&lt;\/groupId\&gt;\n                \&lt;artifactId\&gt;gatling\-maven\-plugin\&lt;\/artifactId\&gt;\n                \&lt;version\&gt;\$\{gatling\.plugin\.version\}\&lt;\/version\&gt;\n                \&lt;executions\&gt;\n                    \&lt;execution\&gt;\n                        \&lt;configuration\&gt;\n                            \&lt;propagateSystemProperties\&gt;true\&lt;\/propagateSystemProperties\&gt;\n                        \&lt;\/configuration\&gt;\n                        \&lt;phase\&gt;test\&lt;\/phase\&gt;\n                        \&lt;goals\&gt;\n                            \&lt;goal\&gt;execute\&lt;\/goal\&gt;\n                        \&lt;\/goals\&gt;\n                    \&lt;\/execution\&gt;\n                \&lt;\/executions\&gt;\n            \&lt;\/plugin\&gt;\n        \&lt;\/plugins\&gt;\n    \&lt;\/build\&gt;\n\&lt;\/project\&gt;</find>
-    </findStrings>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/pom.xml" />
-        <option value="$PROJECT_DIR$/src/test/scala/Engine.scala" />
-        <option value="$PROJECT_DIR$/src/test/scala/br/com/gpa/header/HeaderPortal.scala" />
-        <option value="$PROJECT_DIR$/src/test/scala/br/com/gpa/Header.scala" />
-        <option value="$PROJECT_DIR$/src/test/scala/br/com/gpa/header/Header.scala" />
-        <option value="$PROJECT_DIR$/src/test/scala/br/com/gpa/utils/Config.scala" />
-        <option value="$PROJECT_DIR$/src/test/scala/br/com/gpa/api/simulation/simulation/Simulation.scala" />
-        <option value="$PROJECT_DIR$/src/test/resources/bodies/livePrice_json" />
-        <option value="$PROJECT_DIR$/src/test/resources/bodies/skuLivePrice_json" />
-        <option value="$PROJECT_DIR$/src/test/scala/br/com/gpa/api/package.scala" />
-        <option value="$PROJECT_DIR$/src/test/scala/br/com/gpa/api/scriptFile.scala" />
-        <option value="$PROJECT_DIR$/src/test/scala/br/com/gpa/api/simulation/Simulation.scala" />
+        <option value="$PROJECT_DIR$/src/test/scala/br/com/treinamento/utils/Config.scala" />
+        <option value="$PROJECT_DIR$/src/test/scala/br/com/treinamento/header/Header.scala" />
+        <option value="$PROJECT_DIR$/src/test/resources/bodies/livePrice.json" />
+        <option value="$PROJECT_DIR$/src/test/resources/data/apiUser.csv" />
         <option value="$PROJECT_DIR$/src/test/resources/logback.xml" />
-        <option value="$PROJECT_DIR$/src/test/scala/br/com/gpa/api/Products.scala" />
-        <option value="$PROJECT_DIR$/src/test/scala/br/com/gpa/api/simulation/ProductSimulation.scala" />
+        <option value="$PROJECT_DIR$/src/test/resources/bodies/bodyExample.json" />
+        <option value="$PROJECT_DIR$/src/test/scala/br/com/treinamento/api/User.scala" />
+        <option value="$PROJECT_DIR$/src/test/scala/br/com/treinamento/api/simulation/UserSimulation.scala" />
+        <option value="$PROJECT_DIR$/README.md" />
       </list>
     </option>
   </component>
@@ -72,65 +117,53 @@
     <option name="width" value="974" />
     <option name="height" value="1047" />
   </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="AndroidView" />
-      <pane id="Scope" />
       <pane id="PackagesPane" />
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
             <path>
-              <item name="performance-test-gpa" type="b2602c69:ProjectViewProjectNode" />
-              <item name="performance-test-gpa" type="462c0819:PsiDirectoryNode" />
+              <item name="automacao-gatling" type="b2602c69:ProjectViewProjectNode" />
+              <item name="performance-test" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="performance-test-gpa" type="b2602c69:ProjectViewProjectNode" />
-              <item name="performance-test-gpa" type="462c0819:PsiDirectoryNode" />
+              <item name="automacao-gatling" type="b2602c69:ProjectViewProjectNode" />
+              <item name="performance-test" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="performance-test-gpa" type="b2602c69:ProjectViewProjectNode" />
-              <item name="performance-test-gpa" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="test" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="performance-test-gpa" type="b2602c69:ProjectViewProjectNode" />
-              <item name="performance-test-gpa" type="462c0819:PsiDirectoryNode" />
+              <item name="automacao-gatling" type="b2602c69:ProjectViewProjectNode" />
+              <item name="performance-test" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="test" type="462c0819:PsiDirectoryNode" />
-              <item name="scala" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="performance-test-gpa" type="b2602c69:ProjectViewProjectNode" />
-              <item name="performance-test-gpa" type="462c0819:PsiDirectoryNode" />
+              <item name="automacao-gatling" type="b2602c69:ProjectViewProjectNode" />
+              <item name="performance-test" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="test" type="462c0819:PsiDirectoryNode" />
-              <item name="scala" type="462c0819:PsiDirectoryNode" />
-              <item name="gpa" type="462c0819:PsiDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="performance-test-gpa" type="b2602c69:ProjectViewProjectNode" />
-              <item name="performance-test-gpa" type="462c0819:PsiDirectoryNode" />
+              <item name="automacao-gatling" type="b2602c69:ProjectViewProjectNode" />
+              <item name="performance-test" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="test" type="462c0819:PsiDirectoryNode" />
               <item name="scala" type="462c0819:PsiDirectoryNode" />
-              <item name="gpa" type="462c0819:PsiDirectoryNode" />
-              <item name="api" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="performance-test-gpa" type="b2602c69:ProjectViewProjectNode" />
-              <item name="performance-test-gpa" type="462c0819:PsiDirectoryNode" />
+              <item name="automacao-gatling" type="b2602c69:ProjectViewProjectNode" />
+              <item name="performance-test" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="test" type="462c0819:PsiDirectoryNode" />
               <item name="scala" type="462c0819:PsiDirectoryNode" />
-              <item name="gpa" type="462c0819:PsiDirectoryNode" />
-              <item name="api" type="462c0819:PsiDirectoryNode" />
-              <item name="simulation" type="462c0819:PsiDirectoryNode" />
+              <item name="treinamento" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -139,22 +172,13 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
-    <property name="project.structure.last.edited" value="Modules" />
-    <property name="project.structure.proportion" value="0.15" />
-    <property name="project.structure.side.proportion" value="0.2" />
-    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1549993960865" />
+    <property name="settings.editor.selected.configurable" value="reference.settingsdialog.project.gradle" />
   </component>
   <component name="RecentsManager">
-    <key name="CopyClassDialog.RECENTS_KEY">
-      <recent name="br.com.gpa.utils" />
-    </key>
     <key name="CopyFile.RECENT_KEYS">
-      <recent name="C:\Users\rafael.rodrigues\Documents\Visual Studio 2017\Projects\performance-test-gpa\src\test\resources\bodies" />
-      <recent name="C:\Users\rafael.rodrigues\Documents\Visual Studio 2017\Projects\performance-test-gpa\src\test\scala\br\com\gpa" />
-      <recent name="C:\Users\rafael.rodrigues\Documents\Visual Studio 2017\Projects\performance-test-gpa\src\test\scala" />
-      <recent name="C:\Users\rafael.rodrigues\Documents\Visual Studio 2017\Projects\performance-test-gpa\src\test" />
-      <recent name="C:\Users\rafael.rodrigues\Documents\Visual Studio 2017\Projects\performance-test-gpa\src\main\resources" />
+      <recent name="C:\PersonalProjects\performance-test" />
+      <recent name="C:\PersonalProjects\performance-test\src\test\resources\data" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -172,24 +196,18 @@
   <component name="RunManager">
     <configuration default="true" type="Application" factoryName="Application">
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
     </configuration>
     <configuration default="true" type="JUnit" factoryName="JUnit">
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="PACKAGE_NAME" />
-      <option name="MAIN_CLASS_NAME" />
-      <option name="METHOD_NAME" />
       <option name="TEST_OBJECT" value="class" />
-      <option name="VM_PARAMETERS" value="-ea" />
-      <option name="PARAMETERS" />
       <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="TEST_SEARCH_SCOPE">
-        <value defaultName="singleModule" />
-      </option>
-      <patterns />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
     </configuration>
-    <configuration name="Products" type="MavenRunConfiguration" factoryName="Maven">
+    <configuration name="User" type="MavenRunConfiguration" factoryName="Maven">
       <MavenSettings>
         <option name="myGeneralSettings" />
         <option name="myRunnerSettings" />
@@ -202,7 +220,7 @@
               <list>
                 <option value="clean" />
                 <option value="test" />
-                <option value="-Dgatling.simulationClass=br.com.gpa.api.simulation.ProductSimulation" />
+                <option value="-Dgatling.simulationClass=br.com.treinamento.api.simulation.UserSimulation" />
               </list>
             </option>
             <option name="pomFileName" />
@@ -214,28 +232,42 @@
           </MavenRunnerParameters>
         </option>
       </MavenSettings>
+      <method v="2" />
     </configuration>
-    <configuration default="true" type="TestNG" factoryName="TestNG">
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="SUITE_NAME" />
-      <option name="PACKAGE_NAME" />
-      <option name="MAIN_CLASS_NAME" />
-      <option name="METHOD_NAME" />
-      <option name="GROUP_NAME" />
-      <option name="TEST_OBJECT" value="CLASS" />
-      <option name="VM_PARAMETERS" value="-ea" />
-      <option name="PARAMETERS" />
+    <configuration default="true" type="MavenRunConfiguration" factoryName="Maven">
+      <MavenSettings>
+        <option name="myGeneralSettings" />
+        <option name="myRunnerSettings" />
+        <option name="myRunnerParameters">
+          <MavenRunnerParameters>
+            <option name="profiles">
+              <set />
+            </option>
+            <option name="goals">
+              <list>
+                <option value="clean" />
+                <option value="test" />
+                <option value="-Dgatling.simulationClass=br.com.treinamento.api.simulation.UserSimulation" />
+              </list>
+            </option>
+            <option name="pomFileName" />
+            <option name="profilesMap">
+              <map />
+            </option>
+            <option name="resolveToWorkspace" value="false" />
+            <option name="workingDirPath" value="$PROJECT_DIR$" />
+          </MavenRunnerParameters>
+        </option>
+      </MavenSettings>
+      <method v="2" />
+    </configuration>
+    <configuration default="true" type="TestNG">
       <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
-      <option name="OUTPUT_DIRECTORY" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="TEST_SEARCH_SCOPE">
-        <value defaultName="singleModule" />
-      </option>
-      <option name="USE_DEFAULT_REPORTERS" value="false" />
-      <option name="PROPERTIES_FILE" />
       <properties />
       <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
     </configuration>
   </component>
   <component name="SvnConfiguration">
@@ -243,11 +275,11 @@
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="aecd52fd-baa0-444c-9e24-1045bf934eb1" name="Default" comment="" />
-      <created>1541782192739</created>
+      <changelist id="124cd1d5-c124-41ed-b9fe-26dcc1dd3db7" name="Default Changelist" comment="" />
+      <created>1549989145828</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1541782192739</updated>
+      <updated>1549989145828</updated>
     </task>
     <servers />
   </component>
@@ -255,74 +287,44 @@
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info anchor="right" id="Palette" order="3" />
-      <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="right" id="Palette&#9;" order="3" />
-      <window_info id="Image Layers" order="2" />
-      <window_info anchor="right" id="Capture Analysis" order="3" />
-      <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" />
-      <window_info anchor="right" id="Maven Projects" order="3" />
-      <window_info anchor="bottom" id="Version Control" order="7" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.58278865" />
-      <window_info anchor="bottom" id="Terminal" order="7" />
-      <window_info id="Capture Tool" order="2" />
-      <window_info id="Designer" order="2" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25799572" />
+      <window_info id="Image Layers" />
+      <window_info id="Designer" />
+      <window_info id="UI Designer" />
+      <window_info id="Capture Tool" />
+      <window_info id="Favorites" side_tool="true" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
-      <window_info id="UI Designer" order="2" />
-      <window_info anchor="right" id="Theme Preview" order="3" />
-      <window_info id="Favorites" order="2" side_tool="true" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
-      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
-      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
-      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="bottom" id="Version Control" />
+      <window_info anchor="bottom" id="Terminal" visible="true" weight="0.65330446" />
+      <window_info anchor="bottom" id="Event Log" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.5222102" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
-      <window_info anchor="bottom" id="Find" order="1" weight="0.32897604" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="right" id="Palette" />
+      <window_info anchor="right" id="Theme Preview" />
+      <window_info anchor="right" id="Maven" />
+      <window_info anchor="right" id="Capture Analysis" />
+      <window_info anchor="right" id="Palette&#9;" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
     </layout>
   </component>
-  <component name="VcsContentAnnotationSettings">
-    <option name="myLimit" value="2678400000" />
-  </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/main/resources/gatling.conf" />
-    <entry file="file://$PROJECT_DIR$/src/main/resources/logback.xml" />
-    <entry file="file://$PROJECT_DIR$/src/test/resources/gatling.conf" />
-    <entry file="file://$PROJECT_DIR$/src/test/scala/br/com/gpa/header/HeaderPortal.scala" />
+    <entry file="file://$PROJECT_DIR$/performance-test.iml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
     <entry file="file://$PROJECT_DIR$/pom.xml">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/scala/br/com/gpa/api/eff.scala" />
-    <entry file="file://$PROJECT_DIR$/src/test/resources/bodies/livePrice.json">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="768">
-          <caret line="401" column="1" lean-forward="true" selection-start-line="401" selection-start-column="1" selection-end-line="401" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/resources/bodies/skuLivePrice.json">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/scala/br/com/gpa/api/scriptFile.scala" />
-    <entry file="file://$PROJECT_DIR$/src/test/resources/logback.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="357">
-          <caret line="21" column="16" lean-forward="true" selection-start-line="21" selection-start-column="16" selection-end-line="21" selection-end-column="16" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/scala/br/com/gpa/utils/Config.scala">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="102">
-          <caret line="6" column="1" lean-forward="true" selection-start-line="6" selection-start-column="1" selection-end-line="6" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/scala/br/com/gpa/header/Header.scala">
+    <entry file="file://$PROJECT_DIR$/src/test/scala/IDEPathHelper.scala">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="34">
-          <caret line="2" column="7" selection-start-line="2" selection-start-column="7" selection-end-line="2" selection-end-column="7" />
+          <caret line="4" column="7" selection-start-line="4" selection-start-column="7" selection-end-line="4" selection-end-column="7" />
         </state>
       </provider>
     </entry>
@@ -333,101 +335,69 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/scala/IDEPathHelper.scala">
+    <entry file="file://$PROJECT_DIR$/src/test/scala/br/com/treinamento/header/Header.scala">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/scala/br/com/gpa/api/Products.scala">
+    <entry file="file://$PROJECT_DIR$/src/test/resources/bodies/skuLivePrice.json">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/scala/br/com/gpa/api/simulation/ProductSimulation.scala">
+    <entry file="file://$PROJECT_DIR$/src/test/resources/data/apiUser.csv">
+      <provider selected="true" editor-type-id="csv-text-editor">
+        <state relative-caret-position="85">
+          <caret line="5" column="1" lean-forward="true" selection-start-line="5" selection-start-column="1" selection-end-line="5" selection-end-column="1" />
+        </state>
+      </provider>
+      <provider editor-type-id="csv-table-editor">
+        <state showInfoPanel="true" fixedHeaders="false" rowLines="3" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/resources/bodies/bodyExample.json">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="408">
-          <caret line="24" column="1" lean-forward="true" selection-start-line="24" selection-start-column="1" selection-end-line="24" selection-end-column="1" />
-          <folding>
-            <element signature="e#35#65#0" expanded="true" />
-          </folding>
+        <state>
+          <caret column="2" selection-start-column="2" selection-end-column="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/resources/logback.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="238">
+          <caret line="14" column="22" selection-start-line="14" selection-start-column="22" selection-end-line="14" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/scala/br/com/treinamento/api/User.scala">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.gitignore">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/scala/br/com/treinamento/api/simulation/UserSimulation.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="272">
+          <caret line="20" column="17" lean-forward="true" selection-start-line="20" selection-start-column="17" selection-end-line="20" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/scala/br/com/treinamento/utils/Config.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="7" selection-start-line="2" selection-start-column="7" selection-end-line="2" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="8" column="3" lean-forward="true" selection-start-line="8" selection-start-column="3" selection-end-line="8" selection-end-column="3" />
         </state>
       </provider>
     </entry>
   </component>
   <component name="masterDetails">
     <states>
-      <state key="ArtifactsStructureConfigurable.UI">
-        <settings>
-          <artifact-editor />
-          <splitter-proportions>
-            <option name="proportions">
-              <list>
-                <option value="0.2" />
-              </list>
-            </option>
-          </splitter-proportions>
-        </settings>
-      </state>
-      <state key="FacetStructureConfigurable.UI">
-        <settings>
-          <last-edited>No facets are configured</last-edited>
-          <splitter-proportions>
-            <option name="proportions">
-              <list>
-                <option value="0.2" />
-              </list>
-            </option>
-          </splitter-proportions>
-        </settings>
-      </state>
-      <state key="GlobalLibrariesConfigurable.UI">
-        <settings>
-          <last-edited>scala-sdk-2.11.11</last-edited>
-          <splitter-proportions>
-            <option name="proportions">
-              <list>
-                <option value="0.2" />
-              </list>
-            </option>
-          </splitter-proportions>
-        </settings>
-      </state>
-      <state key="JdkListConfigurable.UI">
-        <settings>
-          <last-edited>1.8</last-edited>
-          <splitter-proportions>
-            <option name="proportions">
-              <list>
-                <option value="0.2" />
-              </list>
-            </option>
-          </splitter-proportions>
-        </settings>
-      </state>
-      <state key="ModuleStructureConfigurable.UI">
-        <settings>
-          <last-edited>automacao-gatling</last-edited>
-          <splitter-proportions>
-            <option name="proportions">
-              <list>
-                <option value="0.2" />
-                <option value="0.6" />
-              </list>
-            </option>
-          </splitter-proportions>
-        </settings>
-      </state>
       <state key="ProjectJDKs.UI">
         <settings>
           <last-edited>1.8</last-edited>
-          <splitter-proportions>
-            <option name="proportions">
-              <list>
-                <option value="0.2" />
-              </list>
-            </option>
-          </splitter-proportions>
-        </settings>
-      </state>
-      <state key="ProjectLibrariesConfigurable.UI">
-        <settings>
-          <last-edited>Maven: ch.qos.logback:logback-classic:1.1.7</last-edited>
           <splitter-proportions>
             <option name="proportions">
               <list>

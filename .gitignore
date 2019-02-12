@@ -1,0 +1,10 @@
+target
+.idea
+.settings
+.classpath
+.project
+.vscode
+docker/cache
+docker/grafana/plugins
+docker/grafana/data/sessions
+results
