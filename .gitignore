@@ -4,6 +4,7 @@ target
 .classpath
 .project
 .vscode
+.iml
 docker/cache
 docker/grafana/plugins
 docker/grafana/data/sessions

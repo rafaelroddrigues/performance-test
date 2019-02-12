@@ -2,70 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="124cd1d5-c124-41ed-b9fe-26dcc1dd3db7" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/test/resources/bodies/bodyExample.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/hydra.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/uiDesigner.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/performance-test-gpa.iml" beforeDir="false" afterPath="$PROJECT_DIR$/performance-test.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/resources/bodies/livePrice.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/resources/bodies/skuLivePrice.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/resources/logback.xml" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/resources/logback.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/scala/br/com/gpa/api/Products.scala" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/scala/br/com/treinamento/api/User.scala" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/scala/br/com/gpa/api/simulation/ProductSimulation.scala" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/scala/br/com/treinamento/api/simulation/UserSimulation.scala" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/scala/br/com/gpa/header/Header.scala" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/scala/br/com/treinamento/header/Header.scala" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/scala/br/com/gpa/utils/Config.scala" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/scala/br/com/treinamento/utils/Config.scala" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/gatling/productsimulation-1541794598533/index.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/gatling/productsimulation-1541794598533/js/all_sessions.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/gatling/productsimulation-1541794598533/js/assertions.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/gatling/productsimulation-1541794598533/js/assertions.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/gatling/productsimulation-1541794598533/js/bootstrap.min.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/gatling/productsimulation-1541794598533/js/gatling.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/gatling/productsimulation-1541794598533/js/global_stats.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/gatling/productsimulation-1541794598533/js/highcharts-more.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/gatling/productsimulation-1541794598533/js/highstock.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/gatling/productsimulation-1541794598533/js/jquery.min.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/gatling/productsimulation-1541794598533/js/menu.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/gatling/productsimulation-1541794598533/js/moment.min.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/gatling/productsimulation-1541794598533/js/stats.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/gatling/productsimulation-1541794598533/js/stats.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/gatling/productsimulation-1541794598533/js/theme.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/gatling/productsimulation-1541794598533/js/unpack.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/gatling/productsimulation-1541794598533/req_live-price-8893e.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/gatling/productsimulation-1541794598533/simulation.log" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/gatling/productsimulation-1541794598533/style/arrow_down.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/gatling/productsimulation-1541794598533/style/arrow_down_black.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/gatling/productsimulation-1541794598533/style/arrow_right.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/gatling/productsimulation-1541794598533/style/arrow_right_black.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/gatling/productsimulation-1541794598533/style/bootstrap.min.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/gatling/productsimulation-1541794598533/style/cible.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/gatling/productsimulation-1541794598533/style/favicon.ico" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/gatling/productsimulation-1541794598533/style/fond-degrade.gif" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/gatling/productsimulation-1541794598533/style/fond-lueur.gif" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/gatling/productsimulation-1541794598533/style/little_arrow_right.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/gatling/productsimulation-1541794598533/style/logo-gatling.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/gatling/productsimulation-1541794598533/style/logo.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/gatling/productsimulation-1541794598533/style/sortable.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/gatling/productsimulation-1541794598533/style/sorted-down.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/gatling/productsimulation-1541794598533/style/sorted-up.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/gatling/productsimulation-1541794598533/style/stat-fleche-bas.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/gatling/productsimulation-1541794598533/style/stat-fond.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/gatling/productsimulation-1541794598533/style/stat-l-roue.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/gatling/productsimulation-1541794598533/style/stat-l-temps.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/gatling/productsimulation-1541794598533/style/style.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/bodies/livePrice.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/bodies/skuLivePrice.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/br/com/gpa/api/simulation/ProductSimulation.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/br/com/gpa/header/Header$.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/br/com/gpa/header/Header.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/br/com/gpa/utils/Config$.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/br/com/gpa/utils/Config.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/br/com/lojasrenner/portal/api/Products$.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/br/com/lojasrenner/portal/api/Products.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/logback.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/logback.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/zincCache" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/zincCache" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -77,12 +15,8 @@
   <component name="FileEditorManager">
     <leaf>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/README.md">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="136">
-              <caret line="8" column="3" lean-forward="true" selection-start-line="8" selection-start-column="3" selection-end-line="8" selection-end-column="3" />
-            </state>
-          </provider>
+        <entry file="file://$PROJECT_DIR$/.gitignore">
+          <provider selected="true" editor-type-id="text-editor" />
         </entry>
       </file>
     </leaf>
@@ -102,6 +36,7 @@
         <option value="$PROJECT_DIR$/src/test/scala/br/com/treinamento/api/User.scala" />
         <option value="$PROJECT_DIR$/src/test/scala/br/com/treinamento/api/simulation/UserSimulation.scala" />
         <option value="$PROJECT_DIR$/README.md" />
+        <option value="$PROJECT_DIR$/.gitignore" />
       </list>
     </option>
   </component>
@@ -132,39 +67,6 @@
               <item name="automacao-gatling" type="b2602c69:ProjectViewProjectNode" />
               <item name="performance-test" type="462c0819:PsiDirectoryNode" />
             </path>
-            <path>
-              <item name="automacao-gatling" type="b2602c69:ProjectViewProjectNode" />
-              <item name="performance-test" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="automacao-gatling" type="b2602c69:ProjectViewProjectNode" />
-              <item name="performance-test" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="test" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="automacao-gatling" type="b2602c69:ProjectViewProjectNode" />
-              <item name="performance-test" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="test" type="462c0819:PsiDirectoryNode" />
-              <item name="resources" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="automacao-gatling" type="b2602c69:ProjectViewProjectNode" />
-              <item name="performance-test" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="test" type="462c0819:PsiDirectoryNode" />
-              <item name="scala" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="automacao-gatling" type="b2602c69:ProjectViewProjectNode" />
-              <item name="performance-test" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="test" type="462c0819:PsiDirectoryNode" />
-              <item name="scala" type="462c0819:PsiDirectoryNode" />
-              <item name="treinamento" type="462c0819:PsiDirectoryNode" />
-            </path>
           </expand>
           <select />
         </subPane>
@@ -172,7 +74,7 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1549993960865" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1549994156891" />
     <property name="settings.editor.selected.configurable" value="reference.settingsdialog.project.gradle" />
   </component>
   <component name="RecentsManager">
@@ -315,9 +217,6 @@
     </layout>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/performance-test.iml">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
     <entry file="file://$PROJECT_DIR$/pom.xml">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
@@ -368,16 +267,6 @@
     <entry file="file://$PROJECT_DIR$/src/test/scala/br/com/treinamento/api/User.scala">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/.gitignore">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/scala/br/com/treinamento/api/simulation/UserSimulation.scala">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="272">
-          <caret line="20" column="17" lean-forward="true" selection-start-line="20" selection-start-column="17" selection-end-line="20" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/test/scala/br/com/treinamento/utils/Config.scala">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="34">
@@ -391,6 +280,19 @@
           <caret line="8" column="3" lean-forward="true" selection-start-line="8" selection-start-column="3" selection-end-line="8" selection-end-column="3" />
         </state>
       </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/performance-test.iml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/scala/br/com/treinamento/api/simulation/UserSimulation.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-204">
+          <caret lean-forward="true" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.gitignore">
+      <provider selected="true" editor-type-id="text-editor" />
     </entry>
   </component>
   <component name="masterDetails">
